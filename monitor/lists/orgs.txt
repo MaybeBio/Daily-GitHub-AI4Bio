@@ -1,0 +1,19 @@
+# SOP_for_AI4Bio_Research/Gh_ProteinStruct_AI_Follow/orgs.txt
+kiharalab
+honig-lab
+ai4protein
+GENTEL-lab
+steineggerlab
+biomed-AI
+BioComputingUP
+ProteinDesignLab
+sparks-lab-org
+baker-laboratory
+Graylab
+isblab
+THGLab
+idptools
+holehouse-lab
+Pappulab
+KULL-Centre
+aqlaboratory
