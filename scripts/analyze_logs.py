@@ -7,8 +7,8 @@ Reports:
   3. Most active repos by pushes / forks / issues / merged PRs
 
 Usage:
-    python3 scripts/analyze_logs.py monitor/users/*/*/*/*.txt
-    python3 scripts/analyze_logs.py --top 15 monitor/orgs/*/*/*/*.txt
+    python3 scripts/analyze_logs.py monitor/users/*/*/*.txt
+    python3 scripts/analyze_logs.py --top 15 monitor/orgs/*/*/*.txt
     python3 scripts/analyze_logs.py --top 10 monitor/users/2026/08/13.txt
 """
 import argparse

@@ -1,0 +1,52 @@
+name: weekly-discovery
+
+on:
+  schedule:
+    # 00:10 UTC 周一 = 08:10 北京时间周一早上，每周一期主题仓库榜单
+    - cron: '10 0 * * 1'
+  workflow_dispatch:
+
+concurrency:
+  group: weekly-discovery
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  TZ: Asia/Shanghai
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ghresearcher
+        run: pip install ghresearcher==0.1.0
+
+      - name: Discover topic repos
+        run: |
+          mkdir -p "discovery/weekly/$(date +%Y/%m)"
+          ghresearcher search --config discovery/queries/topic.yaml \
+            > "discovery/weekly/$(date +%Y/%m/%d).txt" || true
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes, skip commit."
+          else
+            git commit -m "weekly discovery update $(date +%F)"
+            git pull --rebase
+            git push
+          fi
