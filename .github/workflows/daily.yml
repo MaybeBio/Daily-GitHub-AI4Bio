@@ -3,7 +3,7 @@ name: daily-follow
 on:
   schedule:
     # 00:10 UTC = 08:10 北京时间，每天早上 8 点 10 分处理
-    - cron: '10 0 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -47,7 +47,7 @@ jobs:
             > "monitor/orgs/$Y/$M/$(date +%d).txt" || true
 
           # 关注用户的信息流
-          ghresearcher monitor -f monitor/lists/users_core.txt --since "$SINCE" -r --expand-commits -l 15 \
+          ghresearcher monitor -f monitor/lists/users_core.txt --since "$SINCE" -r --expand-commits -l 30 \
             > "monitor/received/$Y/$M/$(date +%d).txt" || true
 
       - name: Commit and push
