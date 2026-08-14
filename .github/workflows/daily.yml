@@ -2,7 +2,7 @@ name: daily-follow
 
 on:
   schedule:
-    # 00:10 UTC = 08:10 北京时间，每天早上 8 点 10 分处理
+    # 00:00 UTC = 08:00 北京时间，每天早上 8 点 00 分处理
     - cron: '0 0 * * *'
   workflow_dispatch:
 
