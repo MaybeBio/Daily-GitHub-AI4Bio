@@ -2,8 +2,8 @@ name: daily-follow
 
 on:
   schedule:
-    # 00:00 UTC = 08:00 北京时间，每天早上 8 点 00 分处理
-    - cron: '0 0 * * *'
+    # 临时测试：每 5 分钟触发一次，验证 schedule 机制是否生效
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 concurrency:
