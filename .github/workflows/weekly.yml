@@ -1,9 +1,7 @@
 name: weekly-discovery
 
+# 由外部定时器（Cron-job.org）触发，替代 GitHub schedule（该仓库 schedule 不生效）
 on:
-  schedule:
-    # 00:00 UTC 周一 = 08:00 北京时间周一早上，每周一期主题仓库榜单
-    - cron: '0 0 * * 1'
   workflow_dispatch:
 
 concurrency:

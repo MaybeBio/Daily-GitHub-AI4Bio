@@ -1,9 +1,7 @@
 name: daily-follow
 
+# 由外部定时器（Cron-job.org）触发，替代 GitHub schedule（该仓库 schedule 不生效）
 on:
-  schedule:
-    # 00:00 UTC = 08:00 北京时间，每天早上 8 点 00 分处理
-    - cron: '0 0 * * *'
   workflow_dispatch:
 
 concurrency:
