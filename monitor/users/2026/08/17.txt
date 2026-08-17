@@ -1,0 +1,23 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, 
+sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, 
+Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, 
+mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, lujiarui, 
+ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, 
+amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, 
+pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, 
+yangnianzu0515, chao1224, blt2114...
+
+2026-08-17 04:03:40 | 🚀 Shenggan pushed to Shenggan/pypto-ccfusion
+    - [9e34073] (expanded) update benchmark results with new accurate benchmark 
+method
+2026-08-16 20:45:28 | ⭐️ sirius777coder starred deepseek-ai/deepseek-harness
+2026-08-16 15:54:46 | 💬 tyang816 created issue 'Improve catalog quality and 
+maintenance automation' in tyang816/Awesome-TCM-LLM
+2026-08-16 15:47:12 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [dd5b4ee] (expanded) Update README and scripts for improved TCM resource 
+organization and accessibility
+2026-08-16 15:39:15 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [b028ea3] (expanded) Update documentation and enhance resource 
+organization for TCM
+2026-08-16 12:27:44 | ⭐️ mingchen-li starred cordiverse/cordis
+2026-08-16 05:53:11 | 🍴 alexholehouse forked protein-nmr/CheSPI
