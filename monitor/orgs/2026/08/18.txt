@@ -1,0 +1,98 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, 
+steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, 
+baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, 
+KULL-Centre, aqlaboratory...
+
+2026-08-18 06:52:03 | 💬 siyuanj created issue 'Multimer templates inference by 
+unmasking' in aqlaboratory/openfold-3
+2026-08-18 05:22:42 | 💬 jolespin created issue '(Question) - Recommended 
+parameters for species-level taxonomy classifications from full length 16S rRNA'
+in steineggerlab/riboseek
+2026-08-18 03:31:38 | 🆕 ryanemenecker created branch 
+'v2_final_for_real_final_final' at idptools/dodo
+2026-08-18 03:28:29 | ⭐️ m-westberg starred ProteinDesignLab/dEVA
+2026-08-18 03:17:29 | 🚀 ryanemenecker pushed to idptools/dodo
+    - [1bd04dd] (expanded) finally finished backbone
+2026-08-18 02:54:24 | 🚀 ryanemenecker pushed to idptools/dodo
+    - [f31b492] (expanded) speed improvements for backbone building and update 
+to readme
+2026-08-17 23:55:13 | ⭐️ HatPdotS starred aqlaboratory/openfold-3
+2026-08-17 22:33:19 | 🚀 MichaelChungyoun pushed to Graylab/FLAb
+    - [e05e3f0] (expanded) Fix sort direction for jetha and kraft datasets in 
+aggregation README
+2026-08-17 22:25:55 | 🔹 jlotthammer performed DeleteEvent on idptools/starling
+2026-08-17 22:25:49 | 🚀 jlotthammer pushed to idptools/starling
+    - [4b98d2f] (expanded) Merge pull request #13 from 
+idptools/docs-fix/remove-models-continuous-diffusion
+2026-08-17 22:25:48 | 🔀 alexholehouse merged PR in idptools/starling
+2026-08-17 21:44:12 | 🚀 enoee pushed to 
+KULL-Centre/_2026_Pedersen_HPRT_activity
+    - [93f15bf] (expanded) Update README.md
+2026-08-17 21:44:01 | 🔹 jnwei performed DeleteEvent on aqlaboratory/openfold-3
+2026-08-17 21:44:00 | 🐛 jnwei closed issue in aqlaboratory/openfold-3: '[BUG] 
+Precomputed paired MSAs are dropped at inference'
+2026-08-17 21:43:59 | 🔀 jnwei merged PR in aqlaboratory/openfold-3
+2026-08-17 21:43:59 | 🚀 jnwei pushed to aqlaboratory/openfold-3
+    - [72fc3a9] (expanded) Merge pull request #373 from 
+aqlaboratory/feature/issue-371-fix-paired-msas
+2026-08-17 21:37:47 | 🚀 enoee pushed to 
+KULL-Centre/_2026_Pedersen_HPRT_activity
+    - [349ffb7] (expanded) Update README.md
+2026-08-17 21:36:27 | 🚀 enoee pushed to 
+KULL-Centre/_2026_Pedersen_HPRT_activity
+    - [d84f921] (expanded) Add files via upload
+2026-08-17 21:21:49 | 🚀 ryanemenecker pushed to idptools/dodo
+    - [d6f3a5f] (expanded) continued work on speeding up backbone generation
+2026-08-17 20:54:52 | 🔹 jnwei performed PullRequestReviewEvent on 
+aqlaboratory/openfold-3
+2026-08-17 20:54:49 | 🔹 jnwei performed PullRequestReviewCommentEvent on 
+aqlaboratory/openfold-3
+2026-08-17 20:53:41 | 🔹 jnwei performed PullRequestReviewEvent on 
+aqlaboratory/openfold-3
+2026-08-17 20:53:39 | 🔹 jnwei performed PullRequestReviewCommentEvent on 
+aqlaboratory/openfold-3
+2026-08-17 20:20:07 | 💬 Tanokri02 created issue 'Fix lowercase atom name 
+encoding' in aqlaboratory/openfold-3
+2026-08-17 19:45:57 | 🚀 muskaan9jindal pushed to isblab/micos
+    - [b0f4565] (expanded) Add AF3 input, updated MSA, removed seq sim scripts 
+for consurf plot
+2026-08-17 19:17:00 | 🐛 pskvins closed issue in steineggerlab/riboseek: 
+'(Question) - Recommended parameters for species-level taxonomy classifications 
+from full length 16S rRNA'
+2026-08-17 19:16:59 | 💬 pskvins created issue '(Question) - Recommended 
+parameters for species-level taxonomy classifications from full length 16S rRNA'
+in steineggerlab/riboseek
+2026-08-17 18:21:00 | 🔹 jandom performed PullRequestReviewEvent on 
+aqlaboratory/openfold-3
+2026-08-17 18:20:58 | 🔀 jnwei labeled PR in aqlaboratory/openfold-3
+2026-08-17 18:20:35 | 🔹 jandom performed PullRequestReviewCommentEvent on 
+aqlaboratory/openfold-3
+2026-08-17 18:19:34 | 🔹 jandom performed PullRequestReviewCommentEvent on 
+aqlaboratory/openfold-3
+2026-08-17 18:18:43 | 🔹 jandom performed PullRequestReviewCommentEvent on 
+aqlaboratory/openfold-3
+2026-08-17 18:17:19 | ⭐️ maria-zahid starred steineggerlab/folddisco
+2026-08-17 18:14:47 | 🔹 jandom performed PullRequestReviewCommentEvent on 
+aqlaboratory/openfold-3
+2026-08-17 18:10:19 | 💬 jnwei created issue '[BUG] Precomputed paired MSAs are 
+dropped at inference' in aqlaboratory/openfold-3
+2026-08-17 18:09:38 | 🔀 jnwei opened PR in aqlaboratory/openfold-3
+2026-08-17 18:00:53 | ⭐️ vivarock233-byte starred GENTEL-lab/EnzymeCAGE
+2026-08-17 17:57:13 | 🐛 jnwei unlabeled issue in aqlaboratory/openfold-3: 
+'[BUG] Precomputed paired MSAs are dropped at inference'
+2026-08-17 17:57:11 | 🆕 jnwei created branch 
+'feature/issue-371-fix-paired-msas' at aqlaboratory/openfold-3
+2026-08-17 17:56:12 | ⭐️ walidsh99 starred THGLab/CAFE
+2026-08-17 16:40:24 | 💬 Tanokri02 created issue 'Fix lowercase atom name 
+encoding' in aqlaboratory/openfold-3
+2026-08-17 16:26:53 | ⭐️ Tanokri02 starred aqlaboratory/openfold-3
+2026-08-17 16:09:42 | 🚀 iyasuda pushed to KULL-Centre/_2026_yasuda_dsNA
+    - [edc6afe] (expanded) Fixed README.md
+2026-08-17 16:06:39 | 🚀 iyasuda pushed to KULL-Centre/_2026_yasuda_dsNA
+    - [baedd3d] (expanded) Add code/, figure/ and environment.yml
+2026-08-17 14:22:42 | ⭐️ kkkkk001 starred biomed-AI/ProTact
+2026-08-17 12:58:04 | 🍴 aman0908nitk forked Graylab/DL4Proteins-notebooks
+2026-08-17 12:57:32 | 🍴 jingweio forked biomed-AI/H3-DDG
+2026-08-17 12:25:27 | ⭐️ xpf10 starred aqlaboratory/openfold-3
+2026-08-17 08:16:56 | ⭐️ miangoar starred steineggerlab/riboseek
+2026-08-17 04:38:31 | ⭐️ Jjx003 starred Graylab/DL4Proteins-notebooks
