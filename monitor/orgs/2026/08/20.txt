@@ -1,0 +1,114 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, 
+steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, 
+baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, 
+KULL-Centre, aqlaboratory...
+
+2026-08-20 04:00:12 | 💬 jandom created issue 'fix: fail on unknown molecule 
+types' in aqlaboratory/openfold-3
+2026-08-20 03:20:15 | 🚀 nibtehaz pushed to kiharalab/Prot-LAMBDA
+    - [4b857a5] (expanded) Update README formatting and license section
+2026-08-20 02:48:59 | ⭐️ maushev starred baker-laboratory/RoseTTAFold-All-Atom
+2026-08-20 02:27:26 | ⭐️ maushev starred baker-laboratory/rf_diffusion_all_atom
+2026-08-20 01:48:09 | 🚀 ryanemenecker pushed to idptools/dodo
+    - [e81004a] (expanded) major updates and reduction of code bloat. pushing 
+before playing with the alpha carbon generation approach as that might cause... 
+isues
+2026-08-20 01:25:52 | 💬 YashBhardwaj21 created issue 'fix: fail on unknown 
+molecule types' in aqlaboratory/openfold-3
+2026-08-20 00:16:27 | 🆕 aakashsahha created branch 'slim_AS' at 
+honig-lab/PrePPI_SLiM
+2026-08-19 23:19:40 | 🚀 muskaan9jindal pushed to isblab/micos
+    - [80e0dcd] (expanded) update scripts
+2026-08-19 22:40:35 | 🚀 nibtehaz pushed to kiharalab/Prot-LAMBDA
+    - [004d378] (expanded) Revise citation in README for Prot-LAMBDA
+2026-08-19 22:35:34 | 🚀 nibtehaz pushed to kiharalab/Prot-LAMBDA
+    - [1a32208] (expanded) Update model parameters download link in README
+2026-08-19 21:18:05 | 🔹 sooyoung-cha performed PullRequestReviewEvent on 
+steineggerlab/foldseek
+2026-08-19 21:18:02 | 🔹 sooyoung-cha performed PullRequestReviewCommentEvent on
+steineggerlab/foldseek
+2026-08-19 21:17:48 | 🔹 sooyoung-cha performed PullRequestReviewEvent on 
+steineggerlab/foldseek
+2026-08-19 21:17:46 | 🔹 sooyoung-cha performed PullRequestReviewCommentEvent on
+steineggerlab/foldseek
+2026-08-19 21:17:35 | 🔹 sooyoung-cha performed PullRequestReviewEvent on 
+steineggerlab/foldseek
+2026-08-19 21:17:32 | 🔹 sooyoung-cha performed PullRequestReviewCommentEvent on
+steineggerlab/foldseek
+2026-08-19 21:08:34 | 🚀 nibtehaz pushed to kiharalab/Prot-LAMBDA
+    - [2fc5fcf] (expanded) Modify README
+2026-08-19 21:07:18 | 🚀 nibtehaz pushed to kiharalab/Prot-LAMBDA
+    - [6e16900] (expanded) v1 release
+2026-08-19 21:04:00 | 🆕 nibtehaz created branch 'main' at kiharalab/Prot-LAMBDA
+2026-08-19 21:04:00 | 🔹 kiharalab performed MemberEvent on 
+kiharalab/Prot-LAMBDA
+2026-08-19 20:52:48 | ⭐️ luwei0917 starred ai4protein/VenusREM
+2026-08-19 19:40:50 | 🔹 milot-mirdita performed PullRequestReviewEvent on 
+steineggerlab/foldseek
+2026-08-19 19:40:48 | 🔹 milot-mirdita performed PullRequestReviewCommentEvent 
+on steineggerlab/foldseek
+2026-08-19 19:40:03 | 🔹 milot-mirdita performed PullRequestReviewEvent on 
+steineggerlab/foldseek
+2026-08-19 19:40:01 | 🔹 milot-mirdita performed PullRequestReviewCommentEvent 
+on steineggerlab/foldseek
+2026-08-19 19:36:58 | 🔹 milot-mirdita performed PullRequestReviewEvent on 
+steineggerlab/foldseek
+2026-08-19 19:36:57 | 🔹 milot-mirdita performed PullRequestReviewCommentEvent 
+on steineggerlab/foldseek
+2026-08-19 17:43:16 | 🚀 muskaan9jindal pushed to isblab/micos
+    - [b8faba3] (expanded) update AF runs
+2026-08-19 16:38:21 | 🚀 muskaan9jindal pushed to isblab/micos
+    - [9fe328e] (expanded) Update topology and initialize the HM with bild
+2026-08-19 16:23:07 | 🚀 stefdecastro pushed to THGLab/IDPForge
+    - [a12c284] (expanded) Merge pull request #10 from stefdecastro/main
+2026-08-19 16:23:06 | 🔀 stefdecastro merged PR in THGLab/IDPForge
+2026-08-19 16:22:11 | 🔀 stefdecastro opened PR in THGLab/IDPForge
+2026-08-19 16:05:35 | ⭐️ Ci-TJ starred steineggerlab/riboseek
+2026-08-19 15:33:13 | 🚀 pskvins pushed to steineggerlab/riboseek
+    - [eba085c] (expanded) Merge pull request #12 from 
+murfalo/fix-profile-bias-size
+2026-08-19 15:33:12 | 🔀 murfalo merged PR in steineggerlab/riboseek
+2026-08-19 15:32:57 | 💬 pskvins created issue 'Global profile bias correction 
+updates only 20 of 24 Riboseek entries' in steineggerlab/riboseek
+2026-08-19 15:32:57 | 🐛 pskvins closed issue in steineggerlab/riboseek: 'Global
+profile bias correction updates only 20 of 24 Riboseek entries'
+2026-08-19 15:04:14 | 🐛 pskvins closed issue in steineggerlab/riboseek: 
+'`dinuc.out` background frequencies and probabilities inconsistent'
+2026-08-19 15:04:02 | 🚀 pskvins pushed to steineggerlab/riboseek
+    - [9cf2af5] (expanded) Merge pull request #10 from murfalo/main
+2026-08-19 15:04:01 | 🔀 murfalo merged PR in steineggerlab/riboseek
+2026-08-19 15:03:31 | 🐛 pskvins closed issue in steineggerlab/riboseek: 
+'Uninitialized read in Riboseek PSSM pseudocount calculation'
+2026-08-19 15:03:30 | 💬 pskvins created issue 'Uninitialized read in Riboseek 
+PSSM pseudocount calculation' in steineggerlab/riboseek
+2026-08-19 13:44:43 | ⭐️ wderekjones starred THGLab/HiQBind
+2026-08-19 13:06:47 | 🍴 ButterLatte025 forked THGLab/BioEdaDatabase
+2026-08-19 13:04:05 | 🔹 LunaJang performed GollumEvent on 
+steineggerlab/foldseek
+2026-08-19 12:27:31 | 🚀 sooyoung-cha pushed to steineggerlab/foldseek
+    - [1847881] (expanded) Add submodule StrucTTY (#579)
+2026-08-19 12:27:30 | 🔀 LunaJang merged PR in steineggerlab/foldseek
+2026-08-19 11:40:07 | 🔀 murfalo opened PR in steineggerlab/riboseek
+2026-08-19 11:38:23 | 🐛 murfalo opened issue in steineggerlab/riboseek: 'Global
+profile bias correction updates only 20 of 24 Riboseek entries'
+2026-08-19 11:09:43 | ⭐️ Ofalp starred ai4protein/Venus-MAXWELL
+2026-08-19 11:06:39 | 🚀 LunaJang pushed to steineggerlab/StrucTTY
+    - [c50e08f] (expanded) docs: pair the hit navigation commands with the 
+recording
+2026-08-19 10:54:41 | ⭐️ lorcai starred steineggerlab/StrucTTY
+2026-08-19 10:51:54 | 🍴 Peng2555 forked ai4protein/Venus-MAXWELL
+2026-08-19 10:33:42 | 🚀 LunaJang pushed to steineggerlab/StrucTTY
+    - [f45e1bf] (expanded) fix: label the superposition method apart from the 
+colour source
+2026-08-19 10:33:35 | ⭐️ shuang4006 starred THGLab/CAFE
+2026-08-19 10:19:40 | 🚀 github-actions pushed to ai4protein/.github
+    - [1d1de25] (expanded) 🔄 Auto-update GitHub & Hugging Face stats
+2026-08-19 09:55:41 | 🚀 ryanemenecker pushed to idptools/dodo
+    - [934de0a] (expanded) final push after testing on entire human proteome for
+rebuilds. At 56 fails out of 23,587 structures attempted. Good enough for first 
+V2 release. Will merge to main tomorrow
+2026-08-19 09:27:56 | ⭐️ ABHCI15 starred aqlaboratory/genie3
+2026-08-19 02:39:32 | ⭐️ nucloid1 starred ai4protein/VenusFold
+2026-08-19 02:24:28 | ⭐️ YuzuruTK starred ProteinDesignLab/protpardelle
+2026-08-19 02:00:28 | 🚀 ryanemenecker pushed to idptools/dodo
+    - [1387315] (expanded) clean up codeabase a bit
