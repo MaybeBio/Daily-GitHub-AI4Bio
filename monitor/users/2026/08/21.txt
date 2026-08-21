@@ -1,0 +1,42 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, 
+sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, 
+Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, 
+mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, 
+lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, 
+xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster,
+zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan,
+yangnianzu0515, chao1224, blt2114...
+
+2026-08-21 02:56:20 | 💬 blt2114 created issue 'Submission of MotifBench results
+for RFDiffusion3' in blt2114/MotifBench
+2026-08-21 02:48:16 | 💬 blt2114 created issue '[BUG] virtual atoms inherit 
+`is_motif_atom_with_fixed_coord` after duplication' in RosettaCommons/foundry
+2026-08-20 22:31:30 | 🚀 riacd pushed to riacd/BioChemT5
+    - [a5a3790] (expanded) Sync benchmark and model updates
+2026-08-20 22:30:28 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [8cd773b] (expanded) Style job market note and trigger Pages
+2026-08-20 22:21:49 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [513340e] (expanded) Add job market note to homepage
+2026-08-20 22:13:32 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [8dbc925] (expanded) Group services by role
+2026-08-20 21:46:14 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [5cb428d] (expanded) Update Cornell position and services
+2026-08-20 21:15:27 | 🚀 alexholehouse pushed to holehouse-lab/supportingdata
+    - [34587b6] (expanded) Updated delrosso_suzuki_et_al to be 2026
+2026-08-20 17:59:39 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [e4552de] (expanded) Enhance responsive design and improve accessibility 
+across various components
+2026-08-20 16:52:44 | ⭐️ EDAPINENUT starred 
+yuchengchai404-sketch/personal-world-model-harness
+2026-08-20 16:04:23 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [0ed4bfa] (expanded) Add favicon and enhance 404 page handling
+2026-08-20 15:44:05 | 🚀 AspirinCode pushed to 
+AspirinCode/papers-for-molecular-design-using-DL
+    - [9e0b89d] (expanded) Update README.md
+2026-08-20 11:31:38 | 🚀 AspirinCode pushed to 
+AspirinCode/awesome-AI4MolConformation-MD
+    - [703a21d] (expanded) Update README.md
+2026-08-20 09:23:52 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-08-20 09:23:17 | 🆕 Leo-T-Zang created branch 'four-fill-scoring' at 
+MarksLab-DasLab/RNAGym
+2026-08-20 00:36:47 | ⭐️ Zuricho starred LongxingLab/metalloprotease
