@@ -1,0 +1,54 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, 
+sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, 
+Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, 
+mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, 
+lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, 
+xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster,
+zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan,
+yangnianzu0515, chao1224, blt2114...
+
+2026-08-22 08:09:52 | 💬 blt2114 created issue 'Submission of MotifBench results
+for RFDiffusion3' in blt2114/MotifBench
+2026-08-22 06:18:18 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [9de0363] (expanded) Add JCIM MOF publication
+2026-08-22 04:47:10 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [71c59bc] (expanded) Add Science Advances publication
+2026-08-22 03:09:14 | 🚀 alexholehouse pushed to idptools/starling
+    - [9e6c637] (expanded) Updated changelog and fixed weights bug that 
+prevented fully airgapped execution
+2026-08-21 23:09:09 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [dd98ff3] (expanded) Fail loudly when the default paths cannot deliver 
+what is published
+2026-08-21 22:33:59 | 🚀 Shenggan pushed to Shenggan/helion-ascend
+    - [c899eea] (expanded) add triton dump and docs for ascend support docs
+2026-08-21 22:00:41 | 🍴 Shenggan forked pytorch/helion
+2026-08-21 16:34:55 | ⭐️ QizhiPei starred OpenMOSS/SWE-bench-Science
+2026-08-21 15:07:32 | ⭐️ AspirinCode starred paean-ai/deeptide
+2026-08-21 11:00:09 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [db9964d] (expanded) Describe the AUC and MCC binarisation precisely
+2026-08-21 10:54:06 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [0e25e3e] (expanded) Report AUC and MCC with their direction as well
+2026-08-21 08:15:00 | 🚀 thematrixmaster pushed to thematrixmaster/evo
+    - [b26a38c] (expanded) Point the ESMFold2 oracle at the relocated venv
+2026-08-21 06:53:35 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [435ded8] (expanded) Resolve the masked models to the fill the leaderboard
+publishes
+2026-08-21 06:27:44 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [fe86f36] (expanded) Pin the signed Spearman and correct the metric 
+description
+2026-08-21 06:15:42 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [7a6250d] (expanded) Report the signed Spearman in performance_fitness.py
+2026-08-21 06:11:13 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [b2b4be3] (expanded) Say which rows analyze_fill_strategies.py reproduces
+2026-08-21 06:05:11 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [b28e786] (expanded) List every AIDO.RNA checkpoint on the leaderboard 
+itself
+2026-08-21 06:02:02 | 🚀 thematrixmaster pushed to thematrixmaster/evo
+    - [e10b0da] (expanded) Refuse a transition line with more branch lengths 
+than chains
+2026-08-21 05:07:19 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [ca3508a] (expanded) Correct what performance_fitness.py reproduces
+2026-08-21 02:56:20 | 💬 blt2114 created issue 'Submission of MotifBench results
+for RFDiffusion3' in blt2114/MotifBench
+2026-08-21 02:48:16 | 💬 blt2114 created issue '[BUG] virtual atoms inherit 
+`is_motif_atom_with_fixed_coord` after duplication' in RosettaCommons/foundry

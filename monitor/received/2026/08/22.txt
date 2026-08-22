@@ -1,0 +1,33 @@
+Fetching events for target(s): Junjie-Zhu...
+
+2026-08-22 01:27:09 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [ba3076b] (expanded) Merge branch 'main' into develop
+2026-08-22 01:22:08 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [1e7f403] (expanded) Update build.py
+2026-08-22 00:52:31 | 🚀 gitesei pushed to KULL-Centre/CALVADOS
+    - [c16f59a] (expanded) Merge pull request #55 from KULL-Centre/slab_orient
+2026-08-22 00:52:30 | 🔀 sobuelow merged PR in KULL-Centre/CALVADOS
+2026-08-22 00:52:22 | 🔹 gitesei performed PullRequestReviewEvent on 
+KULL-Centre/CALVADOS
+2026-08-22 00:13:54 | 🆕 sobuelow created branch 'develop' at 
+KULL-Centre/CALVADOS
+2026-08-21 21:26:38 | 🔀 sobuelow opened PR in KULL-Centre/CALVADOS
+2026-08-21 21:23:46 | 🔹 sobuelow performed DeleteEvent on KULL-Centre/CALVADOS
+2026-08-21 21:23:18 | 🔹 sobuelow performed DeleteEvent on KULL-Centre/CALVADOS
+2026-08-21 21:22:32 | 🔹 sobuelow performed DeleteEvent on KULL-Centre/CALVADOS
+2026-08-21 21:22:18 | 🔹 sobuelow performed DeleteEvent on KULL-Centre/CALVADOS
+2026-08-21 21:22:09 | 🔹 sobuelow performed DeleteEvent on KULL-Centre/CALVADOS
+2026-08-21 21:21:34 | 🔹 sobuelow performed DeleteEvent on KULL-Centre/CALVADOS
+2026-08-21 21:21:30 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [83b7f29] (expanded) Merge pull request #49 from KULL-Centre/pdbx
+2026-08-21 21:21:29 | 🔀 gitesei merged PR in KULL-Centre/CALVADOS
+2026-08-21 21:21:20 | 🔹 sobuelow performed PullRequestReviewEvent on 
+KULL-Centre/CALVADOS
+2026-08-21 20:53:12 | 🏷️  enoee published release v1.0 in 
+KULL-Centre/_2026_Sigmarsdottir_parkin_activity
+2026-08-21 17:09:39 | 💬 gitesei created issue 'Enable PDBx/mmCIF support' in 
+KULL-Centre/CALVADOS
+2026-08-21 17:07:48 | 🚀 gitesei pushed to KULL-Centre/CALVADOS
+    - [c4b8b9a] (expanded) Updated python version dependency
+2026-08-21 16:45:54 | 💬 sobuelow created issue 'Enable PDBx/mmCIF support' in 
+KULL-Centre/CALVADOS
