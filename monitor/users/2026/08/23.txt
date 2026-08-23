@@ -1,0 +1,36 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, 
+sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, 
+Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, 
+mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, 
+lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, 
+xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster,
+zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan,
+yangnianzu0515, chao1224, blt2114...
+
+2026-08-22 23:45:12 | 🚀 zaixizhang pushed to zaixizhang/zaixizhang.github.io
+    - [7a46866] (expanded) vla
+2026-08-22 20:08:54 | 🚀 AspirinCode pushed to 
+AspirinCode/papers-for-molecular-design-using-DL
+    - [64abfe7] (expanded) Update README.md
+2026-08-22 19:36:52 | 🚀 AspirinCode pushed to 
+AspirinCode/papers-for-molecular-design-using-DL
+    - [f9fff2d] (expanded) Update README.md
+2026-08-22 15:21:35 | 🚀 zaixizhang pushed to zaixizhang/zaixizhang.github.io
+    - [6298f50] (expanded) edit
+2026-08-22 15:18:49 | 🚀 zaixizhang pushed to zaixizhang/zaixizhang.github.io
+    - [7e859f6] (expanded) paper
+2026-08-22 13:02:06 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [5faf964] (expanded) Fix 404 landings from the notes permalink migration.
+2026-08-22 11:42:49 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [e8c58ff] (expanded) Say what RNA-ERNIE and Orthrus actually measure
+2026-08-22 11:10:47 | 🚀 alexholehouse pushed to idptools/starling
+    - [f385017] (expanded) Final update
+2026-08-22 08:09:52 | 💬 blt2114 created issue 'Submission of MotifBench results
+for RFDiffusion3' in blt2114/MotifBench
+2026-08-22 06:18:18 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [9de0363] (expanded) Add JCIM MOF publication
+2026-08-22 04:47:10 | 🚀 ChenDdon pushed to ChenDdon/chenddon.github.io
+    - [71c59bc] (expanded) Add Science Advances publication
+2026-08-22 03:09:14 | 🚀 alexholehouse pushed to idptools/starling
+    - [9e6c637] (expanded) Updated changelog and fixed weights bug that 
+prevented fully airgapped execution
