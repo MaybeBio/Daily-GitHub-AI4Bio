@@ -1,0 +1,109 @@
+Searching repos for 'YOUR-TOPIC' (via topic.yaml)...
+Running command: gh search repos YOUR-TOPIC --language Python --limit 20 --sort 
+stars --order desc
+hugohe3/ppt-master      AI turns documents or topics into real, native 
+PowerPoint decks—with native shapes, transitions and animations, data-backed 
+charts and tables on demand, audio narration from speaker notes, and support for
+your own .pptx templates. · by Hugo He     public  2026-08-24T00:03:37Z
+sauljabin/kaskade       kaskade is a text user interface for kafka, which allows
+you to interact and consume topics from your terminal in style!        public  
+2026-08-20T12:36:31Z
+noahgsolomon/brainrot.js        Text to video generator in the brainrot form. 
+Learn about any topic from your favorite personalities 😼.        public  
+2026-08-22T15:24:52Z
+akseolabs-seo/AK-Threads-booster        AK體 · 數據驅動的 Threads 
+寫文決策系統。用你的歷史貼文、演算法與社媒心理學，協助選題、起草、發文前診斷、表
+現預估與復盤。Data-driven Threads writing advisor — topic selection, drafting, 
+diagnosis, prediction & review based on your own post history. public  
+2026-08-21T08:05:12Z
+Orbifold/knwler Knwler is a lightweight Python tool that extracts structured 
+knowledge graphs from documents using AI. Feed it a PDF or text file and receive
+a richly connected network of entities, relationships, and topics — complete 
+with an interactive HTML report and exports ready for your favorite graph 
+analytics platform.        public  2026-08-23T06:59:14Z
+StephenSorriaux/ansible-kafka-admin     Manage your topic's configuration 
+(partitions, replication factor, parameters), ACLs, quotas, users and get stats,
+without any effort with this library. It does not use the Kafka scripts and does
+not require ssh connection to the remote broker.    public  2026-08-22T20:45:45Z
+sundios/people-also-ask People also ask Google scraper. Get as many questions as
+you need to optimize your site for voice or new content ideas or answering 
+questions about your desired topic. public  2026-08-22T18:12:33Z
+lorey/github-stars-by-topic     ⭐ Generate a list of your GitHub stars by topic
+- automatically!       public  2026-08-13T12:03:30Z
+Shivanandroy/KeyPhraseTransformer       KeyPhraseTransformer lets you quickly 
+extract key phrases, topics, themes from your text data with T5 transformer | 
+Keyphrase extraction | Keyword extraction   public  2026-06-25T11:34:50Z
+djeada/Linux-Notes      Compiled guides and notes on various topics related to 
+Linux. The content is organized into sections and subsections, making it easy to
+navigate regardless of your experience level - beginner or advanced.    public  
+2026-08-23T14:23:56Z
+abhishek305/PyBot-A-ChatBot-For-Answering-Python-Queries-Using-NLP      Pybot 
+can change the way learners try to learn python programming language in a more 
+interactive way. This chatbot will try to solve or provide answer to almost 
+every python related issues or queries that the user is asking for. We are 
+implementing NLP for improving the efficiency of the chatbot. We will include 
+voice feature for more interactivity to the user. By utilizing NLP, developers 
+can organize and structure knowledge to perform tasks such as automatic 
+summarization, translation, named entity recognition, relationship extraction, 
+sentiment analysis, speech recognition, and topic segmentation. NLTK has been 
+called “a wonderful tool for teaching and working in, computational linguistics 
+using Python,” and “an amazing library to play with natural language.The main 
+issue with text data is that it is all in text format (strings). However, the 
+Machine learning algorithms need some sort of numerical feature vector in order 
+to perform the task. So before we start with any NLP project we need to 
+pre-process it to make it ideal for working. Converting the entire text into 
+uppercase or lowercase, so that the algorithm does not treat the same words in 
+different cases as different Tokenization is just the term used to describe the 
+process of converting the normal text strings into a list of tokens i.e words 
+that we actually want. Sentence tokenizer can be used to find the list of 
+sentences and Word tokenizer can be used to find the list of words in 
+strings.Removing Noise i.e everything that isn’t in a standard number or 
+letter.Removing Stop words. Sometimes, some extremely common words which would 
+appear to be of little value in helping select documents matching a user need 
+are excluded from the vocabulary entirely. These words are called stop 
+words.Stemming is the process of reducing inflected (or sometimes derived) words
+to their stem, base or root form — generally a written word form. Example if we 
+were to stem the following words: “Stems”, “Stemming”, “Stemmed”, “and 
+Stemtization”, the result would be a single word “stem”. A slight variant of 
+stemming is lemmatization. The major difference between these is, that, stemming
+can often create non-existent words, whereas lemmas are actual words. So, your 
+root stem, meaning the word you end up with, is not something you can just look 
+up in a dictionary, but you can look up a lemma. Examples of Lemmatization are 
+that “run” is a base form for words like “running” or “ran” or that the word 
+“better” and “good” are in the same lemma so they are considered the same.    
+public  2026-04-08T16:45:56Z
+feyzilim/clipfactory    Topic + template → short vertical video from your own 
+B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI
+shot lists, AI B-roll, batch generation. Source-available (Elastic 2.0). public 
+2026-08-23T16:37:29Z
+grumpyp/blogging-with-ai        Introducing AI-blogger, a cutting-edge tool that
+utilizes OpenAI API, WordPress, and Python to simplify the process of creating 
+blog posts. Generate high-quality, engaging content in seconds with the help of 
+advanced AI capabilities that understand and analyze your topic.        public  
+2026-08-19T09:28:33Z
+edoardottt/twitterbot2  Like and retweet your tweets, or search tweets by topic.
+It stores and serves data with a Flask webapp. 🐦 Live demo running on 
+twitter.com/ai_testing  public, archived        2026-08-21T11:18:46Z
+goodreasonai/nichey     Generate a wiki for your research topic, sourcing from 
+the web and your docs.   public  2026-02-05T07:24:42Z
+HashimThePassionate/Python-For-Absolute-Beginners       "Python for Absolute 
+Beginners: A Comprehensive Repository" offers a structured learning path, 
+interactive practice, and a supportive community to master Python from scratch. 
+Dive into topics like control flow, object-oriented programming, and more to 
+unlock endless possibilities in software development. Start your Python journey 
+today!      public  2026-01-23T11:14:20Z
+TroyFernandes/hass-mqtt-mediaplayer     Fill out your Media Player Entity with 
+MQTT Topics      public  2025-11-24T09:18:42Z
+Priyamakeshwari/TeachGPT        An AI Powered teacher that can help you learn 
+your topics faster before exam    public  2026-07-05T04:25:10Z
+SepidehHosseinian/100-Days-of-Leetcode-Challenges       
+100-Days-of-Leetcode-Challenges is a repository that contains my solutions and 
+explanations for various coding problems from Leetcode, one of the most popular 
+online platforms for practicing and improving your programming skills. Leetcode 
+offers hundreds of problems covering different topics, such as arrays, strings, 
+trees, graphs, dynamic programm  public  2026-02-01T11:34:03Z
+mmr710/nightmux Your night crew, on Telegram. Run Claude Code, Codex or any 
+terminal agent from a Telegram topic — one topic per tmux session. Watches the 
+context window and the 5-hour limit, compacts before the wall, and holds prompts
+through a lockout instead of losing them. Python stdlib only, no relay server.  
+public  2026-08-21T07:45:55Z
