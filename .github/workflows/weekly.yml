@@ -28,7 +28,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install ghresearcher
-        run: pip install ghresearcher==0.1.0
+        run: pip install ghresearcher
 
       - name: Discover topic repos
         run: |
