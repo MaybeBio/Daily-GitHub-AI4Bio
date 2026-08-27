@@ -3,6 +3,7 @@
 # static yaml with dyanmic date override via command line
 # Execution every week: ghresearcher search --config search_idr_repos.yaml --updated ">=$(date -d '7 days ago' +%Y-%m-%d)"
 # ────────────────────────────────────────────────────────────────
+# ⚠️ 数量尚可，每周仅更新1次，每周日/1更新
 
 # 具体用法: --jq 筛选 → 去前 2 行提示 → 写表头 → 存 CSV（GitHub 网页可渲染成表格）
 #   since=">=$(date -d '7 days ago' +%Y-%m-%d)"
