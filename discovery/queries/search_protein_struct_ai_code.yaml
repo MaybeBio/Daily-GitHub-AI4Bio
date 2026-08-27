@@ -1,0 +1,11 @@
+# ── protein-structure-AI/AI4S · code snippet search ──
+# Note: Code search does not support date/sorting; results returned are "most relevant" rather than "latest".
+# Execution：ghresearcher search --config search_protein_struct_ai_code.yaml
+# ────────────────────────────────────────────────────────────────
+
+item_type: code
+query: 'protein structure prediction'
+
+limit: 30
+
+json: ["path", "repository", "url"]
