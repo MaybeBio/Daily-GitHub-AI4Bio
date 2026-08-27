@@ -1,0 +1,11 @@
+# ── protein-nucleic acid/DNA interaction/binding modeling · code snippet search ──
+#  Note: Code search does not support date/sorting; results returned are "most relevant" rather than "latest".
+# Execution: ghresearcher search --config search_protein_dna_code.yaml
+# ────────────────────────────────────────────────────────────────
+
+item_type: code
+query: 'protein dna binding'
+
+limit: 30
+
+json: ["path", "repository", "url"]
