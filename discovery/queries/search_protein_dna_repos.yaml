@@ -1,0 +1,29 @@
+# ── protein-nucleic acid/DNA interaction/binding modeling · repo search ──
+# Discover protein-nucleic acid/DNA interaction/binding repositories marked "New/Updated/Recently Updated"  THIS WEEK (past 7 days) on Github every week
+# Execution every week: ghresearcher search --config search_protein_dna_repos.yaml --updated ">=$(date -d '7 days ago' +%Y-%m-%d)"
+# ────────────────────────────────────────────────────────────────
+
+item_type: repos
+
+# query: '"protein dna" OR "protein dna binding" OR "dna binding" OR "transcription factor" in:name,description,readme,topics'
+# query: '"transcription factor" OR "gene regulation" OR "DNA binding" OR "RNA binding" OR "protein-DNA" OR "protein-RNA" in:name,description,readme,topics'
+# query: '"deep learning" "transcription factor" OR "deep learning" "gene regulation" OR "deep learning" "DNA binding" OR "deep learning" "RNA binding" OR "deep learning" "protein-DNA" OR "deep learning" "protein-RNA" in:name,description,readme,topics'
+
+# 此处query构建使用固定关键词组
+# DL 门槛：GitHub 不支持括号，AND 优先级高于 OR，无法写 "DL AND (a OR b OR ...)"
+# 用"分发"(distributed conjunction)：把 "deep learning" 塞进每一个分支，
+# "DL a OR DL b OR ..." = "(DL AND a) OR (DL AND b) OR ..."，每个分支都强制带 DL
+# 代价：DL 只能是单个短语/单词（每分支多个显式 OR 会破坏 AND 优先级），此处用 "deep learning" 字面短语
+# deep learning、neural network、machine learning、pytorch、model
+# 仅限于 DNA-蛋白质, 深度学习, 模拟
+query: '"deep learning" "transcription factor" OR "deep learning" "DNA binding" OR "deep learning" protein DNA OR protein DNA pytorch OR protein DNA simulation OR protein DNA molecular dynamics in:name,description,readme,topics'
+
+
+limit: 500
+sort: updated
+order: desc
+
+# updated: ">=YYYY-MM-DD"
+
+json: ["fullName", "description", "language", "stargazersCount", "createdAt", "pushedAt", "visibility", "url"]
+
