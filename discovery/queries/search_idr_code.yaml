@@ -1,0 +1,12 @@
+# ── IDR modeling · code snippet search ──
+# Note: Code search does not support date/sorting; returns "most relevant" instead of "newest".
+# Execution: ghresearcher search --config search_idr_code.yaml
+# ────────────────────────────────────────────────────────────────
+
+
+item_type: code
+query: 'intrinsically disordered prediction'
+
+limit: 30
+
+json: ["path", "repository", "url"]
