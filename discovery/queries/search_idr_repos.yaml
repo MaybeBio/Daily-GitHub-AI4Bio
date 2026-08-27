@@ -1,0 +1,35 @@
+# ── IDR modeling · repo search ──
+# Discover IDP/IDR-related repositories marked "New/Updated/Recently Updated"  THIS WEEK (past 7 days) on Github every week
+# static yaml with dyanmic date override via command line
+# Execution every week: ghresearcher search --config search_idr_repos.yaml --updated ">=$(date -d '7 days ago' +%Y-%m-%d)"
+# ────────────────────────────────────────────────────────────────
+
+# 具体用法: --jq 筛选 → 去前 2 行提示 → 写表头 → 存 CSV（GitHub 网页可渲染成表格）
+#   since=">=$(date -d '7 days ago' +%Y-%m-%d)"
+#   f="weekly/idr_$(date +%F).csv"              # 每周一个新文件，放 weekly/ 保持整洁
+#   mkdir -p "$(dirname "$f")"
+#   echo "fullName,language,stargazersCount,pushedAt,createdAt,visibility,url,description" > "$f"
+#   ghresearcher search --config examples/search_idr_repos.yaml --updated "$since" \
+#     --jq '.[] | [.fullName, .language, .stargazersCount, .pushedAt, .createdAt, .visibility, .url, .description] | @csv' \
+#     | tail -n +3 >> "$f"
+
+
+# fullName 仓库 / language 语言 / stargazersCount 星标 / pushedAt 最近推送 / createdAt 创建 / visibility 可见性 / url 链接 / description 简介
+
+item_type: repos
+# in:name,description,readme,topics = 四字段任一命中即匹配（跨字段 OR 语义），README 也纳入扩大召回
+# ⚠️ 双引号是固定词组+精准逐词匹配，单引号是用AND连接空格单词
+# query: '"intrinsically disordered" OR "disordered protein" OR "intrinsically disordered protein" in:name,description,readme,topics'
+query: '"intrinsically disordered region" OR "intrinsically disordered protein" OR  protein idr OR idp protein OR disordered protein OR intrinsically disordered protein OR intrinsically disordered region in:name,description,readme,topics'
+
+# 结果控制（gh 上限 1000；100 兼顾召回与翻译成本）
+limit: 100
+sort: updated
+order: desc
+
+# using CLI date override to get weekly updates, e.g. --updated ">=$(date -d '7 days ago' +%Y-%m-%d)"
+# updated: ">=YYYY-MM-DD"
+
+# output JSON for post-processing by jq/scripts
+json: ["fullName", "description", "language", "stargazersCount", "createdAt", "pushedAt", "visibility", "url"]
+
