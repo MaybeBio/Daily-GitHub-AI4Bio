@@ -19,11 +19,11 @@
 item_type: repos
 # in:name,description,readme,topics = 四字段任一命中即匹配（跨字段 OR 语义），README 也纳入扩大召回
 # ⚠️ 双引号是固定词组+精准逐词匹配，单引号是用AND连接空格单词
-# query: '"intrinsically disordered" OR "disordered protein" OR "intrinsically disordered protein" in:name,description,readme,topics'
-query: '"intrinsically disordered region" OR "intrinsically disordered protein" OR  protein idr OR idp protein OR disordered protein OR intrinsically disordered protein OR intrinsically disordered region in:name,description,readme,topics'
+# "intrinsically disordered region" OR "intrinsically disordered protein"
+query: 'intrinsically disordered region OR intrinsically disordered protein OR disordered protein OR protein idr OR idp protein in:name,description,readme,topics'            
 
-# 结果控制（gh 上限 1000；100 兼顾召回与翻译成本）
-limit: 100
+# 结果控制（gh 上限 1000，上述query单次测试容量在100左右）
+limit: 500
 sort: updated
 order: desc
 
