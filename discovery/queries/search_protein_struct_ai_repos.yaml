@@ -1,0 +1,17 @@
+# ── protein-structure-AI/AI4S · repo search ──
+# Discover protein structure-related AI/Deep learning repositories marked "New/Updated/Recently Updated"  THIS WEEK (past 7 days) on Github every week
+# Execution every week: ghresearcher search --config search_protein_struct_ai_repos.yaml --updated ">=$(date -d '7 days ago' +%Y-%m-%d)"
+# ────────────────────────────────────────────────────────────────
+
+item_type: repos
+# query设置如何全面: 蛋白质结构(核心)、一些领域内底层算法/模型(AlphaFold、ESM、RoseTTAFold)-靠被引提升hit、几个蛋白质结构建模关键方向(对接/模拟/结构设计/折叠结构预测/构象)
+# query: 'protein structure deep learning in:name,description,readme,topics'
+query: 'protein structure OR alphafold OR ESM OR molecular dynamics OR protein docking OR conformational ensemble in:name,description,readme,topics'
+
+limit: 500
+sort: updated
+order: desc
+
+# updated: ">=YYYY-MM-DD"
+
+json: ["fullName", "description", "language", "stargazersCount", "createdAt", "pushedAt", "visibility", "url"]
