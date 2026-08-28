@@ -15,4 +15,4 @@ order: desc
 
 # updated: ">=YYYY-MM-DD"
 
-json: ["fullName", "description", "language", "stargazersCount", "createdAt", "pushedAt", "visibility", "url"]
+json: ["fullName", "language", "stargazersCount", "createdAt", "pushedAt", "url", "description"]

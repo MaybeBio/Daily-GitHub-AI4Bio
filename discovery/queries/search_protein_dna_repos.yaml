@@ -25,5 +25,7 @@ order: desc
 
 # updated: ">=YYYY-MM-DD"
 
-json: ["fullName", "description", "language", "stargazersCount", "createdAt", "pushedAt", "visibility", "url"]
+# 短列在前（fullName/language/star/created/pushed/url），宽列 description 靠后，避免 CSV 太宽要横向滚动；
+# description_zh 由 weekly_report.py 固定追加在最后一列。
+json: ["fullName", "language", "stargazersCount", "createdAt", "pushedAt", "url", "description"]
 
