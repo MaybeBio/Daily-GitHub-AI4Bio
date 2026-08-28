@@ -14,10 +14,12 @@ permissions:
 env:
   TZ: Asia/Shanghai
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  TRANS: /opt/translate-shell/trans
 
 jobs:
-  discover:
+  report:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,22 +27,34 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install ghresearcher
-        run: pip install ghresearcher
+        run: pip install --quiet ghresearcher
 
-      - name: Discover topic repos
+      - name: Install translate-shell
         run: |
-          mkdir -p "discovery/weekly/$(date +%Y/%m)"
-          ghresearcher search --config discovery/queries/topic.yaml \
-            > "discovery/weekly/$(date +%Y/%m/%d).txt" || true
+          git clone --quiet --depth 1 https://github.com/soimort/translate-shell /opt/translate-shell
+          chmod +x /opt/translate-shell/trans
+
+      - name: Generate weekly CSVs for IDR/Protein Struct/Protein-DNA topic (with Chinese translation)
+        run: |
+          set -euo pipefail
+          since=">=$(date -d '7 days ago' +%Y-%m-%d)"
+          ym="$(date +%Y/%m)"
+          mkdir -p "discovery/weekly/$ym"
+          # idr protein_struct_ai protein_dna
+          for t in idr; do
+            python3 scripts/weekly_report.py "$t" "discovery/queries/search_${t}_repos.yaml" \
+              "discovery/weekly/$ym/${t}_$(date +%F).csv" \
+              --updated "$since" --workers 4 --tz Asia/Shanghai
+          done
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add discovery/
           if git diff --cached --quiet; then
             echo "No changes, skip commit."
           else
