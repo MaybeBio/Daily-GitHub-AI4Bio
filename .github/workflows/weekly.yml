@@ -53,11 +53,12 @@ jobs:
           since=">=$(date -d '7 days ago' +%Y-%m-%d)"
           ym="$(date +%Y/%m)"
           mkdir -p "discovery/weekly/$ym"
-          # idr protein_struct_ai protein_dna
-          for t in idr; do
+          for t in idr protein_struct_ai protein_dna; do
+            # 单个 topic 容错：失败只警告，不中断其他 topic（成功的 CSV 照常提交）
             python3 scripts/weekly_report.py "$t" "discovery/queries/search_${t}_repos.yaml" \
               "discovery/weekly/$ym/${t}_$(date +%F).csv" \
-              --updated "$since" --workers 4 --tz Asia/Shanghai
+              --updated "$since" --workers 4 --tz Asia/Shanghai \
+              || echo "::warning::${t} failed, continuing with other topics"
           done
 
       - name: Commit and push
