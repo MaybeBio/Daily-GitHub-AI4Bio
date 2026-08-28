@@ -19,14 +19,31 @@ Example: `discovery/weekly/2026/08/protein_ai_2026-08-31.csv`
 
 ## Topics
 
-| Topic | Filename prefix | Search focus |
-|-------|-----------------|--------------|
-| Intrinsically disordered regions modeling | `idr_` | intrinsically disordered / disordered protein |
-| Protein structure AI / AI4S | `protein_struct_ai_` | AlphaFold / Deep learning project related with protein structure |
-| Protein-nucleic acid modeling | `protein_dna_` | protein dna binding / transcription factor modeling |
+| Topic | Filename prefix | Search focus | 原本规划执行周期 | 目前执行安排 |
+|-------|-----------------|--------------| ---- | ---- | 
+| Intrinsically disordered regions modeling | `idr_` | intrinsically disordered / disordered protein | 每周1次 | 周一上午执行一次 | 
+| Protein structure AI / AI4S | `protein_struct_ai_` | AlphaFold / Deep learning project related with protein structure | 条目较多，每周分3次执行，周1、3、5 | 周一上午执行一次 |
+| Protein-nucleic acid modeling | `protein_dna_` | protein dna binding / transcription factor modeling | 条目较多，每周分3次执行，可与 protein_struct_ai 同步 | 周一上午执行一次 |
 
 ## File format
 
 CSV (rendered as an interactive table on GitHub's web UI), first row is the header. Columns come from the `json` field of each search config, with a trailing `description_zh` column holding the Chinese translation of the English description (failed translations are marked `[translate failed]`).
 
 The corresponding search configs live in `discovery/queries/search_<topic>_repos.yaml`. The code searches (`search_<topic>_code.yaml`) return "most relevant" rather than "latest" and can be run ad hoc; their output can also be placed here.
+
+
+## Todo maybe?
+
+> 自愈窗口: 固定“7天前”窗口会丢数据，目前的假设是workflow 是 since=">=7 days ago"，假设每周运行一次:
+>
+> 08-08 跑成功  → 覆盖 08-01~08-08
+>
+> 08-15 没跑成（Cron 漏了/CI 挂了/没 commit）  ← 这一周数据全丢
+>
+> 08-22 跑成功  → 覆盖 08-15~08-22   ← 08-08~08-15 那一周永远找不回来了
+
+> 自愈窗口：从上次成功的 CSV 推导起点
+>
+> 不再用"今天往前推 7 天"，而是每个 topic 从它最近一次已提交的 CSV 文件日期作为窗口起点
+>
+> 关键点：checkout 需要把上次提交的 CSV 拉下来，生成步骤一开始，直接在仓库里找每个 topic 最新的 CSV
