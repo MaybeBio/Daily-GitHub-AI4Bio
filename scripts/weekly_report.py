@@ -35,7 +35,8 @@ from zoneinfo import ZoneInfo
 import yaml
 
 # None -> translate-shell's default engine (google); the rest are free fallbacks.
-ENGINES = [None, "bing", "mymemory"]
+# 注意：translate-shell 重构后 mymemory 引擎已移除，改用 yandex。
+ENGINES = [None, "bing", "yandex"]
 FAIL_MARK = "[translate failed]"
 # Columns carrying UTC ISO timestamps, converted to the report timezone in the CSV.
 DATE_FIELDS = {"createdAt", "pushedAt", "updatedAt"}

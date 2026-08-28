@@ -14,7 +14,7 @@ permissions:
 env:
   TZ: Asia/Shanghai
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  TRANS: /opt/translate-shell/trans
+  TRANS: /opt/translate-shell/translate
 
 jobs:
   report:
@@ -35,7 +35,12 @@ jobs:
       - name: Install translate-shell
         run: |
           git clone --quiet --depth 1 https://github.com/soimort/translate-shell /opt/translate-shell
-          chmod +x /opt/translate-shell/trans
+          # translate-shell 已重构：入口从 trans 改为 translate（awk 模块化），依赖 gawk
+          if ! command -v gawk >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y gawk
+          fi
+          chmod +x /opt/translate-shell/translate
 
       - name: Generate weekly CSVs for IDR/Protein Struct/Protein-DNA topic (with Chinese translation)
         run: |
