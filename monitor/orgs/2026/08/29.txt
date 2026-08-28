@@ -1,0 +1,47 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab...
+
+2026-08-29 04:53:10 | 🔀 alacour opened PR in THGLab/ecenet
+2026-08-29 03:50:42 | 🚀 aakashsahha pushed to honig-lab/PrePPI_SLiM
+    - [fc8fd4f] (expanded) Finalize directional PrePPI-SLiM LR outputs; Added the final step to consolidate LR outputs.
+2026-08-29 03:50:39 | ⭐️ yongsengtan700-lang starred ai4protein/VenusFactory2
+2026-08-29 02:47:37 | 🍴 euntaek-hong forked aqlaboratory/openfold
+2026-08-29 01:49:50 | 🔀 alacour merged PR in THGLab/ecenet
+2026-08-29 01:47:50 | 🚀 alacour pushed to THGLab/ecenet
+    - [1ae0bcd] (expanded) les_readout: default 'edge_basis' under use_les; readme drops the readout table
+2026-08-29 01:39:11 | 🚀 alacour pushed to THGLab/ecenet
+    - [c1d2bec] (expanded) readme: drop the Trainer options section
+2026-08-29 01:38:00 | 🚀 alacour pushed to THGLab/ecenet
+    - [9ddb27a] (expanded) readme: plainer phrasing for the LES wrapper intro
+2026-08-29 01:23:49 | ⭐️ FCblaerol starred ai4protein/VenusFactory2
+2026-08-29 01:22:34 | 🔀 alacour opened PR in THGLab/ecenet
+2026-08-29 01:18:47 | 🚀 alacour pushed to THGLab/ecenet
+    - [0cdd50f] (expanded) Merge pull request #8 from THGLab/feature/identity-activation
+2026-08-29 01:18:46 | 🔀 alacour merged PR in THGLab/ecenet
+2026-08-29 01:07:19 | 🔀 alacour opened PR in THGLab/ecenet
+2026-08-29 01:07:10 | 🆕 alacour created branch 'feature/identity-activation' at THGLab/ecenet
+2026-08-29 00:04:56 | 🔹 jandom performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-08-29 00:04:05 | ⭐️ ai4healthcareclsmu-debug starred aqlaboratory/openfold-3
+2026-08-28 23:50:47 | 🚀 mah-m pushed to BioComputingUP/LIPNet
+    - [42af229] (expanded) the previous format of reading a npy file was [1,L,1024]. now is [L,1024]
+2026-08-28 23:05:54 | 🚀 gavinf97 pushed to BioComputingUP/nto-registry
+    - [d218ca6] (expanded) Update OPUS RAF link, fix hover/click affordance, restore short intro
+2026-08-28 22:55:52 | 🐛 SreenikethanI opened issue in idptools/metapredict: 'Invalid filename preventing `pip install` AND `git clone` on Windows'
+2026-08-28 21:13:08 | 🏷️  mogoo7zn published release v1.1.1 in GENTEL-lab/EVA
+2026-08-28 21:05:40 | ⭐️ Kaibo-Zheng starred GENTEL-lab/OriGene
+2026-08-28 17:07:48 | ⭐️ wook2014 starred steineggerlab/riboseek
+2026-08-28 17:06:25 | ⭐️ CuteTigerF starred aqlaboratory/genie3
+2026-08-28 14:12:14 | ⭐️ GZHUone starred GENTEL-lab/OriGene
+2026-08-28 13:20:02 | 💬 jnwei created issue '[BUG] planar sp2 C=C bond giving a 3D geometry' in aqlaboratory/openfold-3
+2026-08-28 13:17:13 | 🔀 ahmedtaha100 merged PR in aqlaboratory/openfold-3
+2026-08-28 12:41:26 | 🔹 jnwei performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-08-28 12:41:24 | 🔀 jnwei labeled PR in aqlaboratory/openfold-3
+2026-08-28 08:02:28 | 💬 ahmedtaha100 created issue 'Allow custom residue names for SMILES ligands' in aqlaboratory/openfold-3
+2026-08-28 07:11:11 | 🚀 yhsia pushed to baker-laboratory/worms
+    - [1610dea] (expanded) changed P4212 back to Uz, Ux. P441 still borked.
+2026-08-28 07:04:11 | 💬 ahmedtaha100 created issue 'Allow custom residue names for SMILES ligands' in aqlaboratory/openfold-3
+2026-08-28 06:37:37 | 🚀 yhsia pushed to baker-laboratory/worms
+    - [7560e32] (expanded) unbounded.py to A.Favor version, add symdef files
+2026-08-28 05:19:15 | 🔹 THGLab performed MemberEvent on THGLab/ecenet
+2026-08-28 03:13:12 | ⭐️ euntaek-hong starred aqlaboratory/openfold
+2026-08-28 00:38:42 | ⭐️ Mudman14 starred steineggerlab/foldseek
+2026-08-28 00:14:22 | ⭐️ azizsimx starred Graylab/DL4Proteins-notebooks

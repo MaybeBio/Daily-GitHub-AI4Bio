@@ -1,0 +1,28 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton...
+
+2026-08-29 00:18:58 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [758197b] (expanded) build based on 96f7dc0
+2026-08-29 00:15:00 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [96f7dc0] (expanded) move general interactions out of Enzyme rule wrapper
+2026-08-28 23:41:07 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-08-28 23:40:48 | 🆕 Leo-T-Zang created branch 'ntv3-scoring' at MarksLab-DasLab/RNAGym
+2026-08-28 20:08:02 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [8fb6081] (expanded) fix ligands
+2026-08-28 19:09:09 | 🚀 sokrypton pushed to sokrypton/ColabDesign
+    - [d700ff2] (expanded) fix clip
+2026-08-28 18:14:39 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on EnzymeAD/Enzyme.jl
+2026-08-28 18:14:33 | 🔹 jgreener64 performed PullRequestReviewEvent on EnzymeAD/Enzyme.jl
+2026-08-28 18:14:31 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on EnzymeAD/Enzyme.jl
+2026-08-28 18:13:51 | 🚀 jgreener64 pushed to jgreener64/Enzyme.jl
+    - [479179f] (expanded) Check T is bits type
+2026-08-28 17:57:20 | 🏷️  jgreener64 published release v4.8.1 in BioJulia/BioStructures.jl
+2026-08-28 17:55:18 | 🔹 jgreener64 performed CommitCommentEvent on BioJulia/BioStructures.jl
+2026-08-28 17:53:53 | 💬 jgreener64 created issue 'Recognize specialized protein residue names' in BioJulia/BioStructures.jl
+2026-08-28 17:50:05 | 💬 jgreener64 created issue 'Add MetaDynamics' in JuliaMolSim/Molly.jl
+2026-08-28 08:57:50 | 🚀 sokrypton pushed to sokrypton/ColabFold
+    - [c35de02] (expanded) fixing alphafold3
+2026-08-28 08:55:07 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [5d3891c] (expanded) bugfixes
+2026-08-28 05:22:11 | 🆕 sokrypton created branch 'af3-cp313-wheel' at sokrypton/ColabFold
+2026-08-28 04:03:13 | 🔹 sokrypton performed DeleteEvent on sokrypton/alphafold3
+2026-08-28 00:20:03 | 🆕 jgreener64 created branch 'cuda-types' at jgreener64/Enzyme.jl
