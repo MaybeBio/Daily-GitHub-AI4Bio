@@ -38,7 +38,7 @@ The goal is simple: a high-signal, at-a-glance view of where the community is he
 ├── scripts/                        # local analysis utilities
 │   └── analyze_logs.py             #   turn activity logs into frequency tables
 └── .github/workflows/
-    ├── daily.yml                   #   daily automation, 08:00 Beijing time
+    ├── daily.yml                   #   daily automation, 05:00 Beijing time
     └── weekly.yml                  #   weekly discovery, Monday 08:00 Beijing time
 ```
 
@@ -117,10 +117,23 @@ You can adjust `limit`, `sort`, `stars`, or add `topic` / other qualifiers. Repo
 
 Two [GitHub Actions](.github/workflows/) workflows run on the GitHub-hosted runner, using the built-in `gh` CLI and the automatic `GITHUB_TOKEN` (no personal login needed):
 
-- **daily-follow** (every day, 08:00 Beijing time): collects the previous day's activity into `monitor/users|orgs|received/`, then commits and pushes.
+- **daily-follow** (every day, 05:00 Beijing time): collects the previous day's activity into `monitor/users|orgs|received/`, then commits and pushes.
 - **weekly-discovery** (every Monday, 08:00 Beijing time): snapshots the topic search into `discovery/weekly/`, then commits and pushes.
 
 You can trigger either manually via the **Actions** tab → the workflow → **Run workflow**.
+
+## Notes
+
+### Trigger & schedule
+
+- Both workflows are triggered by an **external timer (Cron-job.org)** via `workflow_dispatch` — GitHub's built-in `schedule` does not fire on this repo.
+- **daily-follow**: every day at **05:00** (Beijing time).
+- **weekly-discovery**: tentatively every Monday at **08:00** (Beijing time); the three topics (`idr` / `protein_struct_ai` / `protein_dna`) run together in one pass, and a **failure in one topic only warns without interrupting the others** (successful topics still commit their CSVs).
+
+### Consuming the results
+
+- **daily (monitor logs)**: meant for manual review; the repo can be collected into star collections and fed into our **template/ontology skill** for further processing.
+- **weekly (CSV)**: each run produces `discovery/weekly/YYYY/MM/<topic>_YYYY-MM-DD.csv`; we can pull it down and compile/add a new column per repo, checking and digesting each repo one by one like ✅/❌.
 
 ## Why this exists
 
