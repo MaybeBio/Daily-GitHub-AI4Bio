@@ -1,0 +1,18 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114...
+
+2026-08-27 21:36:43 | 🚀 alexholehouse pushed to idptools/afrc
+    - [2e4d399] (expanded) Minor bug fixes ahead of 0.4.3 release
+2026-08-27 21:26:44 | 🆕 alexholehouse created branch 'dev-2.0.6' at holehouse-lab/soursop
+2026-08-27 18:45:22 | 🔀 Immortals-33 merged PR in blt2114/MotifBench
+2026-08-27 18:44:37 | 🔀 Immortals-33 opened PR in blt2114/MotifBench
+2026-08-27 18:35:37 | 🚀 Immortals-33 pushed to blt2114/MotifBench
+    - [aa107c9] (expanded) small updates in readme
+2026-08-27 17:56:39 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [45aa4ca] (expanded) update inference pipeline
+2026-08-27 05:34:27 | 🚀 thematrixmaster pushed to thematrixmaster/FLAb
+    - [0bdb4e8] (expanded) Fix swapped heavy/light columns in zimmerman2020antibody_4420_kd.csv
+2026-08-27 05:34:27 | 🔀 thematrixmaster opened PR in Graylab/FLAb
+2026-08-27 05:34:26 | 🆕 thematrixmaster created branch 'fix-zimmerman2020-heavy-light-swap' at thematrixmaster/FLAb
+2026-08-27 05:34:18 | 🍴 thematrixmaster forked Graylab/FLAb
+2026-08-27 03:21:59 | 🚀 jsunn-y pushed to jsunn-y/jsunn-y.github.io
+    - [fd997e7] (expanded) some general revisions and clean ups
