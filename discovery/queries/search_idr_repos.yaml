@@ -32,5 +32,5 @@ order: desc
 # updated: ">=YYYY-MM-DD"
 
 # output JSON for post-processing by jq/scripts
-json: ["fullName", "description", "language", "stargazersCount", "createdAt", "pushedAt", "visibility", "url"]
+json: ["fullName", "language", "stargazersCount", "createdAt", "pushedAt", "url", "description"]
 
