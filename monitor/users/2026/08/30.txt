@@ -1,0 +1,19 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton...
+
+2026-08-30 02:15:01 | 🍴 sokrypton forked martin-steinegger/alphafold2-webgpu
+2026-08-30 01:39:17 | 🔹 sokrypton performed MemberEvent on martin-steinegger/alphafold2-webgpu
+2026-08-30 01:27:44 | ⭐️ QizhiPei starred LegoX/Lego-RL
+2026-08-29 21:56:49 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [ae89347] (expanded) Updated to 2.0.6 update
+2026-08-29 15:20:20 | ⭐️ AspirinCode starred K-Dense-AI/scientific-agent-skills
+2026-08-29 13:23:00 | 🚀 alexholehouse pushed to holehouse-lab/supportingdata
+    - [a238bfa] (expanded) Updated Perets et al directory to include all code for computaional components
+2026-08-29 13:21:06 | 🚀 alexholehouse pushed to holehouse-lab/supportingdata
+    - [8df2dea] (expanded) Updated Perets et al directory to include all code for computaional components
+2026-08-29 13:10:16 | 🚀 alexholehouse pushed to holehouse-lab/supportingdata
+    - [7e92eb7] (expanded) Added Zenodo link
+2026-08-29 11:05:51 | 🚀 alexholehouse pushed to holehouse-lab/supportingdata
+    - [dc5a312] (expanded) Updated PENGUIN code and analysis to reflect the SOURSOP 2.0.6; this is absolute overkill but we wanted to make sure all the scripts associated with this paper reflect updates to SOURSOP
+2026-08-29 10:32:25 | ⭐️ shichence starred patrickbryant1/RareFoldGPCR
+2026-08-29 10:31:53 | ⭐️ shichence starred patrickbryant1/RareFold
+2026-08-29 06:29:40 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
