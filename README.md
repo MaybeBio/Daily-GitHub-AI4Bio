@@ -135,6 +135,8 @@ You can trigger either manually via the **Actions** tab → the workflow → **R
 - **daily (monitor logs)**: meant for manual review; the repo can be collected into star collections and fed into our **template/ontology skill** for further processing.
 - **weekly (CSV)**: each run produces `discovery/weekly/YYYY/MM/<topic>_YYYY-MM-DD.csv`; we can pull it down and compile/add a new column per repo, checking and digesting each repo one by one like ✅/❌.
 
+The full post-processing workflow — screening, starring, studying, and feeding the results into our skill, for both pipelines — is documented in [docs/post-processing.md](docs/post-processing.md) (bilingual).
+
 ## Why this exists
 
 - **Stay current** — a single place to see what the people driving the field are building.
