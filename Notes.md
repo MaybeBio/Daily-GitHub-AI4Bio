@@ -1,7 +1,7 @@
 # GitHub Actions 定时触发指南 / GitHub Actions Scheduled Trigger Guide
 
-> 本文档基于真实项目 MaybeBio/Gh-PSA-Follow 的实践整理。
-> This document is compiled from real-world practice on the repo `MaybeBio/Gh-PSA-Follow`.
+> 本文档基于真实项目 MaybeBio/Daily-GitHub-AI4Bio 的实践整理。
+> This document is compiled from real-world practice on the repo `MaybeBio/Daily-GitHub-AI4Bio`.
 
 ---
 
@@ -134,7 +134,7 @@ curl -X POST \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   -H "Content-Type: application/json" \
   -d '{"ref":"main"}' \
-  https://api.github.com/repos/MaybeBio/Gh-PSA-Follow/actions/workflows/daily.yml/dispatches
+  https://api.github.com/repos/MaybeBio/Daily-GitHub-AI4Bio/actions/workflows/daily.yml/dispatches
 ```
 
 - **无输出 = 204 成功**（GitHub 侧立即出现一次 `workflow_dispatch` 运行）。
@@ -150,8 +150,8 @@ curl -X POST \
 
 | 字段 Field | 值 Value |
 |---|---|
-| Title | `Gh-PSA-Follow daily` |
-| URL | `https://api.github.com/repos/MaybeBio/Gh-PSA-Follow/actions/workflows/daily.yml/dispatches` |
+| Title | `Daily-GitHub-AI4Bio daily` |
+| URL | `https://api.github.com/repos/MaybeBio/Daily-GitHub-AI4Bio/actions/workflows/daily.yml/dispatches` |
 | Time zone | **`Asia/Shanghai`**（必须选对 / must be correct） |
 | Execution schedule | 每天 `08:10`（Cron 表达式：`10 8 * * *`） |
 | Request method | **`POST`**（默认是 GET，必须改 / default GET, must change） |
@@ -214,7 +214,7 @@ curl -X POST \
 
 ## 4. 本项目当前状态 / Current state of this project
 
-- `MaybeBio/Gh-PSA-Follow` 的 GitHub schedule **确认不生效**（详见记忆/排查记录）。
+- `MaybeBio/Daily-GitHub-AI4Bio` 的 GitHub schedule **确认不生效**（详见记忆/排查记录）。
   The GitHub `schedule` on this repo was **confirmed non-functional**.
 - 两个 workflow（`daily-follow` / `weekly-discovery`）已切换为 `workflow_dispatch`，由 Cron-job.org 外部触发。
   Both workflows switched to `workflow_dispatch`, triggered externally via Cron-job.org.
