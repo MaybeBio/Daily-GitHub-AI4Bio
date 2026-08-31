@@ -1,0 +1,37 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab...
+
+2026-09-01 04:21:53 | 🔀 aakashsahha opened PR in honig-lab/PrePPI_SLiM
+2026-09-01 02:30:27 | ⭐️ JaeyeonKim01 starred aqlaboratory/genie3
+2026-09-01 01:34:30 | ⭐️ Sam0122n starred Graylab/DL4Proteins-notebooks
+2026-09-01 00:20:06 | 🚀 aakashsahha pushed to honig-lab/PrePPI_SLiM
+    - [f3fa958] (expanded) 1. Conversion of the codebase from perl to python.
+2026-08-31 22:35:34 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [bb90a7c] (expanded) Fixes and tests for sequence.py
+2026-08-31 20:17:14 | ⭐️ paleblueillud starred GENTEL-lab/EnzymeCAGE
+2026-08-31 19:59:37 | ⭐️ tjzimmermann-wt starred kiharalab/Prot-LAMBDA
+2026-08-31 19:03:33 | ⭐️ MaybeBio starred idptools/afrc
+2026-08-31 17:03:07 | ⭐️ lkfo415579 starred aqlaboratory/openfold-3
+2026-08-31 16:43:56 | ⭐️ mlpoiuhbn starred THGLab/LinkLlama
+2026-08-31 15:22:11 | 🚀 omgol411 pushed to isblab/pickET
+    - [6783e9f] (expanded) consider entire path for sorting
+2026-08-31 14:47:51 | 🚀 omgol411 pushed to isblab/pickET
+    - [cdab925] (expanded) bug: take ground truth particle from config file
+2026-08-31 14:11:34 | 🚀 omgol411 pushed to isblab/pickET
+    - [03f542e] (expanded) log time + fix tomogram order in the output
+2026-08-31 14:00:08 | 🐛 shruthivis opened issue in isblab/pickET: 'README for template matching'
+2026-08-31 13:52:18 | 🚀 stefdecastro pushed to THGLab/IDPForge
+    - [e8da989] (expanded) Adding Turing capabilities and PTX fallback for future architectures.
+2026-08-31 13:52:17 | 🔀 stefdecastro merged PR in THGLab/IDPForge
+2026-08-31 13:51:47 | 🔀 stefdecastro opened PR in THGLab/IDPForge
+2026-08-31 12:55:50 | ⭐️ Reaxel starred aqlaboratory/confornets
+2026-08-31 12:49:26 | ⭐️ ferreira68 starred THGLab/LinkLlama
+2026-08-31 10:29:02 | ⭐️ BoyceWD starred baker-laboratory/rf_diffusion_all_atom
+2026-08-31 05:24:33 | ⭐️ ReverseZoom2151 starred aqlaboratory/insilico_design_pipeline
+2026-08-31 05:24:24 | ⭐️ ReverseZoom2151 starred aqlaboratory/proteinnet
+2026-08-31 05:24:20 | ⭐️ ReverseZoom2151 starred aqlaboratory/hsm
+2026-08-31 05:24:17 | ⭐️ ReverseZoom2151 starred aqlaboratory/confornets
+2026-08-31 05:24:13 | ⭐️ ReverseZoom2151 starred aqlaboratory/genie3
+2026-08-31 05:24:10 | ⭐️ ReverseZoom2151 starred aqlaboratory/openfold-3
+2026-08-31 04:05:52 | ⭐️ ahmetkamilkacmaz starred baker-laboratory/rf_diffusion_all_atom
+2026-08-31 04:05:36 | ⭐️ ahmetkamilkacmaz starred aqlaboratory/openfold
+2026-08-31 02:48:20 | ⭐️ RajaATAli starred aqlaboratory/openfold-3

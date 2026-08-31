@@ -1,0 +1,48 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton...
+
+2026-09-01 04:58:37 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
+2026-09-01 02:28:24 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b213792] (expanded) Say what actually stopped pushes from deploying
+2026-09-01 02:16:02 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d6ba16e] (expanded) Read the repository and its site from the origin remote, not a constant
+2026-09-01 02:04:13 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c9f216a] (expanded) Standardise how a model bundle is described, and stop fetching manifests
+2026-09-01 01:44:22 | 🆕 sokrypton created branch 'complex-alignment-experiments' at sokrypton/localfold
+2026-09-01 01:43:56 | 🏷️  sokrypton published release model1-multimer-v3 in sokrypton/localfold
+2026-08-31 23:23:54 | ⭐️ sirius777coder starred hekato-lab/noah_gpcr
+2026-08-31 20:06:16 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [1595a7f] (expanded) loss and optimizer refine
+2026-08-31 18:19:34 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [a1fbdf2] (expanded) build based on bca07ea
+2026-08-31 16:38:57 | 🚀 Shenggan pushed to Shenggan/pypto-ccfusion
+    - [025ce7e] (expanded) follow api change from simpler
+2026-08-31 16:35:51 | 🆕 Shenggan created branch 'ccfusion' at Shenggan/pypto
+2026-08-31 16:33:27 | 🚀 Shenggan pushed to Shenggan/pypto
+    - [05364fe] (expanded) fix(language): mirror the runtime's task-timing slot count in the parser
+2026-08-31 15:38:57 | ⭐️ Immortals-33 starred jnoms/vpSAT
+2026-08-31 13:29:28 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [419bf2e] (expanded) Restore GPU validation without its per-block stall, and catch manifest drift
+2026-08-31 12:34:38 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [506c2e8] (expanded) add score card
+2026-08-31 12:06:24 | ⭐️ shichence starred bytedance/PXDesignBench
+2026-08-31 11:29:32 | 🚀 bzho3923 pushed to bzho3923/VenusBASIL
+    - [e833909] (expanded) Use GitHub-compatible math macros in README
+2026-08-31 10:16:59 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [30b4557] (expanded) Update README.md
+2026-08-31 09:43:55 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9de43eb] (expanded) more msa options
+2026-08-31 09:14:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [f95ccf4] (expanded) updates
+2026-08-31 04:43:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cb017a8] (expanded) Move the progress bar into the status block and stop the page jumping
+2026-08-31 04:37:38 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a744773] (expanded) Put the footer on one line
+2026-08-31 04:17:32 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [ab8387d] (expanded) Commit src/model/, which .gitignore was silently swallowing
+2026-08-31 04:13:12 | 🏷️  sokrypton published release model1-ptm in sokrypton/localfold
+2026-08-31 04:12:38 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b2dcb6a] (expanded) Fix a shader module that stopped parsing, and guard the class
+2026-08-31 04:03:40 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b605114] (expanded) Record that coalescing projectAB's store made it slower
+2026-08-31 03:52:45 | 🚀 thematrixmaster pushed to songlab-cal/cosine
+    - [ef567bd] (expanded) Drop the shell corrections from stratum plots; stamp t0 into figure stems
