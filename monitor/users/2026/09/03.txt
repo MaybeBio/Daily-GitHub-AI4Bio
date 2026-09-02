@@ -1,0 +1,23 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton...
+
+2026-09-03 00:21:50 | 💬 jgreener64 created issue 'Roadmap and ideas for Molly.jl development' in JuliaMolSim/Molly.jl
+2026-09-03 00:05:09 | 💬 jgreener64 created issue 'Roadmap and ideas for Molly.jl development' in JuliaMolSim/Molly.jl
+2026-09-02 23:07:34 | ⭐️ Zuricho starred kiharalab/PathFold
+2026-09-02 18:51:06 | ⭐️ Junjie-Zhu starred AIDD-LiLab/Apo2Mol
+2026-09-02 17:57:36 | ⭐️ Zuricho starred yakomaxa/PyMOL-Wasm
+2026-09-02 17:50:54 | ⭐️ Zuricho starred sokrypton/localfold
+2026-09-02 16:40:59 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [31ad1e1] (expanded) Write down AF2's numbers and the four gates it now has
+2026-09-02 12:24:13 | ⭐️ Zuricho starred lmqfly/AgentFold
+2026-09-02 11:10:51 | ⭐️ lujiarui starred AIDD-LiLab/Apo2Mol
+2026-09-02 10:10:02 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [6df390d] (expanded) Move the head's single-conditioning projection off the main thread
+2026-09-02 09:57:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d6e2c0d] (expanded) Write down that the pairformer is compute bound, with the measurement
+2026-09-02 09:38:05 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1a5c078] (expanded) Keep the atom stacks' weights packed and resident too
+2026-09-02 06:53:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1a63288] (expanded) Continue AlphaFold 2's recycles instead of restarting them
+2026-09-02 06:43:12 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [dc68d5c] (expanded) Keep the MSA when the model changes
+2026-09-02 01:57:23 | ⭐️ Immortals-33 starred yakomaxa/PyMOL-Wasm
