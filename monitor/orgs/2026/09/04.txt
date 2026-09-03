@@ -1,0 +1,28 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab...
+
+2026-09-04 02:35:05 | ⭐️ nucloid1 starred aqlaboratory/confornets
+2026-09-03 22:34:24 | ⭐️ DomFico starred THGLab/CSpred
+2026-09-03 21:49:11 | 💬 chelsea0x3b created issue 'More memory efficient metrics' in aqlaboratory/openfold-3
+2026-09-03 21:06:49 | ⭐️ RuiTekiZhai starred baker-laboratory/Metallohydrolase_Enzyme_Design
+2026-09-03 20:55:23 | ⭐️ yuyuan871111 starred THGLab/HiQBind
+2026-09-03 20:51:23 | ⭐️ mukherjeesutanu starred ProteinDesignLab/protein-design-tutorials
+2026-09-03 20:17:55 | ⭐️ Tesoro-Wang starred Graylab/FLAb
+2026-09-03 20:11:53 | ⭐️ nucloid1 starred ProteinDesignLab/caliby
+2026-09-03 19:09:07 | 🐛 EvaAlloza opened issue in BioComputingUP/nto-registry: '[Suggestion]: add ORCID as infrastructure to Supervised Student Project Output'
+2026-09-03 19:09:07 | 🐛 EvaAlloza labeled issue in BioComputingUP/nto-registry: '[Suggestion]: add ORCID as infrastructure to Supervised Student Project Output'
+2026-09-03 18:28:43 | ⭐️ prshnttw starred kiharalab/PathFold
+2026-09-03 17:02:40 | 🐛 mwinokan opened issue in THGLab/LinkLlama: 'Inference output writes JSON as binary pickle instead of text'
+2026-09-03 15:15:30 | 🚀 jnwei pushed to aqlaboratory/openfold-3
+    - [7000772] (expanded) ci-monitoring: append 2026-09-03 test failure entry (checkpoint not found on CUDA runners, PR #394)
+2026-09-03 15:07:12 | ⭐️ lenguyen1807 starred aqlaboratory/openfold-3
+2026-09-03 14:17:22 | ⭐️ maxshcherbina starred kiharalab/PathFold
+2026-09-03 12:13:57 | 💬 jnwei created issue 'Remove pytorch channel from conda env file and upper bound deepspeed' in aqlaboratory/openfold-3
+2026-09-03 12:12:01 | 🔀 jnwei opened PR in aqlaboratory/openfold-3
+2026-09-03 11:11:25 | ⭐️ mlpoiuhbn starred JingHuangLab/ErePOC
+2026-09-03 11:02:51 | 🔀 jnwei labeled PR in aqlaboratory/openfold-3
+2026-09-03 11:02:39 | 🔀 jnwei unlabeled PR in aqlaboratory/openfold-3
+2026-09-03 10:30:44 | 💬 jnwei created issue 'More memory efficient metrics' in aqlaboratory/openfold-3
+2026-09-03 09:41:18 | 🔀 jnwei labeled PR in aqlaboratory/openfold-3
+2026-09-03 09:37:28 | 🔹 jnwei performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-09-03 09:02:05 | ⭐️ MaybeBio starred kiharalab/PathFold
+2026-09-03 06:45:19 | 🔹 EllyTsien performed PublicEvent on baker-laboratory/baker-lab-manuscripts
