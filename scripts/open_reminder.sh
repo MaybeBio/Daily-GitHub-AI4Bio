@@ -63,8 +63,11 @@ if [[ "$KIND" == "daily" ]]; then
     n="$(printf '%s\n' "$events" | sed '/^$/d' | wc -l | tr -d ' ')"
     (( total += n )) || true
     if [[ "$n" -gt 0 ]]; then
+      # Keep the log verbatim (event headlines + their indented commit-detail lines);
+      # drop only the ghresearcher "Fetching events for target(s):" preamble and blanks.
+      content="$(grep -vE '^Fetching events for target\(s\):' "$path" | sed '/^[[:space:]]*$/d' || true)"
       body+="## $name"$'\n'
-      body+="$events"$'\n'
+      body+="$content"$'\n'
       body+=$'\n'
     fi
   done
