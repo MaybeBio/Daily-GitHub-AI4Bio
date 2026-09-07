@@ -117,8 +117,8 @@ You can adjust `limit`, `sort`, `stars`, or add `topic` / other qualifiers. Repo
 
 Two [GitHub Actions](.github/workflows/) workflows run on the GitHub-hosted runner, using the built-in `gh` CLI and the automatic `GITHUB_TOKEN` (no personal login needed):
 
-- **daily-follow** (every day, 05:00 Beijing time): collects the previous day's activity into `monitor/users|orgs|received/`, then commits and pushes.
-- **weekly-discovery** (every Monday, 08:00 Beijing time): snapshots the topic search into `discovery/weekly/`, then commits and pushes.
+- **daily-follow** (every day, 05:00 Beijing time): collects the previous day's activity into `monitor/users|orgs|received/`, commits and pushes, then opens a `daily-reminder` issue carrying the day's logs (labeled, so you can open-read-close).
+- **weekly-discovery** (every Monday, 08:00 Beijing time): snapshots the topic search into `discovery/weekly/`, commits and pushes, then opens a `weekly-reminder` issue linking the week's topic CSVs.
 
 You can trigger either manually via the **Actions** tab → the workflow → **Run workflow**.
 

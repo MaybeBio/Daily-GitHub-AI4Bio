@@ -38,6 +38,8 @@ GitHub Actions 采集
 | `monitor/orgs/YYYY/MM/DD.txt` | 关注组织/实验室的动态 | `monitor/lists/orgs.txt` |
 | `monitor/received/YYYY/MM/DD.txt` | 核心用户最近关注的信息流 | `monitor/lists/users_core.txt`（`-r`，limit 30） |
 
+> 每次运行还会自动打开一个 `daily-reminder` issue 作为入口，方便拉取当日的产物。
+
 ### weekly-discovery（周一 08:00 北京）
 
 触发：外部 Cron-job.org → `workflow_dispatch`。三个 topic 合跑、单个 topic 失败不影响其他。产物是周报 CSV：
@@ -47,6 +49,8 @@ discovery/weekly/YYYY/MM/<topic>_YYYY-MM-DD.csv   # topic ∈ idr / protein_stru
 ```
 
 列：`fullName, language, stargazersCount, createdAt, pushedAt, url, description, description_zh`（review 后追加 `mark` 列）。
+
+> 每次运行还会自动打开一个 `weekly-reminder` issue 作为入口，方便拉取本周的 CSV 产物。
 
 ---
 
@@ -175,6 +179,8 @@ Trigger: external Cron-job.org → `workflow_dispatch`. Plain-text activity logs
 | `monitor/orgs/YYYY/MM/DD.txt` | followed orgs & labs' activity | `monitor/lists/orgs.txt` |
 | `monitor/received/YYYY/MM/DD.txt` | feed of what core users watch | `monitor/lists/users_core.txt` (`-r`, limit 30) |
 
+> Each run also auto-opens a `daily-reminder` issue as the entry point to pull the day's outputs.
+
 ### weekly-discovery (Monday 08:00 Beijing)
 
 Trigger: external Cron-job.org → `workflow_dispatch`. All three topics run together; a failure in one topic does not interrupt the others. The output is the weekly report CSV:
@@ -184,6 +190,8 @@ discovery/weekly/YYYY/MM/<topic>_YYYY-MM-DD.csv   # topic ∈ idr / protein_stru
 ```
 
 Columns: `fullName, language, stargazersCount, createdAt, pushedAt, url, description, description_zh` (a `mark` column is appended after review).
+
+> Each run also auto-opens a `weekly-reminder` issue as the entry point to pull the week's CSVs.
 
 ---
 
