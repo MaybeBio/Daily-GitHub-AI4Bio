@@ -83,10 +83,22 @@ bash scripts/open_reminder.sh daily 2026-09-07 --dry-run       # 只把标题/�
 
 - 每个**存在**的 CSV 输出一行 markdown 链接：
   `- [<topic> CSV](https://github.com/<owner>/<repo>/blob/main/discovery/weekly/$Y/$M/<topic>_$DATE.csv)`
-  （GitHub 内联渲染 CSV 表格，可直接看到 ✅/❌ `mark` 列）
-- 顶部一句引导语（文案定稿）：说明本周新周报 CSV、用 `csv_review.py` 逐条 review、本地 `python3 scripts/csv_review.py <csv路径> --port <port>`、标注后 commit & push 回。
+  （GitHub 内联渲染 CSV 表格，可直接看到 ✅/❌ `mark` 列；blob URL 分支按默认分支 `main` 拼）
 - 不加计数 / 不加分析；某个 topic 失败无 CSV 就不列该项；全部失败 → 跳过 issue。
 - 标题：`[weekly] 2026-09-07`；标签：`weekly-reminder`。
+
+weekly 正文模板（最终文案，自上而下拼装，`<...>` 为运行时变量）：
+
+```
+本周新周报 CSV 已生成，请用 csv_review.py 逐条 review（本地 git pull 拿文件后执行）：
+
+- [idr CSV](<blob: idr_$DATE.csv>)
+- [protein_struct_ai CSV](<blob: protein_struct_ai_$DATE.csv>)
+- [protein_dna CSV](<blob: protein_dna_$DATE.csv>)      ← 仅该 topic 的 CSV 存在时列出
+
+本地命令：python3 scripts/csv_review.py discovery/weekly/<Y>/<M>/<topic>_<DATE>.csv --port 8000
+逐行标 ✅/⏸/❌ → 保存标注 → git add discovery/weekly/ → git commit -m "review <topic> <DATE>" → git push
+```
 
 ## 6. workflow 修改 / Workflow changes
 
