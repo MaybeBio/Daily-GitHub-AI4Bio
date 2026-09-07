@@ -1,0 +1,12 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-08 00:03:12 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [a3b6685] (expanded) PARITY.md: L2 token transformer gated across all six protenix models
+2026-09-07 21:13:01 | ⭐️ QizhiPei starred Lau-Jonathan/LLM-Agent-Interview-Guide
+2026-09-07 14:38:14 | ⭐️ AspirinCode starred prism-science/WaterFlow
+2026-09-07 14:27:22 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [3e4ca74] (expanded) Update README.md
+2026-09-07 14:13:51 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [7cbd441] (expanded) Update README.md
+2026-09-07 14:01:43 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [653f3ba] (expanded) Update README.md
