@@ -10,6 +10,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write
 
 env:
   TZ: Asia/Shanghai
@@ -61,3 +62,7 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      - name: Open daily reminder issue
+        run: |
+          bash scripts/open_reminder.sh daily "$(date +%F)"
