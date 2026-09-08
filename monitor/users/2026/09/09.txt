@@ -1,0 +1,25 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-09 03:26:22 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e35a1cd] (expanded) WIP: flash attention on the matrix units - generates, gated OFF, does not yet compile
+2026-09-09 03:01:02 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [b5b66c8] (expanded) conditioning_parity: an esmfold2 adapter driven by the reference (NOT YET RUN)
+2026-09-09 02:20:34 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [7f253a6] (expanded) esmfold2's trunk gate works again and reads 0.999957; its denoise step does not
+2026-09-09 02:01:14 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5c8befd] (expanded) docs/AF2: the final verified numbers - 18.06 s at 825, 8.3x, in 1.8x the headroom
+2026-09-09 01:45:44 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [89977d3] (expanded) The pair representation stays on the device: 19.68 s -> 18.04
+2026-09-08 23:33:10 | ⭐️ lujiarui starred lujiarui/biomol-viewer
+2026-09-08 23:32:09 | ⭐️ Immortals-33 starred K-Dense-AI/drug-discovery-agent-skills
+2026-09-08 22:31:57 | ⭐️ lujiarui starred kkkniengLiu/dynbench
+2026-09-08 22:00:47 | ⭐️ jsunn-y starred roitberg-group/torchani-amber
+2026-09-08 15:40:35 | ⭐️ Immortals-33 starred lorenzkleiter/RFD3-Unindexed-MotifBench
+2026-09-08 15:32:02 | ⭐️ lmqfly starred MaybeBio/Gromacs-Everything-Skill
+2026-09-08 15:31:39 | ⭐️ lmqfly starred ChengxinHU/Omni-Mol
+2026-09-08 15:30:44 | ⭐️ lmqfly starred lmqfly/AgentFold
+2026-09-08 12:02:15 | ⭐️ Zuricho starred K-Dense-AI/drug-discovery-agent-skills
+2026-09-08 10:38:02 | ⭐️ ChrisAllenMing starred K-Dense-AI/drug-discovery-agent-skills
+2026-09-08 03:36:19 | ⭐️ jsunn-y starred RagnarB83/ash
+2026-09-08 02:53:18 | ⭐️ jsunn-y starred ClickFF/MLMM4AMBER
+2026-09-08 02:22:45 | ⭐️ jsunn-y starred t-0hmura/mlmm_toolkit
