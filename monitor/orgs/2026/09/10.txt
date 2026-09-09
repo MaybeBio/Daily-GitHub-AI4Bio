@@ -1,0 +1,99 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-09-10 02:38:41 | ⭐️ MoritzErtelt starred ProteinDesignLab/dEVA
+2026-09-10 02:30:23 | 💬 jeffreyruffolo created issue 'Installation Failure' in Graylab/IgFold
+2026-09-10 02:30:23 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Installation Failure'
+2026-09-10 02:30:15 | 💬 jeffreyruffolo created issue 'Runtimeerror in ubuntu' in Graylab/IgFold
+2026-09-10 02:30:15 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Runtimeerror in ubuntu'
+2026-09-10 02:30:09 | 💬 jeffreyruffolo created issue 'Error: AbNumber not installed. Please install AbNumber to use renumbering' in Graylab/IgFold
+2026-09-10 02:30:09 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Error: AbNumber not installed. Please install AbNumber to use renumbering'
+2026-09-10 02:29:51 | 💬 jeffreyruffolo created issue 'I can't get the weight of the model, and after deploying the model according to the process provided by the author, the test demo can't run through' in Graylab/IgFold
+2026-09-10 02:29:51 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'I can't get the weight of the model, and after deploying the model according to the process provided by the author, the test demo can't run through'
+2026-09-10 02:29:45 | 💬 jeffreyruffolo created issue 'colab notebook ModuleNotFoundError' in Graylab/IgFold
+2026-09-10 02:29:45 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'colab notebook ModuleNotFoundError'
+2026-09-10 02:29:40 | 💬 jeffreyruffolo created issue 'Doubts on the usage of PDB templates' in Graylab/IgFold
+2026-09-10 02:29:40 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Doubts on the usage of PDB templates'
+2026-09-10 02:29:31 | 💬 jeffreyruffolo created issue 'IgFold Colab' in Graylab/IgFold
+2026-09-10 02:29:31 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'IgFold Colab'
+2026-09-10 02:29:24 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'sequence-level embedding'
+2026-09-10 02:29:13 | 💬 jeffreyruffolo created issue 'How to assign a different GPU?' in Graylab/IgFold
+2026-09-10 02:29:13 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'How to assign a different GPU?'
+2026-09-10 02:29:05 | 💬 jeffreyruffolo created issue 'Where are pretrained models' in Graylab/IgFold
+2026-09-10 02:29:05 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Where are pretrained models'
+2026-09-10 02:28:57 | 💬 jeffreyruffolo created issue 'Circular import errors' in Graylab/IgFold
+2026-09-10 02:28:57 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Circular import errors'
+2026-09-10 02:28:47 | 💬 jeffreyruffolo created issue 'Documentation improvements' in Graylab/IgFold
+2026-09-10 02:28:47 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'Documentation improvements'
+2026-09-10 02:28:39 | 💬 jeffreyruffolo created issue 'TypeError: Unit "kilocalorie/mole" is not compatible with Unit "kilojoule/(nanometer*mole)".' in Graylab/IgFold
+2026-09-10 02:28:39 | 🐛 jeffreyruffolo closed issue in Graylab/IgFold: 'TypeError: Unit "kilocalorie/mole" is not compatible with Unit "kilojoule/(nanometer*mole)".'
+2026-09-10 01:56:18 | 🏷️  kevinhyj published release v1.2.0 in GENTEL-lab/EVA
+2026-09-10 01:43:24 | 🔹 jeffreyruffolo performed DeleteEvent on Graylab/IgFold
+2026-09-10 01:33:33 | 🔹 jeffreyruffolo performed DeleteEvent on Graylab/IgFold
+2026-09-10 01:33:29 | 🚀 jeffreyruffolo pushed to Graylab/IgFold
+    - [5a15196] (expanded) Merge pull request #76 from Graylab/release-1.0.0
+2026-09-10 01:28:31 | 🔹 jeffreyruffolo performed DeleteEvent on Graylab/IgFold
+2026-09-10 01:24:25 | 🚀 jeffreyruffolo pushed to Graylab/IgFold
+    - [5678722] (expanded) Exclude reference structures from whitespace hooks
+2026-09-10 00:14:52 | 🔀 adelbke merged PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:14:20 | 🚀 adelbke pushed to BioComputingUP/ngx-mol-viewers
+    - [8528c1a] (expanded) Merge pull request #36 from adelbke/backport/V0/commit-decebf1d
+2026-09-10 00:14:19 | 🔀 adelbke merged PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:14:18 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:14:14 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:14:09 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:14:05 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:13:59 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:13:37 | 🚀 adelbke pushed to BioComputingUP/ngx-mol-viewers
+    - [decebf1] (expanded) update public-api and features/index.ts to export relevant types
+2026-09-10 00:12:04 | 🔀 adelbke closed PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:12:04 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:11:30 | 🔀 adelbke closed PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:11:30 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:10:47 | 🔀 adelbke closed PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:10:47 | 🔀 adelbke opened PR in BioComputingUP/ngx-mol-viewers
+2026-09-10 00:04:37 | 🚀 adelbke pushed to BioComputingUP/ngx-mol-viewers
+    - [3e328cb] (expanded) backport dev install
+2026-09-09 23:54:56 | 🆕 adelbke created branch 'hotfix/feature-viewer/add-export-feature-types' at BioComputingUP/ngx-mol-viewers
+2026-09-09 23:54:43 | 🆕 adelbke created branch 'feat/add-agent-skills' at BioComputingUP/ngx-mol-viewers
+2026-09-09 21:23:01 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [ce854ee] (expanded) sim.py improvements
+2026-09-09 20:28:51 | 🍴 xinyaoLi-2021 forked biomed-AI/CellFM
+2026-09-09 19:36:25 | 🍴 avilella forked kiharalab/PathFold
+2026-09-09 19:09:44 | 🚀 gavinf97 pushed to BioComputingUP/dome-ml-observatory
+    - [d2f6802] (expanded) Start the support FAQ closed, and open on click
+2026-09-09 17:30:51 | 🚀 sooyoung-cha pushed to steineggerlab/foldseek
+    - [463739e] (expanded) Merge pull request #604 from sooyoung-cha/scoremultimer_min_aligned_chains
+2026-09-09 17:30:50 | 🔀 sooyoung-cha merged PR in steineggerlab/foldseek
+2026-09-09 17:28:34 | ⭐️ zhaoyf1 starred ai4protein/ProSST
+2026-09-09 15:56:23 | 🚀 kevinhyj pushed to GENTEL-lab/EVA
+    - [780f226] (expanded) Simplify the repository layout around seven top-level directories (#23)
+2026-09-09 15:56:22 | 🔀 kevinhyj merged PR in GENTEL-lab/EVA
+2026-09-09 15:51:45 | 🔀 kevinhyj opened PR in GENTEL-lab/EVA
+2026-09-09 15:48:45 | ⭐️ dingye18 starred THGLab/KinConfBench
+2026-09-09 15:15:12 | 🚀 kevinhyj pushed to GENTEL-lab/EVA
+    - [de2cf7a] (expanded) Clarify local benchmarking and reproduction folders (#22)
+2026-09-09 15:15:11 | 🔀 kevinhyj merged PR in GENTEL-lab/EVA
+2026-09-09 15:11:50 | 🔀 kevinhyj opened PR in GENTEL-lab/EVA
+2026-09-09 14:54:21 | ⭐️ 0seo430 starred baker-laboratory/rf_diffusion_all_atom
+2026-09-09 14:53:24 | 🔀 kevinhyj merged PR in GENTEL-lab/EVA
+2026-09-09 14:47:37 | 🔀 kevinhyj opened PR in GENTEL-lab/EVA
+2026-09-09 14:47:16 | 🆕 kevinhyj created branch 'readme-presentation-20260909' at GENTEL-lab/EVA
+2026-09-09 14:29:14 | 🚀 kevinhyj pushed to GENTEL-lab/EVA
+    - [211db94] (expanded) Improve EVA repository usability and reproducibility checks (#20)
+2026-09-09 14:29:12 | 🔀 kevinhyj merged PR in GENTEL-lab/EVA
+2026-09-09 14:17:15 | 🔀 kevinhyj opened PR in GENTEL-lab/EVA
+2026-09-09 14:15:51 | 🆕 kevinhyj created branch 'repository-usability-20260909' at GENTEL-lab/EVA
+2026-09-09 14:00:52 | 🍴 qjsoong forked THGLab/SmileyLlama
+2026-09-09 13:49:48 | 🚀 github-actions pushed to ai4protein/.github
+    - [1bcdbe0] (expanded) 🔄 Auto-update GitHub & Hugging Face stats
+2026-09-09 13:29:39 | 🚀 kevinhyj pushed to GENTEL-lab/EVA
+    - [9b5d25a] (expanded) Record clean archive validation and exact runtime evidence
+2026-09-09 13:19:15 | 🚀 sooyoung-cha pushed to steineggerlab/foldseek
+    - [bbafd76] (expanded) Merge pull request #607 from sooyoung-cha/scoremultimer_dev
+2026-09-09 13:19:13 | 🔀 sooyoung-cha merged PR in steineggerlab/foldseek
+2026-09-09 13:17:00 | 🚀 jaebeom-kim pushed to steineggerlab/Metabuli
+    - [f4487f1] (expanded) Merge pull request #196 from fawaz-dabbaghieh/bitpacking
+2026-09-09 13:16:59 | 🔀 fawaz-dabbaghieh merged PR in steineggerlab/Metabuli
+2026-09-09 11:37:54 | ⭐️ yci451836-del starred AIDD-LiLab/Apo2Mol
+2026-09-09 09:24:51 | ⭐️ 921321903-star starred baker-laboratory/RoseTTAFold-All-Atom
+2026-09-09 08:27:15 | 🍴 pyspider forked idptools/metapredict
