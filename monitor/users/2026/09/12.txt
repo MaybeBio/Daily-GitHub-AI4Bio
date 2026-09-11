@@ -1,0 +1,14 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-12 00:03:18 | ⭐️ Zuricho starred NVIDIA-BioNeMo/BioNeMo-Inference-Runtime
+2026-09-11 22:44:35 | ⭐️ mingchen-li starred QuantumNous/new-api
+2026-09-11 16:59:17 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [074d79c] (expanded) Update README.md
+2026-09-11 15:57:13 | ⭐️ lujiarui starred NVIDIA-BioNeMo/BioNeMo-Inference-Runtime
+2026-09-11 13:30:23 | 💬 WillHua127 created issue 'Is it possible to add a feature that allows for different sequences to be set up independently for each cycle?' in aurekaresearch/OpenDDE-Harness
+2026-09-11 08:58:33 | ⭐️ meneshail starred Tangcyu/Gen-COMPAS
+2026-09-11 04:18:15 | ⭐️ jsunn-y starred baker-laboratory/PLACER
+2026-09-11 00:06:04 | 💬 luost26 created issue 'I am using this template!' in luost26/academic-homepage
+2026-09-11 00:05:42 | 🐛 luost26 closed issue in luost26/academic-homepage: 'I am using this template!'
+2026-09-11 00:05:41 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [707d8aa] (expanded) Add website entry to the README user community list (#56)
