@@ -1,0 +1,30 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-13 03:55:26 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [ab6abf0] (expanded) Parity: nineteen of twenty-one AF3 checkers do not run, and they 404 rather than fail
+2026-09-13 03:46:13 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a8a6e70] (expanded) No tolerance anywhere, and a note on the one line that would change that
+2026-09-13 01:10:41 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [382e884] (expanded) chore: regenerate README and wiki after taxonomy cleanup
+2026-09-13 00:48:20 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [deef43a] (expanded) chore: regenerate README and wiki lists for the expanded catalog
+2026-09-12 22:09:04 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [0aa4904] (expanded) The clean slate the purge was for: docs/FRAME_STABILITY.md
+2026-09-12 21:03:43 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [eb5b463] (expanded) gate two modules on a TWO-CHAIN input, and find a template split
+2026-09-12 20:43:56 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [2f20a3d] (expanded) Update README.md
+2026-09-12 20:34:58 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [7b399f2] (expanded) Update README.md
+2026-09-12 19:54:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e327911] (expanded) Make the visitor's configuration a gate, and widen the guard past f16
+2026-09-12 19:45:47 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5220c26] (expanded) OpenDDE and ESMFold2 did not fold at all for an NVIDIA visitor
+2026-09-12 19:45:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5220c26] (expanded) OpenDDE and ESMFold2 did not fold at all for an NVIDIA visitor
+2026-09-12 18:05:54 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [421c146] (expanded) PARITY: the post-fix matrix is BAD=0, and L6 has now been run
+2026-09-12 17:45:51 | ⭐️ AspirinCode starred adlvdl/cyp_competition
+2026-09-12 15:05:06 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [9447695] (expanded) Update README.md
+2026-09-12 00:03:18 | ⭐️ Zuricho starred NVIDIA-BioNeMo/BioNeMo-Inference-Runtime
