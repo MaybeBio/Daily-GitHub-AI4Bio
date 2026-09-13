@@ -1,0 +1,21 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-14 04:11:22 | ⭐️ jsunn-y starred RosettaCommons/foundry
+2026-09-14 02:49:15 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [7bd10b6] (expanded) Add Nostalgia 1990s variant with homepage preview
+2026-09-14 02:47:00 | 🚀 luost26 pushed to luost26/academic-homepage-nostalgia-1990s
+    - [5306086] (expanded) Credit 98.css reference and retained MD5 code in artwork disclosure
+2026-09-14 01:02:19 | 🚀 luost26 pushed to luost26/academic-homepage-nostalgia-1990s
+    - [b9dc1eb] (expanded) Update baseurl in _config.yml
+2026-09-14 00:54:39 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [66198e8] (expanded) Replace original theme acknowledgements with Aero artwork credits
+2026-09-14 00:42:00 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [0129069] (expanded) Redesign academic homepage with Vista-inspired Frutiger Aero theme
+2026-09-14 00:20:35 | 💬 jgreener64 created issue 'Native Allegro equivariant potential (energy + analytic forces, CPU/GPU)' in JuliaMolSim/Molly.jl
+2026-09-14 00:03:13 | ⭐️ QizhiPei starred harbor-framework/terminal-bench-2-1
+2026-09-13 23:55:43 | 🆕 luost26 created branch 'main' at luost26/academic-homepage-frutiger-aero
+2026-09-13 23:45:29 | 💬 jgreener64 created issue 'GPU-native collective variables and biased-simulation overhead reduction' in JuliaMolSim/Molly.jl
+2026-09-13 23:39:43 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [8ccd0d4] (expanded) Refine carousel button appearance and keyboard focus
+2026-09-13 07:31:21 | 🚀 wenjiegroup pushed to wenjiegroup/ProCLIP
+    - [b6fe0d7] (expanded) update for inference
