@@ -1,0 +1,81 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-15 02:00:50 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [8361d06] (expanded) Vendor py2Dmol 3e670c2: the in-place cartoon path no longer gives up after a run of moved keys
+2026-09-15 01:40:15 | ⭐️ jsunn-y starred t-0hmura/pdb2reaction
+2026-09-15 00:27:34 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [39a8479] (expanded) build based on 67fac2d
+2026-09-15 00:25:58 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [67fac2d] (expanded) test on Julia 1.12
+2026-09-15 00:00:51 | ⭐️ jsunn-y starred ClickFF/MAPLE
+2026-09-14 23:22:44 | 🚀 Shenggan pushed to Shenggan/shenggan.github.io
+    - [ba93872] (expanded) update status
+2026-09-14 23:19:34 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [d41fcdb] (expanded) The hitch on a jump: py2Dmol no longer rebuilds the cartoon when the extent grows, and the hit freeze keeps drawing
+2026-09-14 23:00:04 | ⭐️ sirius777coder starred xcflab/HiPlex-GGA
+2026-09-14 22:36:41 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [b2f202d] (expanded) Forward attacks: a straight and a roundhouse; a heavier drop kick; a special per protein, the bundle's Helix Spin
+2026-09-14 22:22:54 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [b7027b9] (expanded) The throw: the held body turns over with the lift and lands in a heap
+2026-09-14 22:20:54 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [1924f17] (expanded) The CPU level and the protein picks as pills, like the mode switch
+2026-09-14 22:20:09 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [de49d18] (expanded) Drop the hydropathy colouring; keep SSE
+2026-09-14 21:38:32 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [1a8a761] (expanded) README: the vendored py2Dmol bundle matches upstream d856487
+2026-09-14 21:34:25 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [be632c9] (expanded) Drop the overhead membrane; a plain ground behind the HUD and larger names
+2026-09-14 21:32:08 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [5b94b4b] (expanded) A cell behind the fight: membranes, vesicles, a mitochondrion, ribosomes, microtubules, all to the camera
+2026-09-14 21:23:30 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [d5e79cf] (expanded) Blocking, a brace animation, and a CPU that braces and runs down a retreat
+2026-09-14 21:17:39 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [58ab7ab] (expanded) Animation: a springed turnaround, knees that buckle to a low hit, an idle bounce, arms that rise with a jump
+2026-09-14 20:58:59 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [6a7fc86] (expanded) two more gates that existed and never ran, and the count guard that was deleted
+2026-09-14 20:46:46 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [63fd5ea] (expanded) Show the join link in a text box, click or COPY to copy it
+2026-09-14 19:45:56 | ⭐️ Junjie-Zhu starred graeter-group/backflip
+2026-09-14 17:31:29 | 🚀 jgreener64 pushed to BioJulia/BioStructures.jl
+    - [b4928ac] (expanded) build based on e405cb7
+2026-09-14 16:43:56 | ⭐️ Junjie-Zhu starred flatironinstitute/PLANET-MD
+2026-09-14 16:28:16 | ⭐️ Junjie-Zhu starred Tangcyu/Gen-COMPAS
+2026-09-14 16:22:26 | ⭐️ Junjie-Zhu starred pcdslab/ProtEnrich
+2026-09-14 12:30:35 | ⭐️ mingchen-li starred ai4protein/VenusFold
+2026-09-14 12:30:30 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [7e19e1b] (expanded) test: update MSA pipeline sequence fixture
+2026-09-14 12:29:18 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [7dc5a62] (expanded) docs: license code and weights under Apache 2.0
+2026-09-14 12:27:30 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [e7486a1] (expanded) test: expand MSA pipeline sequence fixture
+2026-09-14 12:26:09 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [4fcdbb3] (expanded) docs: preserve Protenix license
+2026-09-14 12:23:28 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [0a831c6] (expanded) docs: acknowledge Protenix
+2026-09-14 11:51:25 | 🚀 xtanh pushed to xtanh/xtanh.github.io
+    - [2a0205a] (expanded) Show compact visitor map on homepage
+2026-09-14 11:37:13 | 🚀 xtanh pushed to xtanh/xtanh.github.io
+    - [86dba30] (expanded) Add public visitor statistics page
+2026-09-14 11:29:29 | 🚀 xtanh pushed to xtanh/xtanh.github.io
+    - [36c8f0d] (expanded) Enable Umami analytics
+2026-09-14 11:03:29 | 🚀 alexholehouse pushed to holehouse-lab/PIMMS
+    - [88ef1fe] (expanded) Update for 1.0.8
+2026-09-14 07:18:12 | 🚀 alexholehouse pushed to holehouse-lab/PIMMS
+    - [2acdd9d] (expanded) Work for 1.0.8
+2026-09-14 05:53:11 | ⭐️ jsunn-y starred schwallergroup/gollum
+2026-09-14 04:11:22 | ⭐️ jsunn-y starred RosettaCommons/foundry
+2026-09-14 02:49:15 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [7bd10b6] (expanded) Add Nostalgia 1990s variant with homepage preview
+2026-09-14 02:47:00 | 🚀 luost26 pushed to luost26/academic-homepage-nostalgia-1990s
+    - [5306086] (expanded) Credit 98.css reference and retained MD5 code in artwork disclosure
+2026-09-14 01:02:19 | 🚀 luost26 pushed to luost26/academic-homepage-nostalgia-1990s
+    - [b9dc1eb] (expanded) Update baseurl in _config.yml
+2026-09-14 01:01:51 | 🆕 luost26 created branch 'main' at luost26/academic-homepage-nostalgia-1990s
+2026-09-14 00:54:39 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [66198e8] (expanded) Replace original theme acknowledgements with Aero artwork credits
+2026-09-14 00:52:42 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [f978255] (expanded) Update Frutiger Aero README with intro and screenshots
+2026-09-14 00:42:00 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [0129069] (expanded) Redesign academic homepage with Vista-inspired Frutiger Aero theme
+2026-09-14 00:20:35 | 💬 jgreener64 created issue 'Native Allegro equivariant potential (energy + analytic forces, CPU/GPU)' in JuliaMolSim/Molly.jl
+2026-09-14 00:03:13 | ⭐️ QizhiPei starred harbor-framework/terminal-bench-2-1

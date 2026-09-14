@@ -1,0 +1,118 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-09-15 04:48:39 | 🔀 samanyuckulkarni123 opened PR in aqlaboratory/openfold-3
+2026-09-15 04:03:46 | ⭐️ shenoynikhil starred ProteinDesignLab/SLAE
+2026-09-15 02:30:20 | ⭐️ bioinf-lab starred Graylab/DL4Proteins-notebooks
+2026-09-15 02:16:24 | ⭐️ BigMussila starred aqlaboratory/openfold
+2026-09-15 02:01:36 | 🐛 victorianugnes opened issue in BioComputingUP/apicuron-issue-tracker: 'Curator progress towards badges'
+2026-09-15 01:59:46 | ⭐️ pradnyajadhav362 starred aqlaboratory/genie3
+2026-09-15 00:32:07 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [396bd82] (expanded) More linting fixes
+2026-09-15 00:20:18 | 🚀 sobuelow pushed to KULL-Centre/CALVADOS
+    - [8d6c78b] (expanded) More linting fixes
+2026-09-14 23:45:18 | 🔀 chelsea0x3b opened PR in aqlaboratory/openfold-3
+2026-09-14 23:27:40 | 🔀 chelsea0x3b opened PR in aqlaboratory/openfold-3
+2026-09-14 23:10:43 | 🔀 chelsea0x3b opened PR in aqlaboratory/openfold-3
+2026-09-14 23:06:07 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [8e8c6cd] (expanded) more test cases
+2026-09-14 23:01:50 | 🐛 jandom unlabeled issue in aqlaboratory/openfold-3: '[BUG] CIF Direct Template - Template coordinates are NEVER used, fetched from RCSB or dropped altogether'
+2026-09-14 23:00:41 | 💬 aqemia-antonin-brossollet created issue '[BUG] CIF Direct Template - Template coordinates are NEVER used, fetched from RCSB or dropped altogether' in aqlaboratory/openfold-3
+2026-09-14 22:51:18 | ⭐️ Yanc3113 starred GENTEL-lab/OriGene
+2026-09-14 22:50:53 | 🔀 jandom labeled PR in aqlaboratory/openfold-3
+2026-09-14 22:50:52 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [cfdba1f] (expanded) refactor a bit
+2026-09-14 22:48:46 | 🚀 gavinf97 pushed to BioComputingUP/dome-ml-observatory
+    - [5c48a38] (expanded) Release schema v1.4.0 and surface Europe PMC data links in both apps
+2026-09-14 22:44:05 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [e498c80] (expanded) basic tests and mypy fixes
+2026-09-14 22:35:58 | 🔀 jandom opened PR in aqlaboratory/openfold-3
+2026-09-14 22:33:56 | 🆕 jandom created branch 'jandom/2026-09/fix/issue-406-custom-template-names-dropped' at aqlaboratory/openfold-3
+2026-09-14 22:18:42 | 💬 jandom created issue '[BUG] CIF Direct Template - Template coordinates are NEVER used, fetched from RCSB or dropped altogether' in aqlaboratory/openfold-3
+2026-09-14 22:17:15 | 💬 jandom created issue '[BUG] CIF Direct Template - Template coordinates are NEVER used, fetched from RCSB or dropped altogether' in aqlaboratory/openfold-3
+2026-09-14 22:14:51 | 💬 jnwei created issue 'Add Colabfold msa server timeouts' in aqlaboratory/openfold-3
+2026-09-14 22:11:51 | 🔹 jandom performed DeleteEvent on aqlaboratory/openfold-3
+2026-09-14 22:11:50 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [6569fcc] (expanded) ci: fix broken integration tests (#405)
+2026-09-14 20:37:18 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [06f2143] (expanded) tighten timeout to 1h
+2026-09-14 20:25:38 | 🏷️  XimeAixa published release v2026-09-14 in BioComputingUP/idpo
+2026-09-14 20:17:19 | ⭐️ Lucyell starred biomed-AI/GPSite
+2026-09-14 19:43:37 | 🏷️  gavinf97 published release v1.3.0 in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:43:26 | 🚀 gavinf97 pushed to BioComputingUP/OSAI_ecosystem
+    - [623e77e] (expanded) Bump citation to v1.3.0
+2026-09-14 19:41:52 | 🚀 gavinf97 pushed to BioComputingUP/OSAI_ecosystem
+    - [7c5f07f] (expanded) Sync dome-ml-osai-ui: Nature Methods paper links
+2026-09-14 19:41:22 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'Include LLMs'
+2026-09-14 19:41:21 | 💬 gavinf97 created issue 'Include LLMs' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:20 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'new fair2 spec website add'
+2026-09-14 19:41:19 | 💬 gavinf97 created issue 'new fair2 spec website add' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:18 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'Add content -  Ethical Artificial Intelligence Framework Theory (EAIFT)'
+2026-09-14 19:41:17 | 💬 gavinf97 created issue 'Add content -  Ethical Artificial Intelligence Framework Theory (EAIFT)' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:16 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'Add model recip[es anthropic for agents'
+2026-09-14 19:41:15 | 💬 gavinf97 created issue 'Add model recip[es anthropic for agents' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:15 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'https://github.com/Drix10/ai-resources'
+2026-09-14 19:41:14 | 💬 gavinf97 created issue 'https://github.com/Drix10/ai-resources' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:13 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'Add shapley additive | Add bioai repo'
+2026-09-14 19:41:11 | 💬 gavinf97 created issue 'Add shapley additive | Add bioai repo' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:10 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'Add: https://ai4curation.github.io/aidocs/glossary/#knowledge-base-kb'
+2026-09-14 19:41:09 | 💬 gavinf97 created issue 'Add: https://ai4curation.github.io/aidocs/glossary/#knowledge-base-kb' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:08 | 💬 gavinf97 created issue 'datasheets ai' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:08 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'datasheets ai'
+2026-09-14 19:41:07 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'add agent skills'
+2026-09-14 19:41:06 | 💬 gavinf97 created issue 'add agent skills' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:04 | 💬 gavinf97 created issue 'https://senseaboutscience.org/responsible-handover-of-ai/' in BioComputingUP/OSAI_ecosystem
+2026-09-14 19:41:04 | 🐛 gavinf97 closed issue in BioComputingUP/OSAI_ecosystem: 'https://senseaboutscience.org/responsible-handover-of-ai/'
+2026-09-14 19:15:35 | 🔹 gavinf97 performed DeleteEvent on BioComputingUP/OSAI_ecosystem
+2026-09-14 19:15:32 | 🔹 gavinf97 performed DeleteEvent on BioComputingUP/OSAI_ecosystem
+2026-09-14 18:59:14 | 🚀 XimeAixa pushed to BioComputingUP/idpo
+    - [207c754] (expanded) Merge pull request #38 from BioComputingUP/feat/add-logo
+2026-09-14 18:55:06 | 🚀 XimeAixa pushed to BioComputingUP/idpo
+    - [bc83710] (expanded) Update README with logo
+2026-09-14 13:57:59 | 🚀 github-actions pushed to ai4protein/.github
+    - [7fd1cdb] (expanded) 🔄 Auto-update GitHub & Hugging Face stats
+2026-09-14 13:32:19 | ⭐️ mahdi-shafiei starred steineggerlab/SeekRank
+2026-09-14 13:31:59 | ⭐️ mahdi-shafiei starred steineggerlab/ufcg
+2026-09-14 13:31:31 | ⭐️ mahdi-shafiei starred steineggerlab/unicore
+2026-09-14 13:30:47 | ⭐️ mahdi-shafiei starred steineggerlab/foldmason
+2026-09-14 13:30:29 | ⭐️ mahdi-shafiei starred steineggerlab/folddisco
+2026-09-14 13:30:11 | ⭐️ mahdi-shafiei starred steineggerlab/riboseek
+2026-09-14 13:29:27 | ⭐️ mahdi-shafiei starred steineggerlab/foldcomp
+2026-09-14 13:22:56 | 🚀 yuanqm55 pushed to biomed-AI/DeltaCata-AL
+    - [bfb8e9a] (expanded) fix a small bug
+2026-09-14 13:05:30 | 🚀 milot-mirdita pushed to steineggerlab/alphafold
+    - [6b7a693] (expanded) Update to 2.3.20
+2026-09-14 12:30:35 | ⭐️ mingchen-li starred ai4protein/VenusFold
+2026-09-14 12:30:30 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [7e19e1b] (expanded) test: update MSA pipeline sequence fixture
+2026-09-14 12:29:18 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [7dc5a62] (expanded) docs: license code and weights under Apache 2.0
+2026-09-14 12:27:30 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [e7486a1] (expanded) test: expand MSA pipeline sequence fixture
+2026-09-14 12:26:09 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [4fcdbb3] (expanded) docs: preserve Protenix license
+2026-09-14 12:23:28 | 🚀 mingchen-li pushed to ai4protein/VenusFold
+    - [0a831c6] (expanded) docs: acknowledge Protenix
+2026-09-14 11:17:38 | 🚀 zhangliang-sys pushed to ai4protein/VenusFold
+    - [9515e03] (expanded) fix: harden template database download
+2026-09-14 11:16:13 | 🚀 zhangliang-sys pushed to ai4protein/VenusFold
+    - [fbfab0d] (expanded) docs: record hybrid checkpoint release
+2026-09-14 11:11:44 | 🚀 zhangliang-sys pushed to ai4protein/VenusFold
+    - [9354472] (expanded) feat: search missing MSAs before inference
+2026-09-14 11:03:29 | 🚀 alexholehouse pushed to holehouse-lab/PIMMS
+    - [88ef1fe] (expanded) Update for 1.0.8
+2026-09-14 10:45:53 | ⭐️ Milucoloryn starred biomed-AI/EModelX
+2026-09-14 09:41:14 | ⭐️ y1zhou starred ai4protein/VenusFold
+2026-09-14 09:14:57 | ⭐️ Garhorne0813 starred ai4protein/VenusFold
+2026-09-14 09:10:57 | 🍴 GITflyer78 forked steineggerlab/foldseek
+2026-09-14 09:10:53 | ⭐️ GITflyer78 starred steineggerlab/foldseek
+2026-09-14 08:46:16 | ⭐️ ekko8600 starred ai4protein/VenusFold
+2026-09-14 07:26:32 | ⭐️ PrashantKuntala starred baker-laboratory/RoseTTAFold-All-Atom
+2026-09-14 07:18:12 | 🚀 alexholehouse pushed to holehouse-lab/PIMMS
+    - [2acdd9d] (expanded) Work for 1.0.8
+2026-09-14 06:09:01 | ⭐️ mahdi-shafiei starred steineggerlab/Metabuli
+2026-09-14 06:04:20 | ⭐️ mahdi-shafiei starred steineggerlab/foldseek-multimer-analysis
+2026-09-14 06:03:47 | ⭐️ mahdi-shafiei starred steineggerlab/folddisco-analysis
+2026-09-14 06:00:56 | ⭐️ mahdi-shafiei starred steineggerlab/foldseek
+2026-09-14 05:58:52 | ⭐️ mahdi-shafiei starred steineggerlab/foldmason-analysis
+2026-09-14 00:11:06 | 🚀 milot-mirdita pushed to steineggerlab/alphafold
+    - [29bc7e0] (expanded) Update to 2.3.19
