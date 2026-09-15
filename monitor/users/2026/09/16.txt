@@ -1,0 +1,21 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-16 01:27:40 | 🚀 alexholehouse pushed to alexholehouse/holehouse.org
+    - [a9eaad4] (expanded) Update lecture 1
+2026-09-16 01:20:53 | 🚀 alexholehouse pushed to holehouse-lab/PIMMS
+    - [1e71170] (expanded) Minor doc change
+2026-09-15 20:12:58 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [474bfd3] (expanded) full triangle attention applied
+2026-09-15 19:39:13 | 🚀 alexholehouse pushed to alexholehouse/holehouse.org
+    - [884f6fb] (expanded) Update with new structure and format
+2026-09-15 18:08:55 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [9f803d9] (expanded) Note VenusFactory on the national graduate AI-for-science platform.
+2026-09-15 17:39:52 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [18fd969] (expanded) Add a Talks section and keep Media as one localized line per language.
+2026-09-15 14:17:44 | 🚀 zaixizhang pushed to zaixizhang/STELLA
+    - [f765aa9] (expanded) Update completion rates and average lower bounds for models
+2026-09-15 14:14:55 | 🚀 zaixizhang pushed to zaixizhang/STELLA
+    - [36e5a81] (expanded) Add files via upload
+2026-09-15 07:11:44 | 💬 WillHua127 created issue 'Support for minibinders ?' in aurekaresearch/OpenDDE-Harness
+2026-09-15 01:40:15 | ⭐️ jsunn-y starred t-0hmura/pdb2reaction
+2026-09-15 00:00:51 | ⭐️ jsunn-y starred ClickFF/MAPLE
