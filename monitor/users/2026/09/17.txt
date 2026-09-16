@@ -1,0 +1,40 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-17 03:42:30 | ⭐️ jsunn-y starred coleygroup/shepherd2
+2026-09-17 03:21:28 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-09-17 03:21:22 | 🆕 Leo-T-Zang created branch 'remove-duplicate-assays' at MarksLab-DasLab/RNAGym
+2026-09-17 02:34:47 | 🍴 WillHua127 forked vinnylarouge/jevlike
+2026-09-17 01:13:16 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3a7f146] (expanded) boltz2 keeps a modified residue in ONE token: 1.813 -> 0.938
+2026-09-17 00:40:20 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [6211ce2] (expanded) boltz2 tore apart a modified residue: a harness fault and a real one
+2026-09-17 00:21:37 | 💬 jgreener64 created issue 'Skip addrspace(11) argument phis reached through variable GEPs in nodecayed_phis!' in EnzymeAD/Enzyme.jl
+2026-09-17 00:13:16 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [64ab899] (expanded) A handover brief for af3-any-model's boltz2 PTM defect
+2026-09-17 00:08:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1966f7e] (expanded) Genuine Boltz-2 places the phosphoserine correctly: it is the PORT's defect
+2026-09-17 00:08:10 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1966f7e] (expanded) Genuine Boltz-2 places the phosphoserine correctly: it is the PORT's defect
+2026-09-16 23:53:10 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d48af48] (expanded) boltz2 tears apart a phosphoserine, and it is the REFERENCE's defect not ours
+2026-09-16 23:43:30 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [d6a1433] (expanded) record the weights drift: 5 of 13 broken, 13/13 after, and why no gate saw it
+2026-09-16 23:19:04 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [0d63a09] (expanded) republish every model, and repair the publish guard that had been dead for days
+2026-09-16 22:15:49 | 🐛 jgreener64 opened issue in JuliaGPU/AcceleratedKernels.jl: '`accumulate!` with `inclusive=false` gives wrong answer'
+2026-09-16 22:10:17 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [4216021] (expanded) Consolidate honors and record scholarship amounts.
+2026-09-16 21:45:12 | 🚀 sokrypton pushed to sokrypton/protein_fighter
+    - [4d2dcef] (expanded) Some of the host's words are only the host's
+2026-09-16 16:07:56 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [ca1e9d5] (expanded) Update README.md
+2026-09-16 15:35:26 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [6d527a6] (expanded) Add publication on structure predictions
+2026-09-16 10:47:12 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [df05d00] (expanded) Update README.md
+2026-09-16 10:26:04 | 🚀 luost26 pushed to luost26/academic-homepage-nostalgia-1990s
+    - [059e3de] (expanded) Add Windows 98 cursors to classic theme
+2026-09-16 10:17:23 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [19c7a18] (expanded) Revert misplaced Aero visited-link change
+2026-09-16 10:09:20 | 🚀 luost26 pushed to luost26/academic-homepage-frutiger-aero
+    - [ad1bc19] (expanded) Keep Aero header link white after visiting
