@@ -1,0 +1,34 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-18 04:26:25 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [30fbd8c] (expanded) One slot on a phone, and full screen grows it
+2026-09-18 04:23:53 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [f2884cd] (expanded) two modes, and the staged driver moves into the library
+2026-09-18 04:19:17 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [b6d4842] (expanded) native curves now start at 64 tokens, same session as ours
+2026-09-18 04:15:27 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [88ee3c2] (expanded) expose num_msa, in the notebook and as a CLI flag
+2026-09-18 04:01:13 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9220b2b] (expanded) 🔴 npm test was red on a clean checkout, and had been before this branch
+2026-09-18 02:25:49 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [06b2569] (expanded) the embed fix landed in the driver nobody uses
+2026-09-18 02:00:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [143d085] (expanded) 🔴 Three UI bugs the API path could not see, including benzene into hexane
+2026-09-18 01:56:31 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [7fc3554] (expanded) Two slots, every view: the structure, each map and the scatter plot swap places
+2026-09-18 01:46:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c18072f] (expanded) 🔴 Two different SMILES in one job were the same molecule to the model
+2026-09-18 01:30:10 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [127dc7c] (expanded) the live cell never fetched the MSA
+2026-09-18 01:17:37 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [dfef047] (expanded) The sharpest gate: a SMILES ligand featurises to the same BATCH as its code
+2026-09-18 00:44:21 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [070179c] (expanded) make the branch's notebook runnable without a release
+2026-09-17 19:53:36 | ⭐️ Junjie-Zhu starred Gxy-with-luv/AFF2024
+2026-09-17 19:27:01 | ⭐️ shichence starred Mingchenchen/TorchX
+2026-09-17 18:05:39 | ⭐️ Immortals-33 starred jmiao24/Paper2Agent
+2026-09-17 03:42:30 | ⭐️ jsunn-y starred coleygroup/shepherd2
+2026-09-17 03:21:28 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-09-17 03:21:22 | 🆕 Leo-T-Zang created branch 'remove-duplicate-assays' at MarksLab-DasLab/RNAGym
+2026-09-17 02:34:47 | 🍴 WillHua127 forked vinnylarouge/jevlike
+2026-09-17 00:21:37 | 💬 jgreener64 created issue 'Skip addrspace(11) argument phis reached through variable GEPs in nodecayed_phis!' in EnzymeAD/Enzyme.jl
