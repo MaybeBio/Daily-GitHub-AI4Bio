@@ -1,0 +1,36 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-19 01:19:17 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [4b6fd77] (expanded) feat(frontend): restyle homepage around self-evolving agents and Venus mark
+2026-09-18 23:43:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [f929d48] (expanded) "All 5" folds AlphaFold 2's five models as one prediction, ranked together
+2026-09-18 22:25:18 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [55d91d0] (expanded) the bf16 sampler gate was a guess; it is now a T4 measurement
+2026-09-18 21:45:02 | ⭐️ jgreener64 starred mattgummow/Molly-minimisers
+2026-09-18 19:20:18 | ⭐️ lujiarui starred browser-use/jev-ultrafast
+2026-09-18 19:13:21 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [425aac2] (expanded) build based on e35e312
+2026-09-18 19:06:19 | 🏷️  jgreener64 published release v1.0.0 in greener-group/garnet
+2026-09-18 18:55:35 | 🚀 jgreener64 pushed to greener-group/garnet
+    - [d594b06] (expanded) update news, bump version
+2026-09-18 18:37:45 | 🔹 jgreener64 performed DeleteEvent on greener-group/garnet
+2026-09-18 18:23:21 | 🚀 jgreener64 pushed to greener-group/group_website
+    - [a22815f] (expanded) members update
+2026-09-18 18:02:33 | 💬 jgreener64 created issue '`pkg> up` Warning: Circular dependency detected' in JuliaDocs/Franklin.jl
+2026-09-18 17:44:14 | 🚀 jgreener64 pushed to jgreener64/jgreener64.github.io
+    - [0baf057] (expanded) Garnet published
+2026-09-18 17:12:00 | ⭐️ Immortals-33 starred anthropics/uplifting-biomolecular-modeling
+2026-09-18 17:05:43 | ⭐️ Immortals-33 starred t-muser/flowers
+2026-09-18 16:31:02 | ⭐️ Zuricho starred anthropics/uplifting-biomolecular-modeling
+2026-09-18 13:34:10 | ⭐️ sirius777coder starred anthropics/uplifting-biomolecular-modeling
+2026-09-18 07:29:47 | 🚀 jsunn-y pushed to jsunn-y/jsunn-y.github.io
+    - [8e826f6] (expanded) small typo fixed
+2026-09-18 05:46:10 | 🆕 sokrypton created branch 'af2-model-deltas' at sokrypton/localfold
+2026-09-18 05:40:50 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3fe2306] (expanded) The clash scorer was mis-calibrated, and the page's default is exonerated
+2026-09-18 04:32:12 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [dd0e855] (expanded) the overlay did not carry staged.py, which is a NEW file
+2026-09-18 01:28:56 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1b0666c] (expanded) Scale, and the gate that says a large ligand survives intact
+2026-09-18 01:23:36 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [0c2aad0] (expanded) Add ReGATE training and evaluation code
