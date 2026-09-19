@@ -1,0 +1,54 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-20 04:41:06 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [514c4bb] (expanded) the A100 keeps tokamax, and here is the measurement that says so
+2026-09-20 04:37:10 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [e915167] (expanded) A ligand and its side chains stop costing the whole mesh, every step
+2026-09-20 04:34:40 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [e6cbb7f] (expanded) run_alphafold learns the 'pallas' backend
+2026-09-20 04:29:48 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [826bb94] (expanded) an A100 harness for the Pallas kernel, and it ships in the notebook
+2026-09-20 04:20:25 | 🆕 sokrypton created branch 'backward' at sokrypton/colabfold-legacy-kernels
+2026-09-20 04:11:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a7d3d0c] (expanded) Correct why a repeat fetch is cheap: our Cache Storage, not the browser's
+2026-09-20 04:10:08 | 🍴 sokrypton forked mirditalab/colabfold-legacy-kernels
+2026-09-20 04:08:19 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [88a28d8] (expanded) the volta gate: 4 models, 6MRR, and the fold does not move
+2026-09-20 03:56:45 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [ad32fd4] (expanded) tokamax parses sys.argv the first time it reads a flag
+2026-09-20 03:48:57 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [faacf5a] (expanded) the two probe cells ran before the CCD pickles existed
+2026-09-20 03:47:39 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2e15d0e] (expanded) Early Stop: rename, three values, 0.1 by default, and pair the options row
+2026-09-20 03:42:25 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [4d4655e] (expanded) the volta row now covers three kernels, not one
+2026-09-20 03:39:50 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [5c4e1aa] (expanded) a T4 harness for the two new kernels
+2026-09-20 03:37:23 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [950fb2a] (expanded) tri-mul's LayerNorm and GLU get the pre-Ampere kernels too
+2026-09-20 03:16:42 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [ca0c8e3] (expanded) "All 5" saves one structure per model, ranked
+2026-09-20 01:01:24 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [e9729dc] (expanded) one tarball for the script and the package; raw.githubusercontent lies
+2026-09-20 00:55:42 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [bb63bd8] (expanded) the cc-7.x check rejected the one fused kernel 7.x can run
+2026-09-20 00:53:47 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [a8ad91a] (expanded) give the T4 a fused attention: wire in the pre-Ampere kernels
+2026-09-20 00:41:58 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [6bd661c] (expanded) credit Milot Mirdita for the device matrix, and for the pre-Ampere kernels
+2026-09-20 00:17:04 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [1ab3e05] (expanded) say what a TPU is worth, now that it has been measured
+2026-09-19 23:29:45 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [c557e82] (expanded) pin jax only where it is actually wrong
+2026-09-19 23:03:16 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [f952de9] (expanded) zstandard was missing from the install cell's hand-written dependency list
+2026-09-19 22:39:38 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [2371c18] (expanded) run_alphafold can place a fold on a TPU, instead of calling it a CPU
+2026-09-19 21:55:13 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [6717ae7] (expanded) a TPU was indistinguishable from a CPU, and the CPU row turns jit off
+2026-09-19 19:18:03 | ⭐️ AspirinCode starred MengwuXiao/chemlabelme
+2026-09-19 18:19:50 | ⭐️ shichence starred anthropics/uplifting-biomolecular-modeling
+2026-09-19 16:26:23 | ⭐️ shichence starred aitofound/ScienceIDE
+2026-09-19 09:26:02 | ⭐️ lmqfly starred lmqfly/AgentFold
+2026-09-19 01:19:17 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [4b6fd77] (expanded) feat(frontend): restyle homepage around self-evolving agents and Venus mark
