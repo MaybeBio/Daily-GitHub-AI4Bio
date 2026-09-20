@@ -1,0 +1,60 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-21 04:54:37 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b8d41ce] (expanded) What the broker drops is not dropped in silence
+2026-09-21 04:50:31 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [44de5fc] (expanded) A reloaded runtime page replayed the whole session, and it folded
+2026-09-21 04:43:12 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a69c746] (expanded) A reader who arrives mid-fold follows it, instead of watching nothing
+2026-09-21 04:39:14 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5621e3e] (expanded) The push has to leave without waiting, and the runtime has to have a pulse
+2026-09-21 04:22:00 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [886b6b3] (expanded) The Colab feed is pushed, and the commands come back the other way
+2026-09-21 03:59:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9125823] (expanded) Colab is one notebook and one badge, and the other two are retired
+2026-09-21 03:43:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8d33764] (expanded) Vendor py2Dmol 65ea618: the contact map stops blinking over the structure
+2026-09-21 03:43:20 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [65ea618] (expanded) A structure that blinks is not a structure that left
+2026-09-21 03:25:01 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cbc4465] (expanded) Vendor py2Dmol 178810a: the cartoon fixes from today's session
+2026-09-21 03:12:43 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [178810a] (expanded) Problem 3 is the outline, and five hypotheses for it are closed
+2026-09-21 01:54:50 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [5301bab] (expanded) the fused GLU and LayerNorm had no backward, and the volta row just armed it
+2026-09-21 00:17:41 | 🚀 sokrypton pushed to sokrypton/colabfold-legacy-kernels
+    - [029c75e] (expanded) a backward pass for the sm_70 attention kernel too
+2026-09-21 00:17:16 | 🚀 sokrypton pushed to sokrypton/colabfold-legacy-kernels
+    - [bf0cc0a] (expanded) a backward pass for the sm_70 attention kernel too
+2026-09-21 00:10:58 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [3acea0b] (expanded) drive the sm_70 attention backward too, so a V100 can design
+2026-09-20 23:07:01 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [b3b3d57] (expanded) the Ada design row, gated on a real L4 (and the A100 ceiling measured)
+2026-09-20 23:05:03 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [af771c0] (expanded) gate the Ada DESIGN row on a real L4
+2026-09-20 22:55:56 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [41b0ae6] (expanded) a gradient on Ada goes to Triton, and the reason is MEMORY
+2026-09-20 22:44:18 | 🔀 sokrypton opened PR in mirditalab/colabfold-legacy-kernels
+2026-09-20 22:42:12 | 🚀 sokrypton pushed to sokrypton/colabfold-legacy-kernels
+    - [39a1b8a] (expanded) a backward pass for the sm_75 attention kernel, with dBias
+2026-09-20 14:23:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9db0b1d] (expanded) bondedAtomPairs: the covalent inhibitor is bonded, 1.62 A against 6.25
+2026-09-20 14:04:47 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fcc02fb] (expanded) The gate that was missing: test:modified reaches ESMFold2, and fails on it
+2026-09-20 13:19:16 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0988ca8] (expanded) A turing prior: the outer product mean wants a block of eight, and that is 2.1x
+2026-09-20 12:46:40 | 🔹 sokrypton performed DeleteEvent on sokrypton/alphafold3
+2026-09-20 11:59:39 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [12595ab] (expanded) the esmfold2 ref-pos table must not touch an ATOMISED residue
+2026-09-20 11:34:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0c7c78b] (expanded) Not the step count: swept on the vendor, and matched at 138 it is still 2.35x
+2026-09-20 09:07:27 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e7bbdb1] (expanded) LocalFold's own fold, on a runtime's GPU, behind one pasted line
+2026-09-20 07:37:29 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [b6613ec] (expanded) a differentiable caller on a T4 keeps the kernel, if the wheel has a backward
+2026-09-20 06:34:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b52a16f] (expanded) One name for a fold: the box names the object, the files and the request
+2026-09-20 04:03:17 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a8b0ce9] (expanded) Keep the shards when a sweep releases a model: 40 refetches become 0
+2026-09-20 00:57:09 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [30ec15f] (expanded) the overlay fetched a stale run_alphafold.py from the CDN
