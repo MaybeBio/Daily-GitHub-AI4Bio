@@ -1,0 +1,76 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-22 04:16:37 | ⭐️ thematrixmaster starred martinpacesa/BindCraft
+2026-09-22 01:45:17 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [221ae8f] (expanded) `deploy.py --verify` measured the live site against the wrong branch
+2026-09-22 01:34:30 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [19ee904] (expanded) The Colab setup failed on every warm re-run, and it is an unset variable
+2026-09-22 00:58:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [ffc6179] (expanded) The Colab runtime goes back to chrome, because node folds one protein chain
+2026-09-21 23:50:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1a9476b] (expanded) The layout gate was red for a mechanism change: assert the capability
+2026-09-21 23:32:21 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8134147] (expanded) The page still folds after the extractions: nine families, and the tenth is main's
+2026-09-21 23:06:38 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-21 23:06:36 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:54:06 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:53:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [bebefa8] (expanded) docs/DAWN.md: the branch's measurements, dead ends and traps in one place
+2026-09-21 22:52:40 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:51:34 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:50:24 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:49:06 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:46:16 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:46:06 | 🆕 sokrypton created branch 'dawn' at sokrypton/localfold
+2026-09-21 22:39:02 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:35:01 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:33:23 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:31:09 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:26:56 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:23:53 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:18:05 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:16:33 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:15:37 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:14:22 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:14:04 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:12:08 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:09:40 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:09:17 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:02:49 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 22:02:09 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 21:54:12 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 21:47:28 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 21:44:02 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 21:36:41 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 21:35:35 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 21:29:35 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-21 20:36:39 | ⭐️ QizhiPei starred NVIDIA-NeMo/DataDesigner
+2026-09-21 20:28:00 | ⭐️ sirius777coder starred PacesaLab/BindCraft2
+2026-09-21 19:29:31 | ⭐️ Zuricho starred PacesaLab/BindCraft2
+2026-09-21 19:16:37 | ⭐️ tyang816 starred PacesaLab/BindCraft2
+2026-09-21 18:42:30 | ⭐️ Immortals-33 starred PacesaLab/BindCraft2
+2026-09-21 10:42:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [20b065d] (expanded) The token is not kept in the URL, and the pulse stops when told
+2026-09-21 10:25:19 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2b8cbf4] (expanded) A busy page is not a dead runtime, and the machine is handed back twice over
+2026-09-21 10:09:31 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5c0160d] (expanded) The WEB.md line that said the machine could not be handed back
+2026-09-21 10:08:51 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0a9a289] (expanded) Disconnect hands the machine back, which I had written down as impossible
+2026-09-21 07:57:32 | ⭐️ jsunn-y starred ClickFF/MACEPOL-EF
+2026-09-21 06:40:02 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [348896d] (expanded) None of the Colab work reaches a page that folds in your own browser
+2026-09-21 06:36:43 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b54a64f] (expanded) Disconnect stops the runtime, and a prediction crosses with its types
+2026-09-21 06:23:55 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d2cdd28] (expanded) The dev panel is the runtime's, and the footer says less
+2026-09-21 06:16:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9698448] (expanded) The broker's browser does not outlive the broker
+2026-09-21 06:14:33 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [6a0e116] (expanded) The page says where Fold runs, and offers the way back
+2026-09-21 06:09:18 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [7dcc392] (expanded) The download row offers what there is to download, and nothing else
+2026-09-21 06:04:52 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d20d7b1] (expanded) A result belongs to the model that made it, and the viewers say so
+2026-09-21 03:09:25 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [cfbd99f] (expanded) the pallas attention says why it cannot be differentiated
