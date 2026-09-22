@@ -1,0 +1,96 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-23 00:37:47 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [d6d4c5f] (expanded) bench: the A10 column of the GLU sweep, finished
+2026-09-23 00:36:03 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [ebcd9cb] (expanded) bench: the pallas GLU is the fastest forward and the slowest gradient
+2026-09-22 23:21:18 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-09-22 23:20:56 | 🆕 Leo-T-Zang created branch 'add-3d-structure-models' at MarksLab-DasLab/RNAGym
+2026-09-22 21:59:28 | ⭐️ Zuricho starred jaredpalmer/kev
+2026-09-22 20:45:06 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [eda1e9d] (expanded) update colab notebook
+2026-09-22 20:31:54 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [9c5bdb8] (expanded) reorganize, delete docker option
+2026-09-22 19:51:18 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [61c3523] (expanded) Update README.md
+2026-09-22 19:43:51 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [ab08db0] (expanded) Update README.md
+2026-09-22 19:39:47 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [a0159fe] (expanded) Update README.md
+2026-09-22 19:21:53 | 🚀 Shenggan pushed to Shenggan/L3KernelBench
+    - [82ceef4] (expanded) fix: mark sparse GNN kernels unsupported on NPU and sync all_to_all splits
+2026-09-22 18:57:00 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [6e203af] (expanded) Update README.md
+2026-09-22 18:55:22 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [d9d43bc] (expanded) Update README.md
+2026-09-22 18:30:47 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [8d01f2c] (expanded) Update README.md
+2026-09-22 18:17:18 | 💬 jgreener64 created issue 'Native Allegro equivariant potential (energy + analytic forces, CPU/GPU)' in JuliaMolSim/Molly.jl
+2026-09-22 15:45:22 | 🚀 Barakhsaana pushed to Barakhsaana/MODM6A
+    - [a596a47] (expanded) Update README with improved abstract and MODM6A details
+2026-09-22 15:39:06 | ⭐️ lujiarui starred jaredpalmer/kev
+2026-09-22 13:13:33 | ⭐️ Immortals-33 starred chembl/FPSim2
+2026-09-22 13:10:38 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [f19d575] (expanded) Update README.md
+2026-09-22 13:00:25 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [d0253ea] (expanded) Update README.md
+2026-09-22 12:51:45 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [1fc87e7] (expanded) bench: the grad sweeps make their own log dir
+2026-09-22 12:34:39 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [2ab9cef] (expanded) dev: two design-side specs come here, with the code they describe
+2026-09-22 12:29:13 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [263e501] (expanded) af2: convert SUPPLIED monomer params too, not only loaded ones
+2026-09-22 12:07:06 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [0d01caf] (expanded) The reference comes back into the notebook, and the form drops its footnote
+2026-09-22 11:59:50 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [b999ccc] (expanded) The notebook shows 43 lines of text where it showed 120
+2026-09-22 11:41:11 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [7f29a79] (expanded) Update README.md
+2026-09-22 11:19:11 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [a8582c9] (expanded) 32 diffusion steps, and the form stops explaining itself
+2026-09-22 11:15:53 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [466b492] (expanded) Three recycles by default, which is a trade and not a correction
+2026-09-22 11:14:20 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [2e71634] (expanded) One MSA dial at 512, with AF2's extra stack following it
+2026-09-22 11:13:09 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [0fe76d7] (expanded) num_extra_msa exists, live_view is shared, and each family keeps its own recycle default
+2026-09-22 11:08:02 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [7547150] (expanded) One pipeline, two invocations: the live paths call process_fold_input now
+2026-09-22 10:57:11 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [a6a9b29] (expanded) The AF2 live branch was compiling from scratch every session
+2026-09-22 10:55:05 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [22cdc2e] (expanded) The live view works for AlphaFold 2 too, a recycle at a time
+2026-09-22 10:47:18 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [ee17a0a] (expanded) diffusion_steps, and the form says which family each option is for
+2026-09-22 10:42:06 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [2da4f65] (expanded) Every denoising step is a frame, drawn one step late instead of dropped
+2026-09-22 10:18:55 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [3d84ac4] (expanded) The live fold asked for one sample while the form said five
+2026-09-22 09:59:58 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [4417c50] (expanded) One steps field for both modes, and the live view is the default
+2026-09-22 09:42:34 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [077f696] (expanded) The write-out crashed, the preamble was five lines, and the drawing waited on the GPU
+2026-09-22 09:30:55 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [e8787ca] (expanded) live_view writes a real output folder, and the fold stops carrying the trunk's map
+2026-09-22 09:24:16 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [41c2ba0] (expanded) "No model CIFs found" was true and useless
+2026-09-22 09:06:36 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [e249855] (expanded) The data decides whether there is a panel, not a flag the caller remembers
+2026-09-22 08:54:05 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [0650ef7] (expanded) heatmap='tab': the panel and its placement in one word
+2026-09-22 08:53:32 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [46617e8] (expanded) heatmap="tab", because nobody guesses slots=1
+2026-09-22 08:47:14 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [f05e362] (expanded) One box, asked for in one word
+2026-09-22 08:47:01 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [af57581] (expanded) slots=1 is one word, and it is not the default - measured
+2026-09-22 08:31:56 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [38d4aed] (expanded) One slot on purpose: small=False, which is not small=None
+2026-09-22 08:16:05 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [edf430e] (expanded) the design layer's two helpers move out of the CLI script, and two globals grow a front door
+2026-09-22 08:05:51 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [970d8da] (expanded) The int64 iota warned once per fold and was already int32
+2026-09-22 07:28:06 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [88a6f4b] (expanded) One progress bar, and the contact map can actually be seen
+2026-09-22 06:55:37 | ⭐️ WillHua127 starred PacesaLab/BindCraft2
+2026-09-22 04:16:37 | ⭐️ thematrixmaster starred martinpacesa/BindCraft
