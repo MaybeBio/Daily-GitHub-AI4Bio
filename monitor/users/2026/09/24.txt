@@ -1,0 +1,26 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-23 21:25:51 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [8e98d8b] (expanded) featurization: a switch for whether the MSA carries a design gradient
+2026-09-23 20:54:57 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [ecd2657] (expanded) Update train.yaml
+2026-09-23 19:56:37 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [d5a68c7] (expanded) refine benchmark pipelines
+2026-09-23 19:44:32 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [d5d0da8] (expanded) Update README.md
+2026-09-23 16:24:25 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [e724414] (expanded) notebook, zenodo link, expert utilization
+2026-09-23 16:07:03 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [5b99e28] (expanded) Update README.md
+2026-09-23 14:23:19 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [c80295b] (expanded) update notebook
+2026-09-23 14:22:41 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [b293b81] (expanded) Update README.md
+2026-09-23 14:15:35 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [3a016af] (expanded) Update README.md
+2026-09-23 13:34:59 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [c03f7bb] (expanded) Update README.md
+2026-09-23 13:07:49 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [d698b36] (expanded) Update README.md
+2026-09-23 12:12:43 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [9a9eaa8] (expanded) Update README.md
