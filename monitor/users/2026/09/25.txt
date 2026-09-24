@@ -1,0 +1,31 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-25 01:28:17 | 🚀 bjing2016 pushed to bjing2016/ProDiT
+    - [c7e6b86] (expanded) paper release
+2026-09-24 22:50:10 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [30ce389] (expanded) Merge main: Milot's packaging, perf and precision work
+2026-09-24 21:23:45 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [8edd59c] (expanded) build based on e8c3b9c
+2026-09-24 21:19:55 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [47099d9] (expanded) improved neighbour interface
+2026-09-24 18:57:04 | 💬 jgreener64 created issue 'GPU gradient fixes' in EnzymeAD/Enzyme.jl
+2026-09-24 18:55:34 | 🚀 jgreener64 pushed to jgreener64/Enzyme.jl
+    - [b9b1952] (expanded) GC preserve ddest
+2026-09-24 18:55:34 | 🚀 jgreener64 pushed to jgreener64/Enzyme.jl
+    - [b9b1952] (expanded) GC preserve ddest
+2026-09-24 18:53:20 | 🚀 jgreener64 pushed to jgreener64/Enzyme.jl
+    - [1f46553] (expanded) GC preserve ddest
+2026-09-24 15:52:12 | ⭐️ Junjie-Zhu starred jhpoelen/zenodo-upload
+2026-09-24 14:24:49 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [ca3823a] (expanded) Update README.md
+2026-09-24 14:06:59 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [b71be4a] (expanded) Add new publication on LLMs for molecular optimization
+2026-09-24 12:13:26 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [e5dbf39] (expanded) Preserve example structure checksums on Windows
+2026-09-24 12:07:36 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [90e7462] (expanded) Release TopoKit v0.3.0
+2026-09-24 11:59:26 | 🆕 ChenDdon created branch 'main' at ChenDdon/TopoKit
+2026-09-24 07:47:01 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [5ac04a1] (expanded) esm: mask_x for an undecided chain, and a per-channel MSA gradient switch
+2026-09-24 06:16:39 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
+2026-09-24 06:16:23 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
