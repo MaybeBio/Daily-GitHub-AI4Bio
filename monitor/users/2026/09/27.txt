@@ -1,0 +1,69 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-27 04:59:13 | 🚀 sokrypton pushed to sokrypton/aoe
+    - [0160859] (expanded) MP: Cloudflare TURN relay, vendored PeerJS, signaling keepalive
+2026-09-27 04:45:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [74dc435] (expanded) PERF.md: gridAttendMatrix's cold cost on the T4, and why it stays
+2026-09-27 04:38:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [128438c] (expanded) PERF.md: the triangle-matrix cold cost over six rounds
+2026-09-27 04:28:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cde8bc1] (expanded) Turing prior: actually remove the triangle matrix entries (the previous commit left them)
+2026-09-27 04:28:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [bcc65d8] (expanded) Turing prior: triangle projection back off the matrix units - a cold fold pays more than a warm one saves
+2026-09-27 04:15:49 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8aaf7af] (expanded) Turing prior: AF3's triangle projection on the matrix units at 128 channels
+2026-09-27 03:50:02 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [17e670a] (expanded) PERF.md: capping concurrent pipeline compiles is slower on the T4, measured
+2026-09-27 03:38:39 | ⭐️ jsunn-y starred ACEsuit/mace
+2026-09-27 03:34:19 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [25b3cca] (expanded) PERF.md: the T4's tiered upgrade queue takes most of a minute, measured
+2026-09-27 03:19:56 | ⭐️ jsunn-y starred zaixizhang/PocketGen
+2026-09-27 03:17:39 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [44c33f8] (expanded) Opaque loop bounds cover every u32-constant-bound loop, lane-strided ones included
+2026-09-27 03:10:05 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [170a752] (expanded) Turing prior: AF2's flash attention off the matrix units - 3-7 s off a fresh T4's first fold
+2026-09-27 03:01:00 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3d77210] (expanded) Turing prior compiles tiered: opaque loop bounds first, the unrolled kernels behind them
+2026-09-27 02:57:06 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8aee2c2] (expanded) Pipeline cache: runtimeLoopBounds "tiered" - opaque bounds first, the unrolled kernel compiled behind it
+2026-09-27 02:51:12 | 🚀 Shenggan pushed to Shenggan/shenggan.github.io
+    - [0842765] (expanded) update cv
+2026-09-27 02:01:10 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2535162] (expanded) PERF.md: the Colab T4 - branch against main, the probe coin toss, and the compile wall
+2026-09-27 01:47:22 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cb2371c] (expanded) Turing prior pins the three width-derived diffusion knobs
+2026-09-27 00:51:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [344f12e] (expanded) ESMFold2 and ESM-C row tile of two is the ampere prior's, not a default
+2026-09-27 00:19:29 | 🆕 sokrypton created branch 'opus-55-opt' at sokrypton/localfold
+2026-09-26 20:35:04 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [7bab33b] (expanded) Update README.md
+2026-09-26 20:32:56 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [688cf23] (expanded) Update README.md
+2026-09-26 20:29:29 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [0957379] (expanded) Update README.md
+2026-09-26 20:10:43 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [ab5bd38] (expanded) The pLDDT trace as a tab, which this page asks for because it knows
+2026-09-26 20:09:57 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [67cbe73] (expanded) A confidence trace as a slot view, off unless the caller knows it is one
+2026-09-26 20:03:22 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [72caecf] (expanded) Add StructAgent project details to README
+2026-09-26 19:58:32 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [b89d62a] (expanded) Update README.md
+2026-09-26 15:55:57 | ⭐️ AspirinCode starred Wang-Lin-boop/AutoMD
+2026-09-26 10:57:55 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8d6bb47] (expanded) OpenDDE's confidence head is exact on a real pair: 6.13e-3 was the int5 bundle
+2026-09-26 07:42:16 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [5bb9769] (expanded) the live view can animate a structural-token model
+2026-09-26 07:14:24 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e12064f] (expanded) OpenDDE's PAE grain is the reference's too: the composition arm its oracle could not be
+2026-09-26 05:27:06 | 🚀 bjing2016 pushed to bjing2016/ProDiT
+    - [2de7036] (expanded) Add MIT License
+2026-09-26 05:25:18 | 🏷️  bjing2016 published release v1.0.0 in bjing2016/ProDiT
+2026-09-26 05:24:34 | 🚀 bjing2016 pushed to bjing2016/ProDiT
+    - [8d95042] (expanded) Add MIT License
+2026-09-26 03:43:32 | 🚀 luost26 pushed to conda-forge/prexsyn-engine-feedstock
+    - [ea01eff] (expanded) Merge pull request #13 from regro-cf-autotick-bot/rebuild-python315-0-1_hb09d9c
+2026-09-26 01:31:34 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [512619d] (expanded) RETRACTED: int5 does not cost the confidence head 2 pLDDT - it costs 0.145, and the head is not the lever
+2026-09-26 01:02:20 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [901ef58] (expanded) ESMFold2's atom attention is dense now, and the attend kernel can afford it: +2.5 pLDDT
