@@ -1,0 +1,78 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-28 01:00:00 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [03931ac] (expanded) Minor
+2026-09-28 00:39:01 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [3b53aa5] (expanded) updates
+2026-09-27 19:55:14 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [dde9436] (expanded) Update README.md
+2026-09-27 13:04:18 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8c60230] (expanded) AF2 multimer templates: the page builds one atom37 slot over the complex (each chain at its offset); fold-af2.js takes --chain=A,D and --template=path:A,D; test:template gains a 1BRS multimer arm; the JAX worker stops refusing (upstream already featurises it)
+2026-09-27 12:40:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c623d1e] (expanded) docs/WEB.md: the JAX backend's fourth pass - Flow, the Drive compile cache
+2026-09-27 12:35:53 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [31bb0bf] (expanded) a Flow sampler: one draw at sigma_max 10, then the prediction replaces the state
+2026-09-27 12:24:04 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5f5b6fd] (expanded) JAX backend: the Flow sampler (with sokrypton/alphafold3's new flow walk); rosettafold3 refuses it as the page does; the notebook can keep JAX's compile cache in Drive
+2026-09-27 12:07:34 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d2a1b65] (expanded) docs/WEB.md: the JAX backend's third pass and the two fixes it took upstream
+2026-09-27 12:07:14 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [0a533eb] (expanded) live mode runs structural-token models; --stepwise_recycles works; the MSA search returns its template hits
+2026-09-27 11:52:59 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [61671ce] (expanded) JAX backend: templates from the MSA search; a merged MSA panel for complexes; no WebGPU option where there is no adapter; opendde live again (needs the colab branch fix)
+2026-09-27 11:41:44 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fa13bb6] (expanded) JAX backend: an uploaded PDB template parses (one alternate location, one chain's polymer); templates, the chain split and AF3's parameter fetch measured on an L4
+2026-09-27 11:17:28 | 🔹 alexholehouse performed DeleteEvent on holehouse-lab/protfasta
+2026-09-27 11:17:22 | 🚀 alexholehouse pushed to holehouse-lab/protfasta
+    - [28445db] (expanded) Merge pull request #6 from holehouse-lab/dev-0.1.24
+2026-09-27 11:17:21 | 🔀 alexholehouse merged PR in holehouse-lab/protfasta
+2026-09-27 11:16:18 | 🔀 alexholehouse opened PR in holehouse-lab/protfasta
+2026-09-27 11:11:12 | 🚀 alexholehouse pushed to holehouse-lab/protfasta
+    - [acaa52d] (expanded) 0.1.24 update - see changelog
+2026-09-27 11:11:04 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2b34a6b] (expanded) JAX backend: templates (PDB entry, AlphaFold DB, upload) as AF3's own template input; a merged alignment split by chain; AlphaFold 3's parameters fetched after the page's terms
+2026-09-27 11:06:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [62c5fa6] (expanded) docs: every model through the JAX backend, measured on the reader's page; TOOLS.md lists jax_worker.py
+2026-09-27 10:56:54 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8de6724] (expanded) JAX backend: opendde folds without live frames (af3-any-model's stepwise path fails on structural tokens); a monomer's ipTM is NaN, not the last fold's
+2026-09-27 10:31:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [544bb81] (expanded) docs/WEB.md: the JAX backend on the Colab runtime
+2026-09-27 10:31:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e9dd06e] (expanded) JAX worker: restart keeps its event pipe; AF2's family carries its model number; the result names its family
+2026-09-27 10:28:31 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [75fe204] (expanded) Prepare public documentation and protein-ligand workflows
+2026-09-27 10:08:04 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [645663a] (expanded) JAX request: a bare uploaded a3m is uploadedA3m
+2026-09-27 10:07:56 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3ac87e5] (expanded) JAX backend, complete: every model family, the page's controls, and a real prediction
+2026-09-27 07:48:00 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [baec758] (expanded) Colab JAX backend: a runtime with no WebGPU adapter at all (a TPU) defaults to JAX too
+2026-09-27 07:35:55 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [32364de] (expanded) Colab JAX backend: notebook option, TPU default, and a stub-worker arm in test:colab
+2026-09-27 07:28:51 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3ff860f] (expanded) jax_worker: state no templates in search mode too
+2026-09-27 07:19:22 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [7ab0f3a] (expanded) Colab: a JAX backend beside WebGPU - af3-any-model folds a LocalFold job, over the same bridge (WIP)
+2026-09-27 06:45:22 | 🆕 sokrypton created branch 'jax-backend' at sokrypton/localfold
+2026-09-27 06:37:55 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c86c245] (expanded) gpu-chrome LOCALFOLD_SWIFTSHADER=1: WebGPU on the CPU on purpose; a Colab TPU VM measured with it
+2026-09-27 06:02:53 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cb63924] (expanded) Tiered compile and AF2 flash attention off the units: every device's default, not per-GPU
+2026-09-27 06:01:28 | 💬 sokrypton created issue 'fix: add URL validation in scenario.js (CWE-918)' in sokrypton/aoe
+2026-09-27 05:48:09 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a94eada] (expanded) Blackwell (Colab G4) prior: the lovelace one - same shape as the L4 at half the times
+2026-09-27 05:11:09 | 🔀 sokrypton closed PR in sokrypton/aoe
+2026-09-27 03:38:39 | ⭐️ jsunn-y starred ACEsuit/mace
+2026-09-27 03:31:59 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [6e5a5cd] (expanded) Tiered upgrades take the most-requested pipeline first
+2026-09-27 03:29:16 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [935252e] (expanded) PERF.md: tiered loop bounds on the T4, measured with the quiet-spell gate
+2026-09-27 03:23:58 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c944041] (expanded) Tiered pipelines upgrade only after a 2 s quiet spell, one at a time
+2026-09-27 03:19:56 | ⭐️ jsunn-y starred zaixizhang/PocketGen
+2026-09-27 02:51:30 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [379e1a4] (expanded) Pipeline cache: opt-in opaque loop bounds (runtimeLoopBounds), off by default
+2026-09-27 02:51:12 | 🚀 Shenggan pushed to Shenggan/shenggan.github.io
+    - [0842765] (expanded) update cv
+2026-09-27 02:41:44 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a337e95] (expanded) Fewer pipelines: unused WGSL constants stripped before compiling, one attend and one add for every block and size
