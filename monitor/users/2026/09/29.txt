@@ -1,0 +1,40 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-29 02:37:25 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8b0bd72] (expanded) a saved fold's templates come back as the structures used; fold-in-page stops on a failed fold; test:cache folds a templated monomer
+2026-09-29 02:17:13 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [232ba76] (expanded) Make PPI schema tests portable across platforms
+2026-09-29 01:30:44 | ⭐️ jsunn-y starred chemosim-lab/ProLIF
+2026-09-28 21:11:00 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [a62eda8] (expanded) Beta: restore tools/README.md
+2026-09-28 20:59:05 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [39a8e73] (expanded) Beta: 3D world view by default, the dragon (aoe character-mode 4ec7079)
+2026-09-28 19:09:28 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2afe3b8] (expanded) docs: AF2 multimer templates on WebGPU and JAX, 1BRS both ways
+2026-09-28 19:01:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [15ec67b] (expanded) model-family test: the template guard on one line again
+2026-09-28 18:28:43 | 🚀 jgreener64 pushed to BioJulia/BioStructures.jl
+    - [12628da] (expanded) build based on e405cb7
+2026-09-28 18:21:42 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [2c75949] (expanded) build based on e35e312
+2026-09-28 17:58:18 | ⭐️ jgreener64 starred JuliaConcurrent/UnsafeAtomics.jl
+2026-09-28 16:33:03 | ⭐️ Immortals-33 starred drorlab/conformix
+2026-09-28 16:22:39 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [bdf4680] (expanded) update benchmark pipelines
+2026-09-28 15:17:17 | ⭐️ Immortals-33 starred xulab-research/Cerebra-Epistasis
+2026-09-28 14:00:05 | ⭐️ sirius777coder starred xulab-research/Cerebra-Epistasis
+2026-09-28 13:17:15 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [8d51a4b] (expanded) Update README.md
+2026-09-28 13:16:05 | ⭐️ mingchen-li starred BerriAI/litellm
+2026-09-28 12:39:08 | ⭐️ mapleleaf6 starred brycewang-stanford/Awesome-Journal-Skills
+2026-09-28 11:45:14 | ⭐️ AspirinCode starred microsoft/markitdown
+2026-09-28 09:19:54 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [39b1bda] (expanded) Minor
+2026-09-28 08:37:45 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [fa1707e] (expanded) Updates
+2026-09-28 07:38:29 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [369b1d7] (expanded) Updates
+2026-09-28 01:00:00 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [03931ac] (expanded) Minor
+2026-09-28 00:39:01 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [3b53aa5] (expanded) updates
