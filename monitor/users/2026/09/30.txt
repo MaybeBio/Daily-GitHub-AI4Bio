@@ -1,0 +1,71 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-09-30 02:37:01 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [554cbb0] (expanded) docs/PERF.md: the T4's wide-model time is the fold, not the bridge (its own status lines)
+2026-09-30 02:31:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8e0cf08] (expanded) Wide pair tracks take the matrix kernels wherever the units exist, not only under the ampere prior
+2026-09-30 00:33:01 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [014d873] (expanded) docs: the head-to-head's eight defects; CLAUDE.md row for test:switch
+2026-09-30 00:12:51 | 🚀 alexholehouse pushed to holehouse-lab/idpseminars.github.io
+    - [076b17c] (expanded) Updated for oct 1s seminar
+2026-09-29 23:56:28 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fd46079] (expanded) JAX worker restarts on a change of model (a trace held the old weights: 16 GB in use after eleven models); test:switch gates ten models in one page; the bridge payload is gated
+2026-09-29 21:48:28 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [86213f3] (expanded) updates
+2026-09-29 21:37:33 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0f1881b] (expanded) JAX backend: the page's recycle tolerance stops AF2 early, as WebGPU's does
+2026-09-29 21:30:01 | 💬 jgreener64 created issue 'Add modified amino acid residues to `amino_acid_data`' in BioJulia/BioStructures.jl
+2026-09-29 21:27:06 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [d6d3357] (expanded) AF2: on_recycle may end recycling early (return True), so a caller can apply ColabFold's recycle_early_stop_tolerance
+2026-09-29 21:22:55 | 💬 jgreener64 created issue 'CUDA graph capture and cross-bias batching for biased simulations' in JuliaMolSim/Molly.jl
+2026-09-29 21:21:00 | 💬 jgreener64 created issue 'GPU-native collective variables and biased-simulation overhead reduction' in JuliaMolSim/Molly.jl
+2026-09-29 20:02:52 | ⭐️ Junjie-Zhu starred xulab-research/Cerebra-Epistasis
+2026-09-29 19:36:38 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [f4bc3ef] (expanded) Update README.md
+2026-09-29 19:31:39 | ⭐️ jgreener64 starred halide/Halide
+2026-09-29 19:29:17 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [05d4b6a] (expanded) Update README.md
+2026-09-29 19:23:59 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [45b2dfb] (expanded) Update README.md
+2026-09-29 19:17:37 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [754b45a] (expanded) update retrain document
+2026-09-29 18:01:34 | ⭐️ Gonglab-THU starred xulab-research/Cerebra-Epistasis
+2026-09-29 17:25:44 | 💬 jgreener64 created issue 'Add modified amino acid residues to `amino_acid_data`' in BioJulia/BioStructures.jl
+2026-09-29 17:17:17 | ⭐️ jgreener64 starred Janssena/BioFold.jl
+2026-09-29 17:12:19 | ⭐️ Junjie-Zhu starred iobio-zjut/Topoflow
+2026-09-29 17:05:36 | ⭐️ Junjie-Zhu starred AI4DS-wk/RaFT-DM
+2026-09-29 16:29:03 | ⭐️ Junjie-Zhu starred UR-Free/ColBERT-PPI
+2026-09-29 16:05:25 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [ed0bd25] (expanded) Update README.md
+2026-09-29 13:48:43 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [5e66bb3] (expanded) Beta: corpses fade again (aoe character-mode 90a7d96)
+2026-09-29 13:39:46 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [cf8cbde] (expanded) Beta: skeleton crash fix, fogged trees, outline picking, dragon theme (aoe character-mode d31f8b7)
+2026-09-29 13:10:19 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [783d90f] (expanded) Beta: first person, dragon and bear, performance, construction in 3D (aoe character-mode ea788f1)
+2026-09-29 12:08:27 | 🚀 alexholehouse pushed to idptools/afrc
+    - [e4c587b] (expanded) Updated ahead of 0.4.3 release
+2026-09-29 10:18:46 | 🔹 alexholehouse performed DeleteEvent on holehouse-lab/soursop
+2026-09-29 10:18:40 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [c7c282a] (expanded) Merge pull request #25 from holehouse-lab/dev-2.0.6
+2026-09-29 10:18:39 | 🔀 alexholehouse merged PR in holehouse-lab/soursop
+2026-09-29 10:18:27 | 🔀 alexholehouse opened PR in holehouse-lab/soursop
+2026-09-29 10:12:47 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [156981d] (expanded) Updated readme for 2.0.6
+2026-09-29 09:28:46 | ⭐️ prokia starred GENTEL-lab/Fold2Reason
+2026-09-29 07:04:26 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [626d2bd] (expanded) JAX worker: the coverage list must not share a name with the template's display name
+2026-09-29 06:04:48 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-29 06:04:47 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-29 05:54:32 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-29 05:52:26 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-29 05:36:41 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-29 02:28:48 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [fca8180] (expanded) Beta: hold Space / ACT to keep acting (aoe character-mode 28cadea)
+2026-09-29 02:17:13 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [232ba76] (expanded) Make PPI schema tests portable across platforms
+2026-09-29 02:10:41 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [06b4deb] (expanded) Add public protein-protein topology feature workflow
+2026-09-29 01:50:25 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [314c1db] (expanded) Beta: character-mode eye button, camera behind the unit (aoe character-mode 9bafa83)
+2026-09-29 01:30:44 | ⭐️ jsunn-y starred chemosim-lab/ProLIF
