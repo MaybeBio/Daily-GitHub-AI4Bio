@@ -1,4 +1,4 @@
-# P-S-A — Community Activity Archive
+# Daily-GitHub-AI4Bio — Community Activity Archive
 
 A living record of what's moving in the world where **structural biology meets machine learning** 
 
