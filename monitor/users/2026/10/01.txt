@@ -1,0 +1,70 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-01 04:52:52 | 💬 jgreener64 created issue 'Detect carboxylate oxygens for mbondi3 from bonds' in JuliaMolSim/Molly.jl
+2026-10-01 04:26:03 | 🔹 alexholehouse performed DeleteEvent on holehouse-lab/soursop
+2026-10-01 04:25:58 | 🔀 alexholehouse merged PR in holehouse-lab/soursop
+2026-10-01 04:25:49 | 🔀 alexholehouse opened PR in holehouse-lab/soursop
+2026-10-01 03:38:13 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5bbd202] (expanded) Colab runtime: no session save and no final render - nobody reloads or looks at that page
+2026-10-01 03:13:19 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cbab1c9] (expanded) toPdb: the position-free records built once per batch
+2026-10-01 03:07:46 | 💬 alexholehouse created issue 'whole training dataset' in idptools/starling
+2026-10-01 03:06:49 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c9584ad] (expanded) packNamedWeights: offsets from the thunks, data built only when read
+2026-10-01 02:34:57 | 🚀 alexholehouse pushed to idptools/afrc
+    - [0f30465] (expanded) Final README and changelog tweaks ahead of 0.5.0 release
+2026-10-01 02:30:09 | 🚀 alexholehouse pushed to idptools/afrc
+    - [c51b62b] (expanded) Merge pull request #2 from idptools/ensemble
+2026-10-01 02:30:07 | 🔀 alexholehouse merged PR in idptools/afrc
+2026-10-01 02:29:48 | 🔀 alexholehouse opened PR in idptools/afrc
+2026-10-01 02:20:55 | 🚀 alexholehouse pushed to idptools/afrc
+    - [2571688] (expanded) Updated changelog, README and docs ahead of 0.5.0 release
+2026-10-01 01:39:47 | ⭐️ Zuricho starred ZengZichao/phylodater
+2026-09-30 23:41:46 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:41:46 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:38:48 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:23:28 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:23:28 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:21:53 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0137bf9] (expanded) docs/PERF.md: the warm-up dummy fold and the weight proxy on a T4 (AF3 32 -> 16 s at once, 6.6 after choosing; IntelliFold-2 74 -> ~20); the driver cache is noise
+2026-09-30 23:20:24 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:19:14 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:17:32 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a633776] (expanded) colab_backend: LOCALFOLD_WEIGHT_PROXY=0 opens the runtime without the weight proxy (an A/B switch)
+2026-09-30 23:17:12 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:16:55 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:13:23 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:11:51 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 23:07:01 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-09-30 22:48:28 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [90869ea] (expanded) Colab broker proxies the runtime page's weight downloads (headless Chrome on a T4 fetched Hugging Face at 29 MB/s where curl does 94)
+2026-09-30 22:33:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9de327f] (expanded) Weight loader: the Cache Storage copy is written from the finished buffer, not teed off the live stream; progress reported at most every 100 ms
+2026-09-30 21:06:36 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [0601f7b] (expanded) build based on 6ffe990
+2026-09-30 21:03:29 | 💬 jgreener64 created issue 'Fix GB radii when bonds are constrained' in JuliaMolSim/Molly.jl
+2026-09-30 21:03:17 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [6ffe990] (expanded) Merge pull request #290 from davide-grheco/hbond-radius
+2026-09-30 19:20:13 | 🚀 jgreener64 pushed to BioJulia/BioStructures.jl
+    - [eb0eb6f] (expanded) build based on 5a608f3
+2026-09-30 19:18:26 | 💬 jgreener64 created issue 'Add modified amino acid residues to `amino_acid_data`' in BioJulia/BioStructures.jl
+2026-09-30 18:20:20 | 🚀 jgreener64 pushed to jgreener64/jgreener64.github.io
+    - [570597a] (expanded) LJC lecture
+2026-09-30 17:06:03 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [73e80d0] (expanded) support direct switch of MoE usage
+2026-09-30 15:49:29 | 🚀 AspirinCode pushed to AspirinCode/awesome-BioMolGenFold
+    - [1b7933d] (expanded) Update README.md
+2026-09-30 15:25:23 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [137d36e] (expanded) Update README.md
+2026-09-30 10:53:19 | 🆕 alexholehouse created branch 'ensemble' at idptools/afrc
+2026-09-30 10:32:36 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [eae8097] (expanded) Update to 2.0.7
+2026-09-30 10:25:40 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [aab9af9] (expanded) Update to 2.0.7
+2026-09-30 09:50:15 | 🆕 alexholehouse created branch 'dev-0.2.5' at holehouse-lab/shephard
+2026-09-30 01:52:04 | 🚀 alexholehouse pushed to idptools/afrc
+    - [62bd738] (expanded) Update ahead of 0.4.3 push
+2026-09-30 00:27:43 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d55ff69] (expanded) JAX worker: a supervisor restarts a CHILD process, not exec - exec never let go of a TPU
+2026-09-30 00:15:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e25228b] (expanded) Colab bridge: a remote fold's result reaches the reader in under a second, not 15
