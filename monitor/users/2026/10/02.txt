@@ -1,0 +1,49 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-02 02:45:14 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [2fb6806] (expanded) Update README.md
+2026-10-01 23:58:36 | 💬 jgreener64 created issue 'Use template atom order for Amber improper torsion' in JuliaMolSim/Molly.jl
+2026-10-01 23:53:36 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-01 23:40:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [f4fb51d] (expanded) docs/WEB.md: large proteins on a T4 - the refusal, the reverted GPU-sized budget, the five-minute cut-off
+2026-10-01 23:31:27 | 💬 jgreener64 created issue 'Use template atom order for Amber improper torsion' in JuliaMolSim/Molly.jl
+2026-10-01 23:30:26 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [274efd3] (expanded) Colab runtime: a fold gets thirty minutes unless asked, not five, and is stopped when it runs out
+2026-10-01 23:26:12 | 🚀 ChenDdon pushed to ChenDdon/TopoKit
+    - [4b31eb0] (expanded) Standardize public terminology and simplify usage documentation
+2026-10-01 23:21:38 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [adf5177] (expanded) Revert the GPU-sized budget on a Colab runtime: it let a fold run past the card and lose the device
+2026-10-01 23:21:38 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [adf5177] (expanded) Revert the GPU-sized budget on a Colab runtime: it let a fold run past the card and lose the device
+2026-10-01 22:12:07 | ⭐️ sirius777coder starred google-deepmind/synthidbio
+2026-10-01 22:09:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3c1cb97] (expanded) Colab bridge: send shared objects once and scores once (results ~halved); broker sends no-store
+2026-10-01 21:45:00 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [4f73a80] (expanded) AF3 fold: the last pass's pair stays on the device for the conditioning and the confidence head
+2026-10-01 21:21:53 | 🚀 zaixizhang pushed to zaixizhang/RNAGenesis
+    - [6739de0] (expanded) Add end-to-end BEACON ncRNA LoRA fine-tuning
+2026-10-01 20:57:08 | 🚀 zaixizhang pushed to zaixizhang/RNAGenesis
+    - [31186f4] (expanded) Add stage-one RNA encoder MLM pretraining
+2026-10-01 19:26:04 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [720353a] (expanded) docs/PERF.md: the T4's matrix tiles swept - a plateau, ampere's stay
+2026-10-01 18:59:04 | ⭐️ Junjie-Zhu starred CiboFeng/ConformationalFluctuation
+2026-10-01 16:52:07 | ⭐️ Immortals-33 starred google-deepmind/synthidbio
+2026-10-01 14:45:43 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [be66d6e] (expanded) Delete .dockerignore
+2026-10-01 14:32:22 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/IDPFold2
+    - [a58e069] (expanded) Update README.md
+2026-10-01 12:09:47 | 🚀 alexholehouse pushed to holehouse-lab/PIMMS
+    - [59163ce] (expanded) Commit ahead of 1.0.8
+2026-10-01 07:35:53 | ⭐️ blt2114 starred lindermanlab/helmholtz-sde
+2026-10-01 04:26:03 | 🔹 alexholehouse performed DeleteEvent on holehouse-lab/soursop
+2026-10-01 04:25:59 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [dad6e97] (expanded) Merge pull request #26 from holehouse-lab/ped-api
+2026-10-01 04:25:58 | 🔀 alexholehouse merged PR in holehouse-lab/soursop
+2026-10-01 04:25:49 | 🔀 alexholehouse opened PR in holehouse-lab/soursop
+2026-10-01 03:07:46 | 💬 alexholehouse created issue 'whole training dataset' in idptools/starling
+2026-10-01 02:45:23 | 🚀 alexholehouse pushed to holehouse-lab/soursop
+    - [15deae7] (expanded) PED colab notebook test
+2026-10-01 02:20:55 | 🚀 alexholehouse pushed to idptools/afrc
+    - [2571688] (expanded) Updated changelog, README and docs ahead of 0.5.0 release
+2026-10-01 01:57:47 | 🆕 alexholehouse created branch 'ped-api' at holehouse-lab/soursop
+2026-10-01 01:39:47 | ⭐️ Zuricho starred ZengZichao/PhyloDater
