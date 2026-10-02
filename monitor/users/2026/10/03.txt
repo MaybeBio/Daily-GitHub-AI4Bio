@@ -1,0 +1,26 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-03 04:59:32 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0c9759d] (expanded) native/ef2: ESMFold2 in CUDA, first stage - the exporters (both bundles' tensors under their own names; the input through the page's featuriser), an oracle that runs biohub's EsmFold2ExperimentalModel on exactly that input with every seam recorded (on the CPU, ESM-C loaded in float32 here: on CUDA the model autocasts to bf16 and its own loader always takes ESM-C in bf16), and ESM-C's 36 blocks with ESMFold2's shim: 37 hidden states 9.2e-7, the language model's pair 4.3e-7 on 6MRR
+2026-10-03 04:38:23 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [66dc2ce] (expanded) native/af2: --search - the alignment from the ColabFold MMseqs2 server through the page's own client and merge (a complex: each distinct chain, the paired block, the merge the weights' regime reads); 1BRS from its two sequences 0.584 A, ipTM 0.92 (17.4 A without), 5.7 s a command
+2026-10-03 04:26:29 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [01f1663] (expanded) native/af2: the fold wrapper starts af2 first (--wait-input --warm=L,N,E,T): CUDA, the weights on the device, then the embedder and one block of each stack on a synthetic input of the shapes the export will have - every kernel loaded, every cuBLASLt plan made - while the input is exported (pass 0 674 -> 465 ms on 5CAJ, the fold byte-identical); the exporter reads its two tables' bytes rather than the 370 MB weights file and stages in /dev/shm (1.6 -> 1.0 s); the outer product mean's permute moves 16 bytes a thread (128 -> 42 ms over a fold), a register LayerNorm at 64/128/256 channels. 5CAJ with its 7907-row alignment, sequence to PDB: 4.0 -> 3.0 s
+2026-10-03 04:09:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [be744a5] (expanded) native/af2: templates - the monomer's template embedder (model_1/2_ptm: pair stack, point attention over slots, the torsion rows) and the multimer's on a real structure (export_input --template=pdb:A+D merges a complex's chains into one slot); against the reference 2e-5 on atoms for 5CAJ self-templated (monomer) and 4.5e-7 for 1BRS A:D (multimer, ipTM 0.08 -> 0.82); --fast 1.2e-3 / 3.9e-4. The --fast NaN with a template was the flash bias's pad columns: never written, read by the kernel's 16-byte loads beside the last real column, so a reused buffer's stale NaN poisoned the row - zeroed whenever the stride exceeds n; pairBiasFast takes the pair width (the template stack is 64, not 128)
+2026-10-02 23:03:41 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [32c2ab1] (expanded) build based on da854f1
+2026-10-02 21:03:08 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [eb97bf5] (expanded) build based on 587d364
+2026-10-02 17:30:23 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [54cfd0b] (expanded) native/af3: boltz2 folds - the up-gated conditioned transitions, its summed 384-wide target_feat, bond-order and contact z-init terms, the MSA update before the outer product and the doubled pair add, the re-embedding confidence head with split intra/inter-chain heads and no head norms, and its EDM constants; denoiser seam taps against the stage oracle
+2026-10-02 16:22:50 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [cb7bf13] (expanded) native/af3: the fused triangle's a, b and contraction product in bf16 (f32's range at half the bytes; AF3's own activation precision); --no-tri-bf16
+2026-10-02 16:14:33 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9b9e826] (expanded) native/af3: weights exported once and inputs alone (--weights-only / --no-weights, af3 --weights=DIR; an input exports in 0.2 s instead of 7.7), the bundle read from disk, and native/af3/fold - one command from a job or sequence to a ranked PDB (~2.4 s)
+2026-10-02 16:03:38 | ⭐️ Junjie-Zhu starred KULL-Centre/_2022_functional-sites-cagiada
+2026-10-02 11:26:25 | ⭐️ lujiarui starred deepseek-ai/deepseek-harness
+2026-10-02 09:23:54 | 🚀 lujiarui pushed to lujiarui/pomo
+    - [218c08e] (expanded) fix bug for old swift 5.8.1
+2026-10-02 02:45:14 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [2fb6806] (expanded) Update README.md
