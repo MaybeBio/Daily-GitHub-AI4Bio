@@ -1,0 +1,20 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-04 04:52:01 | ⭐️ jsunn-y starred zadorlab/sella
+2026-10-04 03:00:56 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-04 02:52:29 | 🚀 HannesStark pushed to HannesStark/boltzgen
+    - [a3789c8] (expanded) Correct checkpoint source documentation
+2026-10-04 02:27:10 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-10-04 02:27:10 | 🆕 HannesStark created branch 'stark/feature/solublempnn-default' at HannesStark/boltzgen
+2026-10-03 19:41:27 | 🆕 alexholehouse created branch 'minimizer' at idptools/starling
+2026-10-03 19:11:46 | ⭐️ AspirinCode starred JoseCouceiro/drug_predictor_2.0
+2026-10-03 19:06:33 | 🆕 xtanh created branch 'main' at xtanh/nanoLM-manuscript
+2026-10-03 18:09:08 | ⭐️ AspirinCode starred NVIDIA/nvalchemi-toolkit
+2026-10-03 16:00:49 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [5910090] (expanded) Add new publication on machine learning interatomic potentials
+2026-10-03 15:39:49 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [522f436] (expanded) Update README.md
+2026-10-03 15:02:19 | ⭐️ AspirinCode starred RosettaCommons/foundry
+2026-10-03 15:00:21 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [26b7ec5] (expanded) Minor
+2026-10-03 10:01:09 | 💬 zaixizhang created issue 'Request for access to gated weights' in zaixizhang/RNAGenesis
