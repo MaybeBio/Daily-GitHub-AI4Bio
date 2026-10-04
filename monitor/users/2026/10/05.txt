@@ -1,0 +1,36 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-05 04:52:35 | 🚀 HannesStark pushed to HannesStark/boltzgen
+    - [bf86fb9] (expanded) Exercise filter rules with current affinity and ESM score inputs
+2026-10-05 04:14:36 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-05 02:34:19 | 🚀 HannesStark pushed to HannesStark/boltzgen
+    - [56b7cf4] (expanded) Respect unsuccessful analysis when collecting refolding metrics
+2026-10-05 01:42:31 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-10-05 01:42:26 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-10-05 01:42:22 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-10-05 01:42:21 | 🆕 HannesStark created branch 'stark/fix/boltzgen-pdb-parser-integrity' at HannesStark/boltzgen
+2026-10-05 01:36:14 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-10-05 01:36:02 | 🆕 HannesStark created branch 'stark/fix/boltzgen-export-consistency' at HannesStark/boltzgen
+2026-10-05 01:33:10 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-10-05 00:08:24 | 🔀 luost26 merged PR in coleygroup/coleygroup.github.io
+2026-10-05 00:00:03 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [a6ed53a] (expanded) Beta: real drop-off throw, no work-spot pops, shared placement (no stacked AI towers) (aoe character-mode 0548d79)
+2026-10-04 23:56:52 | 🔀 luost26 opened PR in coleygroup/coleygroup.github.io
+2026-10-04 23:52:08 | 🚀 luost26 pushed to luost26/coleygroup.github.io
+    - [8e0e67d] (expanded) Merge pull request #1 from luost26/copilot/move-sarah-cao-to-alumni
+2026-10-04 10:40:48 | ⭐️ QizhiPei starred siteboon/claudecodeui
+2026-10-04 07:23:24 | 🔀 HannesStark opened PR in RosettaCommons/RFantibody
+2026-10-04 07:21:38 | 🍴 HannesStark forked RosettaCommons/RFantibody
+2026-10-04 05:42:30 | 🔀 HannesStark opened PR in PacesaLab/BindCraft2
+2026-10-04 05:42:01 | 🆕 HannesStark created branch 'fix/wheel-preset-resources' at HannesStark/BindCraft2
+2026-10-04 05:41:06 | 🍴 HannesStark forked PacesaLab/BindCraft2
+2026-10-04 05:37:26 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [13bcb83] (expanded) build based on c321718
+2026-10-04 05:34:03 | 💬 jgreener64 created issue 'Fix shared-memory races in kernel_min_max! / kernel_min_max_triclinic!' in JuliaMolSim/Molly.jl
+2026-10-04 05:33:46 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [c321718] (expanded) Merge pull request #296 from vchuravy/vc/min-max-race
+2026-10-04 04:52:01 | ⭐️ jsunn-y starred zadorlab/sella
+2026-10-04 03:00:57 | 🚀 HannesStark pushed to HannesStark/boltzgen
+    - [e0eda38] (expanded) Merge pull request #276 from HannesStark/stark/feature/solublempnn-default
+2026-10-04 03:00:56 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-04 02:27:10 | 🔀 HannesStark opened PR in HannesStark/boltzgen
