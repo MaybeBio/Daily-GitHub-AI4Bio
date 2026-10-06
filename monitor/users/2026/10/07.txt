@@ -1,0 +1,29 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-07 02:56:09 | 🔀 alexholehouse opened PR in idptools/metapredict
+2026-10-07 01:58:31 | 🚀 alexholehouse pushed to idptools/metapredict
+    - [74dd59c] (expanded) Bug fixes and enhancements for 3.1.0
+2026-10-07 00:19:27 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c8b4217] (expanded) native ESM2: the weight expansion without a division per element - 8 ms of every Chai-1 job
+2026-10-06 23:42:57 | 🔀 lujiarui opened PR in Joooook/12306-mcp
+2026-10-06 23:24:53 | ⭐️ lujiarui starred Joooook/12306-mcp
+2026-10-06 21:41:40 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Multi-chain designs: only first chain analyzed for  liability and CSV output'
+2026-10-06 21:41:04 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'numpy>=2.4: Structure.insert and Structure.fuse raise TypeError on size-1 index arrays (parse-time, before any GPU work)'
+2026-10-06 21:41:01 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-06 21:40:25 | 🚀 HannesStark pushed to HannesStark/boltzgen
+    - [f838393] (expanded) Merge pull request #284 from HannesStark/stark/perf/boltzgen-analysis-workers
+2026-10-06 21:40:23 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-06 21:38:54 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Multi-chain designs: only first chain analyzed for  liability and CSV output'
+2026-10-06 21:38:51 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-06 21:37:10 | 🚀 HannesStark pushed to HannesStark/boltzgen
+    - [2be3b51] (expanded) Merge pull request #283 from HannesStark/stark/fix/boltzgen-merge-resume
+2026-10-06 21:37:10 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'boltzgen merge fails when inverse_fold_num_sequences > 1'
+2026-10-06 21:37:08 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-10-06 20:41:48 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2e06b1e] (expanded) Chai-1 notes: af3-any-model conditions its diffusion on chai's structure pair now (its c38fec3)
+2026-10-06 15:36:09 | ⭐️ Junjie-Zhu starred Chokyotager/Boltz-Metadiffusion
+2026-10-06 14:49:46 | ⭐️ sirius777coder starred google-deepmind/alphaprotein-novo
+2026-10-06 04:10:56 | 🆕 alexholehouse created branch 'sampler-unified-interface' at idptools/starling
+2026-10-06 03:42:23 | 🚀 alexholehouse pushed to holehouse-lab/protfasta
+    - [2d9852e] (expanded) Added empty-sequence-action keyword to force explicit recognition and assessment of empty records on read_fasta()
+2026-10-06 00:32:10 | ⭐️ meneshail starred google-deepmind/alphaprotein-novo
