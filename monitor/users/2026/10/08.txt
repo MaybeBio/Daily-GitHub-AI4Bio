@@ -1,0 +1,32 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-08 04:44:31 | 🔀 Leo-T-Zang merged PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:44:26 | 🔀 Leo-T-Zang opened PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:43:52 | 🔀 Leo-T-Zang merged PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:43:48 | 🔀 Leo-T-Zang opened PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 03:05:30 | ⭐️ jsunn-y starred davidkastner/quantumPDB
+2026-10-08 02:15:36 | ⭐️ jsunn-y starred hjkgrp/pyEF
+2026-10-07 23:33:13 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5c9bb87] (expanded) native af3 README: four of the speed list measured and declined (denoiser small-size, OPM epilogue, bf16 big-input, device template features)
+2026-10-07 23:32:34 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [285519d] (expanded) native af3 README: foldFits does not size OpenDDE's structural tokens (measured on a simulated T4: 500 folds, 600 runs out)
+2026-10-07 22:51:33 | 💬 jgreener64 created issue 'GPU-native collective variables and biased-simulation overhead reduction' in JuliaMolSim/Molly.jl
+2026-10-07 21:40:00 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3a9b42b] (expanded) native: two n^2 host costs out of a warm job - the template distogram as a bin a pair, the PAE passed through as text
+2026-10-07 20:18:35 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [5e669de] (expanded) Fix typos and update references in README.md
+2026-10-07 20:16:18 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [137d6d7] (expanded) Update README.md
+2026-10-07 17:33:19 | ⭐️ Zuricho starred iqtree/iqtree3
+2026-10-07 17:20:47 | ⭐️ Zuricho starred openai/math
+2026-10-07 17:20:44 | ⭐️ Zuricho starred obsidianmd/pele
+2026-10-07 16:40:02 | ⭐️ Zuricho starred google-deepmind/alphaprotein-novo
+2026-10-07 16:02:32 | ⭐️ AspirinCode starred WIMNZhao/Virtual-Screening-Workflow
+2026-10-07 07:23:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c580b63] (expanded) native README: flashGrid2R on a T4 measured and not taken
+2026-10-07 05:31:20 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2003b58] (expanded) native: on a T4 the streaming kernels hold their next weight stage in registers, not a blocking copy - boltz2's trunk 7% faster there, byte-identical
+2026-10-07 02:53:43 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [7e92197] (expanded) native af3: the triangle-out norm's scale and offset in shared memory, not 128 global loads a tile - triOutPK 7-8%, byte-identical
+2026-10-07 02:21:31 | 🚀 alexholehouse pushed to idptools/metapredict
+    - [d9ed05a] (expanded) Bug fixes and enhancements for 3.1.0
