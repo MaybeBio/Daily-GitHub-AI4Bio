@@ -1,0 +1,48 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-09 03:37:22 | ⭐️ Zuricho starred Water-Run/ft
+2026-10-09 01:35:31 | ⭐️ jsunn-y starred Klem-Research-Group/QMzyme
+2026-10-09 01:13:02 | ⭐️ Zuricho starred christian-creator/ProtonPottsMPNN
+2026-10-09 01:02:44 | ⭐️ meneshail starred YangLab-SDU/trFlow
+2026-10-09 00:54:02 | 🔹 alexholehouse performed DeleteEvent on idptools/starling
+2026-10-09 00:53:53 | 🔀 alexholehouse merged PR in idptools/starling
+2026-10-09 00:53:40 | 🔀 alexholehouse opened PR in idptools/starling
+2026-10-08 22:58:59 | ⭐️ luost26 starred storytold/photocraft
+2026-10-08 22:23:51 | ⭐️ jsunn-y starred pachterlab/paperpush
+2026-10-08 20:10:06 | ⭐️ sirius777coder starred LongxingLab/Ligand_binder_sensor
+2026-10-08 19:39:27 | ⭐️ Zuricho starred LongxingLab/Ligand_binder_sensor
+2026-10-08 18:46:46 | ⭐️ Immortals-33 starred LongxingLab/Ligand_binder_sensor
+2026-10-08 17:02:01 | ⭐️ Peldom starred LongxingLab/Ligand_binder_sensor
+2026-10-08 16:58:06 | ⭐️ ChrisAllenMing starred modelscope/ms-swift
+2026-10-08 14:33:57 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [646ad57] (expanded) Update README.md
+2026-10-08 14:06:36 | 🚀 Barakhsaana pushed to Barakhsaana/MODM6A
+    - [e26c7f2] (expanded) Update README with citation and abstract
+2026-10-08 13:39:09 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [f132694] (expanded) build based on ed0ef99
+2026-10-08 05:42:42 | 🚀 jsunn-y pushed to jsunn-y/jsunn-y.github.io
+    - [1d58f95] (expanded) typo correction
+2026-10-08 05:37:39 | 🚀 jsunn-y pushed to jsunn-y/jsunn-y.github.io
+    - [c7c1e93] (expanded) new papers added
+2026-10-08 05:29:43 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
+2026-10-08 05:02:07 | 🚀 Leo-T-Zang pushed to Leo-T-Zang/Leo-T-Zang
+    - [f929469] (expanded) Always count co-authored repos listed in INCLUDED_REPOS (#5)
+2026-10-08 05:02:06 | 🔀 Leo-T-Zang merged PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 05:02:02 | 🔀 Leo-T-Zang opened PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 05:01:56 | 🚀 Leo-T-Zang pushed to Leo-T-Zang/Leo-T-Zang
+    - [3e2e2cf] (expanded) Always count co-authored repos listed in INCLUDED_REPOS
+2026-10-08 05:01:29 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-10-08 05:01:28 | 🆕 Leo-T-Zang created branch 'fitness-molecule-averaging' at MarksLab-DasLab/RNAGym
+2026-10-08 04:44:32 | 🚀 Leo-T-Zang pushed to Leo-T-Zang/Leo-T-Zang
+    - [44538f8] (expanded) Recalculate contribution stats when the stats logic changes (#4)
+2026-10-08 04:44:31 | 🔀 Leo-T-Zang merged PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:44:26 | 🔀 Leo-T-Zang opened PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:44:22 | 🚀 Leo-T-Zang pushed to Leo-T-Zang/Leo-T-Zang
+    - [2f72f99] (expanded) Recalculate contribution stats when the stats logic changes
+2026-10-08 04:43:53 | 🚀 Leo-T-Zang pushed to Leo-T-Zang/Leo-T-Zang
+    - [b9a2d0f] (expanded) Count direct-push and owned repos in contribution stats (#3)
+2026-10-08 04:43:52 | 🔀 Leo-T-Zang merged PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:43:48 | 🔀 Leo-T-Zang opened PR in Leo-T-Zang/Leo-T-Zang
+2026-10-08 04:41:29 | 🆕 Leo-T-Zang created branch 'claude/awesome-goodall-nerrip' at Leo-T-Zang/Leo-T-Zang
+2026-10-08 03:05:30 | ⭐️ jsunn-y starred davidkastner/quantumPDB
+2026-10-08 02:15:36 | ⭐️ jsunn-y starred hjkgrp/pyEF
