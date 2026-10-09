@@ -1,0 +1,24 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-10 00:30:44 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [47297a7] (expanded) compare-upstream-esmfold2.py takes localfold-ef2's model names (ef2-fast-600m, ef2-fast-300m, ef2-fast, ef2), each with its upstream checkpoint
+2026-10-10 00:24:04 | ⭐️ QizhiPei starred Gen-Verse/Open-AgentRL
+2026-10-09 20:48:28 | 🚀 chao1224 pushed to phys-for-ai/ICLR2027-Workshop
+    - [b9f6f3c] (expanded) Update Peter info
+2026-10-09 20:38:51 | ⭐️ Immortals-33 starred yzhao062/awesome-auditable-ai
+2026-10-09 20:26:36 | 🆕 sokrypton created branch 'metal' at sokrypton/localfold
+2026-10-09 18:59:06 | ⭐️ sirius777coder starred christian-creator/ProtonPottsMPNN
+2026-10-09 09:38:59 | ⭐️ sirius777coder starred blazejba/NuCaliby
+2026-10-09 03:37:22 | ⭐️ Zuricho starred Water-Run/ft
+2026-10-09 01:35:31 | ⭐️ jsunn-y starred Klem-Research-Group/QMzyme
+2026-10-09 01:13:02 | ⭐️ Zuricho starred christian-creator/ProtonPottsMPNN
+2026-10-09 01:11:39 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d48541c] (expanded) cuda: fold offline - --ccd=<components.cif> and fetch-weights ccd; localfold-fetch in the wheel
+2026-10-09 01:02:44 | ⭐️ meneshail starred YangLab-SDU/trFlow
+2026-10-09 00:54:02 | 🔹 alexholehouse performed DeleteEvent on idptools/starling
+2026-10-09 00:53:55 | 🚀 alexholehouse pushed to idptools/starling
+    - [b1c853f] (expanded) Merge pull request #14 from idptools/sampler-unified-interface
+2026-10-09 00:53:53 | 🔀 alexholehouse merged PR in idptools/starling
+2026-10-09 00:53:40 | 🔀 alexholehouse opened PR in idptools/starling
+2026-10-09 00:18:50 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [af172b8] (expanded) python: a wheel - pip install localfold, and localfold-af3/af2/ef2 run with no compiler
