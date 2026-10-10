@@ -1,0 +1,6 @@
+Fetching events for target(s): Junjie-Zhu...
+
+2026-10-11 00:36:22 | ⭐️ Immortals-33 starred alexjli/terminator_public
+2026-10-10 21:13:43 | ⭐️ Immortals-33 starred martin-steinegger/alphafold2-webgpu
+2026-10-10 15:58:54 | ⭐️ Immortals-33 starred proteinphysiologylab/FrustraEvo
+2026-10-10 05:02:08 | 🔹 xuhuihuang performed MemberEvent on EPISOLrelease/Protein_Hydration

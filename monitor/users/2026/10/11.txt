@@ -1,0 +1,21 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-11 04:56:30 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [c2c62cc] (expanded) name the trunk instead of negating it: evoformer_backend
+2026-10-11 04:47:23 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [532fed1] (expanded) metal: plain products over a short K on 32 x 256 tiles - AF3's grid qkvg -7%
+2026-10-11 04:36:55 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [54dd601] (expanded) ignore campaign results/
+2026-10-11 00:36:22 | ⭐️ Immortals-33 starred alexjli/terminator_public
+2026-10-10 21:33:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fbd3586] (expanded) metal/core: Apple10 and the 4.0 language version by value - the M5's tensor path built with an older SDK
+2026-10-10 21:13:43 | ⭐️ Immortals-33 starred martin-steinegger/alphafold2-webgpu
+2026-10-10 15:58:54 | ⭐️ Immortals-33 starred proteinphysiologylab/FrustraEvo
+2026-10-10 15:58:28 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b5db9f0] (expanded) docs: README's Next - the M5's state and what is left
+2026-10-10 15:38:35 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2f8783b] (expanded) metal/af3: LOCALFOLD_PROFILE reports the confidence head too
+2026-10-10 14:14:51 | 🚀 LirongWu pushed to alibaba-damo-academy/ClinFusion-HCC
+    - [e43fe53] (expanded) Add data construction and inference pipeline
+2026-10-10 05:06:10 | ⭐️ luost26 starred morluto/rea
+2026-10-10 00:24:04 | ⭐️ QizhiPei starred Gen-Verse/Open-AgentRL
