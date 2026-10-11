@@ -1,0 +1,14 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-12 04:58:39 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1fa867a] (expanded) cuda/ef2: the trunk's pair bf16 on a card short of room (EF2_Z16) - the recycle f32 a chunk of rows at a time, the blocks in place, the distogram and the denoiser's conditioning reading bf16 rows, the pair parked through the sampler, and the confidence head built a chunk of token rows at a time into a bf16 stack (its residual in pinned host memory): 5,434 tokens fold on 40 GB (4,446). 5CAJ short-of-room forced 0.016 A from the f32 short path, 0.015 from the roomy one. The fold gate's 6mrr-gol-sep3 reads ligand 0.051 against a stale 0.115 at HEAD too
+2026-10-12 04:29:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9566e2b] (expanded) cuda/af3/README: several GPUs on a real 8 x A100 - 16,549 tokens on 8, 12,350 on 4; 2,964 tokens x 5 samples 4.5x on 8
+2026-10-12 03:39:36 | ⭐️ ChenDdon starred storytold/pdfcraft
+2026-10-12 03:39:10 | ⭐️ ChenDdon starred storytold/craft-launcher
+2026-10-11 17:03:10 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [851a6d9] (expanded) Sync hospital, database, and patent entries from Awesome-TCM-LLM.
+2026-10-11 16:47:08 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [10402fc] (expanded) feat: catalog industry TCM models, datasets, and patents
+2026-10-11 12:55:26 | ⭐️ AspirinCode starred marktext/marktext
+2026-10-11 00:36:22 | ⭐️ Immortals-33 starred alexjli/terminator_public
