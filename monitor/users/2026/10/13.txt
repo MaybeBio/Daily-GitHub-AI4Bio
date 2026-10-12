@@ -1,0 +1,20 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-13 00:30:29 | 🚀 mingchen-li pushed to ai4protein/ProDMM
+    - [980d2a8] (expanded) Make ProDMM installable and simplify training workflows
+2026-10-12 21:43:05 | 🆕 alexholehouse created branch 'parrot2' at idptools/parrot
+2026-10-12 19:55:13 | ⭐️ Junjie-Zhu starred mims-harvard/PINNACLE
+2026-10-12 19:37:30 | 🚀 jgreener64 pushed to BioJulia/BioStructures.jl
+    - [eeaad78] (expanded) build based on ecad276
+2026-10-12 19:17:10 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [0f582d9] (expanded) debug
+2026-10-12 15:36:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a4d15bd] (expanded) cuda/ef2: the one-GPU bf16 pair (EF2_Z16) stays on the device through the sampler where there is the room for five pairs more (the head's residual, its triangle's operands, gate and product; LOCALFOLD_BIG=1 parks it), the confidence head building its pair over it in place; and the head's residual is bf16 - on the device beside a kept pair, else in the parked pair's own pinned buffer once read - where an f32 copy was pinned of its own. A 2,964-token fold on 40 GB: the head 9.0 -> 2.5 s (either path), the whole run 55.8 -> 46.4 s wall; coordinates byte-identical, per-atom pLDDT within 0.03, PAE within 0.04, pLDDT / pTM / ipTM unchanged. test:standalone ok
+2026-10-12 15:23:42 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a574b42] (expanded) sharded triangle: a rounds window's input pass at bandwidth - each window reads a rank's rows whole for 8 of 256 channels (32 times a triangle at C / 32: 160 of the 417 s trunk at 16,549 tokens on a simulated rank of 8, 24.9 ms a window at 0.71 TB/s, Nsight Compute: 25% occupancy, latency-bound). A window takes the plain 8-warp form where the whole pass takes the two-tile one (which pays over 32 steps, not one), and lnRowsToShared reads a bf16 row 16 bytes a lane (one load and one store a row where it was eight of each): 2.26 -> 1.60 ms a window at 4,940 tokens (rounds forced), the trunk at 16,549 417 -> 372 s, the whole form's unchanged (13.30 s at 4,940). The LayerNorm's sums run in another order on a bf16 pair: the 1TIM dimer on 2 ranks 1.520 -> 1.526 A from its crystal (rounds and whole form alike), a one-GPU 2,964-token ESMFold2 trunk 0.5% faster; AlphaFold 3 (f32 pair) byte-identical, big paths too; 6MRR byte-identical. README: the 16,549 figures
+2026-10-12 14:26:41 | ⭐️ Immortals-33 starred clami66/AF_cache
+2026-10-12 09:04:15 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-10-12 09:04:08 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-10-12 09:03:53 | 🆕 Leo-T-Zang created branch 'fitness-alignment-query' at MarksLab-DasLab/RNAGym
+2026-10-12 03:39:36 | ⭐️ ChenDdon starred storytold/pdfcraft
+2026-10-12 03:39:10 | ⭐️ ChenDdon starred storytold/craft-launcher
