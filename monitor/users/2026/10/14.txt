@@ -1,0 +1,25 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-14 04:51:04 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
+2026-10-14 02:40:28 | ⭐️ jsunn-y starred bunzela/FieldTools
+2026-10-14 02:39:42 | ⭐️ jsunn-y starred bunzela/AIzymes
+2026-10-14 02:36:07 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [768bd58] (expanded) a longer complex ran where a shorter one crashed
+2026-10-14 02:36:07 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [768bd58] (expanded) a longer complex ran where a shorter one crashed
+2026-10-14 00:20:27 | 💬 jgreener64 created issue 'Enzyme rule for CuArray(undef, ...) fails for non-numeric isbits eltypes' in JuliaGPU/CUDA.jl
+2026-10-13 23:47:11 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [6edfc22] (expanded) build based on d2e49e9
+2026-10-13 21:26:19 | 💬 jgreener64 created issue 'Keep custom GB parameters when extracting and injecting them' in JuliaMolSim/Molly.jl
+2026-10-13 21:04:24 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [0324959] (expanded) build based on 4096865
+2026-10-13 20:44:44 | 🔀 alexholehouse merged PR in idptools/metapredict
+2026-10-13 16:48:06 | ⭐️ Immortals-33 starred jbderoo/nipah_virus_binder
+2026-10-13 16:24:21 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [6cf95ae] (expanded) Update README.md
+2026-10-13 03:28:47 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [6f987dc] (expanded) multi-GPU exchange: the triangle's operands and products by copy engines
+2026-10-13 00:40:53 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [abd4088] (expanded) several GPUs fold ESMFold2-Fast, and AlphaFold 3's lineage several samples past one card
+2026-10-13 00:30:29 | 🚀 mingchen-li pushed to ai4protein/ProDMM
+    - [980d2a8] (expanded) Make ProDMM installable and simplify training workflows
