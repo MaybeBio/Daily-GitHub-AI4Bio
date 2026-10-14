@@ -1,0 +1,66 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-15 03:48:51 | ⭐️ jsunn-y starred Dynamis-MD/Dynamis
+2026-10-15 01:58:26 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [68be699] (expanded) the gradient spike was a uniform start, not a kernel
+2026-10-15 01:45:57 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [9cb2cab] (expanded) both states, five losses -- and a gradient spike that is a real defect
+2026-10-15 01:41:17 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [61152c5] (expanded) a design loop in C++: sequence -> model -> loss -> gradient -> sequence
+2026-10-15 00:19:37 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [623d314] (expanded) improve docstrings
+2026-10-15 00:18:57 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-15 00:18:35 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-15 00:15:36 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-15 00:15:01 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-15 00:09:38 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-15 00:07:07 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-14 22:41:41 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [a8c6abc] (expanded) native driver: the two states, built from the campaign settings
+2026-10-14 22:33:22 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [ea1d441] (expanded) bindcraft takes bc2's input interface, not invented flags
+2026-10-14 22:25:05 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [d957965] (expanded) port requirement: follow bc2's loss/state binding exactly
+2026-10-14 21:54:59 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [21115e7] (expanded) bindcraft CLI, the PDB reader, and the port status
+2026-10-14 21:52:39 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [2e4682e] (expanded) all eight production losses in CUDA, forward and backward, gated
+2026-10-14 21:24:22 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [f7efbea] (expanded) build based on 0ed95c6
+2026-10-14 20:41:37 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [bd2f3cb] (expanded) plddt_loss in CUDA, forward and backward, exact against bc2
+2026-10-14 20:34:38 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [ab6261f] (expanded) the loss gate for the production C++ port
+2026-10-14 20:20:59 | ⭐️ Junjie-Zhu starred djmaity/allobench
+2026-10-14 20:19:05 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [fd5abc7] (expanded) stride remat chooses k from the card's budget
+2026-10-14 18:46:53 | 🆕 Junjie-Zhu created branch 'simplified' at Junjie-Zhu/SurPass
+2026-10-14 18:46:19 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [028fcda] (expanded) remove chunk size
+2026-10-14 18:33:15 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [6246bd4] (expanded) re-fit the keep-tier arena instead of discarding the grant
+2026-10-14 18:16:02 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [fc0c5ec] (expanded) two pair cotangents that are never live together share a buffer
+2026-10-14 16:43:25 | ⭐️ Immortals-33 starred jleechung/prompteina
+2026-10-14 16:35:32 | 🔹 jgreener64 performed DeleteEvent on JuliaMolSim/Molly.jl
+2026-10-14 16:16:23 | ⭐️ Immortals-33 starred uw-ipd/tmol
+2026-10-14 16:13:07 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [9264463] (expanded) build based on 8d07c05
+2026-10-14 16:08:53 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [872392f] (expanded) build based on 840ee52
+2026-10-14 16:06:07 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [b923f16] (expanded) build based on 91f0bc4
+2026-10-14 12:02:35 | ⭐️ meneshail starred djmaity/allobench
+2026-10-14 07:31:15 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
+2026-10-14 05:27:37 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-14 05:27:37 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-14 05:26:35 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-14 05:21:55 | 💬 jgreener64 created issue 'Add TSS state loggers. Needed for FFRefine' in JuliaMolSim/Molly.jl
+2026-10-14 05:16:15 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [11385b4] (expanded) build based on 30b303c
+2026-10-14 05:12:39 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [30b303c] (expanded) Merge pull request #301 from davide-grheco/gb-inject-params
+2026-10-14 04:51:04 | 🔀 Leo-T-Zang merged PR in MarksLab-DasLab/RNAGym
+2026-10-14 02:40:28 | ⭐️ jsunn-y starred bunzela/FieldTools
+2026-10-14 02:39:42 | ⭐️ jsunn-y starred bunzela/AIzymes
+2026-10-14 00:20:27 | 💬 jgreener64 created issue 'Enzyme rule for CuArray(undef, ...) fails for non-numeric isbits eltypes' in JuliaGPU/CUDA.jl
