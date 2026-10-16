@@ -1,0 +1,23 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-17 02:06:16 | ⭐️ jsunn-y starred cp2k/cp2k
+2026-10-17 00:32:17 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-16 22:17:37 | ⭐️ jsunn-y starred Ant-on-knee/anysolv
+2026-10-16 20:52:30 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-16 16:51:37 | ⭐️ Immortals-33 starred RosettaCommons/chaperone
+2026-10-16 16:22:52 | ⭐️ Zuricho starred RosettaCommons/chaperone
+2026-10-16 14:23:28 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [e9de9c1] (expanded) revert to pair prediction, model revised
+2026-10-16 09:26:32 | 🆕 alexholehouse created branch 'fast-relax' at idptools/starling
+2026-10-16 07:25:18 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1c345cf] (expanded) AF3 lineage: the diffusion's exponential update and geometric schedule as options (Blitz's) - 8 steps fold a protein as well as 200, defaults unchanged
+2026-10-16 06:33:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [f8d49c6] (expanded) AF2: the triangle multiplication's contraction in FP8 on Ada and Blackwell, as cuda/af3's - RTX PRO 6000 2,500 residues 46.72 -> 43.32 s, L4 1,000 residues 58.8 -> 56.1 s
+2026-10-16 03:30:45 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [d9732e9] (expanded) mirror stamp
+2026-10-16 02:53:08 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [fc01de7] (expanded) mirror: kabsch exposes its rotation solver, prod_losses gains P(close)
+2026-10-16 02:34:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [61fab6c] (expanded) AF2: the deep outer product mean's output projection reads the product where it lies - RTX PRO 6000 1,000 residues 7.60 -> 7.05 s, A100 12.91 -> 12.23 s
+2026-10-16 01:56:38 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [25de27e] (expanded) AF2: the deep outer product mean's contraction in FP8 on Ada and Blackwell - RTX PRO 6000 1,000 residues at 508 + 5,120 rows 8.00 -> 7.60 s, folds within 0.02 A
