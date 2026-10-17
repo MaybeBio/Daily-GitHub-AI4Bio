@@ -1,0 +1,33 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-10-18 01:27:39 | ⭐️ bmwoolf starred steineggerlab/foldseek
+2026-10-17 23:23:13 | 🍴 fengqing518 forked biomed-AI/CellFM
+2026-10-17 23:22:14 | 🍴 fengqing518 forked GENTEL-lab/VCWorld
+2026-10-17 14:54:12 | 🐛 MTVarman opened issue in THGLab/LP-PDBBind: 'Identical ligand on the same protein labelled both covalent=True and covalent=False (11 entries)'
+2026-10-17 11:17:05 | 🚀 jnwei pushed to aqlaboratory/openfold-3
+    - [0d25195] (expanded) Merge pull request #457 from AMD-Ecosystem/users/gmngeoffrey/triton-precision
+2026-10-17 10:38:38 | ⭐️ Sasas-Lss starred biomed-AI/DiffDec
+2026-10-17 08:35:51 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [5424c56] (expanded) tracker data 2026-10-17
+2026-10-17 05:24:09 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [70ffda9] (expanded) tracker data 2026-10-16
+2026-10-17 04:14:07 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [42acc93] (expanded) Merge branch 'main' into jandom/2026-09/fix/issue-406-custom-template-names-dropped
+2026-10-17 04:07:31 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [b838510] (expanded) tracker data 2026-10-16
+2026-10-17 04:03:04 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [af70c74] (expanded) tracker data 2026-10-16
+2026-10-17 02:27:55 | 🚀 AntiMatter568 pushed to kiharalab/VESPER_CUDA
+    - [60b5c3f] (expanded) Merge pull request #22 from kiharalab/docs/parity-other-engine
+2026-10-17 02:27:53 | 🔀 AntiMatter568 merged PR in kiharalab/VESPER_CUDA
+2026-10-17 02:27:50 | 🔀 AntiMatter568 merged PR in kiharalab/VESPER_CUDA
+2026-10-17 02:27:45 | 🔀 AntiMatter568 merged PR in kiharalab/VESPER_CUDA
+2026-10-17 02:25:00 | ⭐️ LongHung-Pham starred AIDD-LiLab/SMARTBind
+2026-10-17 02:09:00 | 🚀 milot-mirdita pushed to steineggerlab/alphafold
+    - [d6bfb11] (expanded) Update to 2.3.25
+2026-10-17 00:57:27 | 🚀 ylyzz21 pushed to JingHuangLab/REAL-SWIT
+    - [1fa4862] (expanded) Add demo runtime information for NVIDIA L40 GPU
+2026-10-17 00:54:39 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [3ef69f2] (expanded) tracker data 2026-10-16
+2026-10-17 00:22:47 | 🚀 ylyzz21 pushed to JingHuangLab/REAL-SWIT
+    - [7551184] (expanded) update

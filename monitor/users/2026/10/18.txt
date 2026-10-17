@@ -1,0 +1,30 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-18 03:00:46 | ⭐️ Immortals-33 starred cddlab/rgi_toolkit
+2026-10-17 23:37:13 | ⭐️ Shenggan starred Xu-Kai/AP3ESM
+2026-10-17 13:19:54 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a5ed227] (expanded) cuda/af2: sm_12x's shallow outer product mean carries its bias inside the GEMM (an f32 pair)
+2026-10-17 12:42:24 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [e03124b] (expanded) untrack the act_const harvest: a gate regenerates it
+2026-10-17 11:47:00 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [1e5cf09] (expanded) native: mirror stamp 676a297
+2026-10-17 11:10:23 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [080182e] (expanded) native: mirror stamp 21a0cf4
+2026-10-17 10:33:22 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [e7ba802] (expanded) native: mirror stamp 5854e61
+2026-10-17 10:01:04 | 🚀 sokrypton pushed to sokrypton/colabfold-kernels
+    - [da4a8a4] (expanded) The fallback is Python 3.11's: there ColabFold resolves jax 0.10.2, and jax 0.11 (whose Mosaic GPU API the kernel matches) wants Python 3.12
+2026-10-17 09:39:38 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [bc79338] (expanded) native: mirror stamp d9179fc
+2026-10-17 09:00:15 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [3eaf632] (expanded) native: mirror stamp 9262d6e
+2026-10-17 07:23:53 | 💬 Leo-T-Zang created issue 'Updated leaderboard with new masked fitness MSAs' in MarksLab-DasLab/RNAGym
+2026-10-17 07:02:05 | 💬 Leo-T-Zang created issue 'Updated leaderboard with new masked fitness MSAs' in MarksLab-DasLab/RNAGym
+2026-10-17 06:25:32 | ⭐️ WillHua127 starred walkinglabs/hands-on-modern-rl
+2026-10-17 05:50:35 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [944760d] (expanded) native: mirror stamp a4ba9bf
+2026-10-17 03:53:57 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [8bcf952] (expanded) Deploy f6fa0b4: MP lockstep overhead cut (checksum stride, packed map snapshots)
+2026-10-17 03:36:27 | 🚀 sokrypton pushed to sokrypton/aoe-beta
+    - [e8e67b6] (expanded) Deploy 2ba7b8c: corpse crash fix, glass instruction card, 8-color palette
+2026-10-17 02:06:16 | ⭐️ jsunn-y starred cp2k/cp2k
