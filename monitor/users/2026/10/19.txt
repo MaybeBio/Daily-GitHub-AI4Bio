@@ -1,0 +1,15 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-19 02:35:05 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1ebbd41] (expanded) cuda/af3 gate: boltz2 5CAJ self-templated, the case that sees boltz2's template divisor (3daf8f8e) - checked on CUDA
+2026-10-19 01:40:14 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3daf8f8] (expanded) boltz2: the template term divided by the templates present, as Boltz-2's own module - and the raw last conformer back on
+2026-10-18 23:26:01 | ⭐️ Zuricho starred mdaines/viz-js
+2026-10-18 21:11:56 | ⭐️ Zuricho starred lingxusb/folding-everywhere
+2026-10-18 18:35:06 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9c8404e] (expanded) flash kernel: the first key tile's copies issued before the queries' loads, and a padding warp skips the arithmetic
+2026-10-18 08:55:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d12f4f3] (expanded) featurise: protenix and OpenDDE - each conformer moved by U(-1, 1), and the leaving group at a declared bond dropped (af3-any-model 345cb11, b61bd1d)
+2026-10-18 07:31:10 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [694a484] (expanded) native: copy README.md
+2026-10-18 03:00:46 | ⭐️ Immortals-33 starred cddlab/rgi_toolkit
