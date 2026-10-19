@@ -1,0 +1,54 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-20 04:35:52 | 🚀 Leo-T-Zang pushed to MarksLab-DasLab/RNAGym
+    - [d919179] (expanded) Rescore the substitution baselines on the #38 constructs and rebuild the leaderboard
+2026-10-20 03:16:07 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [b65103f] (expanded) chai1: the MSA query row is paired, as chai's ColabFold path keys it
+2026-10-20 01:44:00 | 🔹 Leo-T-Zang performed PullRequestReviewEvent on MarksLab-DasLab/RNAGym
+2026-10-20 00:23:30 | 💬 jgreener64 created issue 'Add MetaDynamics' in JuliaMolSim/Molly.jl
+2026-10-19 23:16:10 | 💬 jgreener64 created issue 'Native Allegro equivariant potential (energy + analytic forces, CPU/GPU)' in JuliaMolSim/Molly.jl
+2026-10-19 22:41:56 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [51ea7d7] (expanded) build based on 3bd15c6
+2026-10-19 22:33:57 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-19 22:14:27 | 🔹 jgreener64 performed PullRequestReviewEvent on JuliaMolSim/Molly.jl
+2026-10-19 22:12:35 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-19 22:08:03 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-19 22:06:06 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-19 22:00:39 | 🔹 jgreener64 performed PullRequestReviewCommentEvent on JuliaMolSim/Molly.jl
+2026-10-19 20:36:38 | 🚀 alexholehouse pushed to idptools/parrot
+    - [285def4] (expanded) Make h5py a dependency, as the embedding cache of PLM and NARDINI+ encodings is an HDF5 file
+2026-10-19 19:42:15 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [ae57e1e] (expanded) Update README.md
+2026-10-19 17:58:34 | ⭐️ jgreener64 starred ADicksonLab/COMPRESS
+2026-10-19 17:44:11 | ⭐️ jgreener64 starred molssi-ai/xnn
+2026-10-19 17:33:33 | 🚀 jgreener64 pushed to BioJulia/BioStructures.jl
+    - [24644cd] (expanded) build based on ecad276
+2026-10-19 17:29:07 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [67028b9] (expanded) build based on 9008e64
+2026-10-19 17:08:32 | 💬 jgreener64 created issue 'Fix thread race in `AlchemicalPartition` from shared interaction objects' in JuliaMolSim/Molly.jl
+2026-10-19 15:54:24 | ⭐️ Junjie-Zhu starred morufwork/guoAudit
+2026-10-19 14:08:11 | ⭐️ riacd starred canghaimeng/Euler
+2026-10-19 12:47:05 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [402e0b6] (expanded) Update trainer.py
+2026-10-19 11:54:58 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [cd30b5c] (expanded) Update litmodel.py
+2026-10-19 11:52:31 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [240229c] (expanded) Update gce_litmodel.py
+2026-10-19 11:50:21 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [8aee82b] (expanded) Update get_treemodel_features.py
+2026-10-19 11:48:57 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [f425424] (expanded) Update get_treemodel_features.py
+2026-10-19 11:48:14 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [16b955b] (expanded) Update ec_model.py
+2026-10-19 11:45:56 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [5679888] (expanded) Update model_echier.py
+2026-10-19 11:44:45 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [4ac641d] (expanded) Update ec_contrast_datasets.py
+2026-10-19 11:43:33 | 🚀 code4luck pushed to code4luck/ReGATE
+    - [8ba783a] (expanded) Update pooling_head.py
+2026-10-19 10:14:40 | 💬 Leo-T-Zang created issue 'Updated leaderboard with new masked fitness MSAs' in MarksLab-DasLab/RNAGym
+2026-10-19 07:29:57 | 🚀 bjing2016 pushed to bjing2016/bjing2016.github.io
+    - [1126529] (expanded) Update index.html
+2026-10-19 07:28:47 | 🚀 bjing2016 pushed to bjing2016/bjing2016.github.io
+    - [d4bfdd4] (expanded) Update index.html
+2026-10-19 05:48:36 | ⭐️ jgreener64 starred hildebrandtlab/BiochemicalAlgorithms.jl
