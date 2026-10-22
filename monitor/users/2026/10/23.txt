@@ -1,0 +1,32 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-23 04:18:56 | 🐛 luost26 closed issue in luost26/academic-homepage: 'I am using this template!'
+2026-10-23 04:18:33 | 🔹 luost26 performed PullRequestReviewEvent on luost26/academic-homepage
+2026-10-23 04:13:29 | 🐛 luost26 assigned issue in luost26/academic-homepage: 'I am using this template!'
+2026-10-23 04:13:29 | 🐛 luost26 assigned issue in luost26/academic-homepage: 'I am using this template!'
+2026-10-23 02:18:05 | ⭐️ jsunn-y starred RosettaCommons/RFD4-Proteina
+2026-10-23 02:10:22 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0de9bec] (expanded) metal/core: port fused GEMM epilogues, halfProductScale, and fast accFloat f16 stores to lf_gemm (M1-M4)
+2026-10-23 01:18:08 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [4248260] (expanded) native: kernels synced from ColabDesign2 f249e9f; length_ladder prints the real |grad|
+2026-10-22 22:08:32 | ⭐️ sirius777coder starred bytedance/AnewOmni
+2026-10-22 20:22:48 | 🆕 EDAPINENUT created branch 'main' at EDAPINENUT/contrast_gen.edapinenut.github.io
+2026-10-22 18:27:21 | ⭐️ Junjie-Zhu starred mingchen-li/ThermoFormer
+2026-10-22 16:45:23 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [fc69606] (expanded) Update README.md
+2026-10-22 16:31:39 | ⭐️ Junjie-Zhu starred RosettaCommons/RFD4-Proteina
+2026-10-22 15:40:00 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [d78de94] (expanded) Update README.md
+2026-10-22 15:13:06 | ⭐️ AspirinCode starred microsoft/bioemu2
+2026-10-22 15:09:21 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [8752a60] (expanded) Update README.md
+2026-10-22 15:06:06 | 🚀 AspirinCode pushed to AspirinCode/papers_for_protein_design_using_DL
+    - [40e3fa6] (expanded) Update README.md
+2026-10-22 14:07:36 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [b3c3c1f] (expanded) Update README.md
+2026-10-22 13:52:16 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [ccf3db0] (expanded) Update README.md
+2026-10-22 02:37:24 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [10ff070] (expanded) Optimize lnGemmK, lnHeadsK, and bundleDecodeK across AF2 and AF3 (Batch 45)
+2026-10-22 00:20:16 | ⭐️ QizhiPei starred pzs19/HarnessPro
+2026-10-22 00:00:55 | 🆕 sokrypton created branch 'rgi-denoised-hook' at sokrypton/ColabFold
