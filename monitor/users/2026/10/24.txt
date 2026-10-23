@@ -1,0 +1,67 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-24 00:16:27 | ⭐️ QizhiPei starred inclusionAI/TorchTurbo
+2026-10-23 22:32:06 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5a86123] (expanded) Optimize model-specific AF3-lineage paths across WebGPU and Metal
+2026-10-23 22:20:34 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [c9b8810] (expanded) native: copy flash_bwd_body.cuh, ipa.cuh, lf_flash.cuh and 3 more
+2026-10-23 22:11:07 | 🔀 sokrypton merged PR in sokrypton/localfold
+2026-10-23 21:27:45 | 🔀 sokrypton opened PR in sokrypton/localfold
+2026-10-23 21:27:44 | 🆕 sokrypton created branch 'bc2-cuda-notes' at sokrypton/localfold
+2026-10-23 20:46:16 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3269e16] (expanded) core: cast g.tgPairs to int in min(g.n, (int)g.tgPairs)
+2026-10-23 20:45:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e43cde2] (expanded) af3,core: hoist gemmCondPermuted/gemmGateResidual epilogues, fuse atom block-0 adaLN & stage WebGPU diffusion
+2026-10-23 20:31:50 | 🚀 sokrypton pushed to sokrypton/alphafold
+    - [5153d47] (expanded) Hoist OPM norm & IPA pair bias, single-seq column fast path, and fuse global_attention, MSA LayerNorms & Transition epilogue
+2026-10-23 20:22:30 | 🔹 sokrypton performed DeleteEvent on sokrypton/alphafold
+2026-10-23 20:22:29 | 🔹 sokrypton performed DeleteEvent on sokrypton/colabfold-kernels
+2026-10-23 20:21:12 | 🔀 sokrypton opened PR in steineggerlab/alphafold
+2026-10-23 20:20:47 | 🆕 sokrypton created branch 'a100-pallas-speedup' at sokrypton/alphafold
+2026-10-23 20:05:49 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2555ac5] (expanded) Optimize Metal and WebGPU BioEmu2 conditioning, init norms, and split-K reductions
+2026-10-23 20:02:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3342753] (expanded) docs: record Transition transition1 lax.cond epilogue fusion (r261msa 1.172s)
+2026-10-23 20:00:26 | 🚀 sokrypton pushed to sokrypton/alphafold
+    - [91ed94c] (expanded) perf(modules): fuse Transition transition1 bias+relu epilogue via lax.cond
+2026-10-23 19:27:03 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9389057] (expanded) Optimize Metal EF2/AF2 and WebGPU ESMFold2 diffusion, OPM, and confidence
+2026-10-23 18:19:12 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [6f9e52b] (expanded) native: copy README.md, block.cuh, common.cuh and 6 more
+2026-10-23 17:55:52 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [945d7df] (expanded) perf(metal,webgpu): fuse AF3 singleTrackT 16-head pair bias, pad AF3/AF2 GEMM rows, and optimize WebGPU AF2 structure module
+2026-10-23 17:44:36 | ⭐️ EDAPINENUT starred EDAPINENUT/contrast_gen
+2026-10-23 17:31:03 | 🚀 EDAPINENUT pushed to EDAPINENUT/EDAPINENUT.github.io
+    - [8b75ff8] (expanded) Blogs: rotated square teaser
+2026-10-23 17:30:47 | 🚀 EDAPINENUT pushed to EDAPINENUT/contrast_gen
+    - [d8da07c] (expanded) Teaser: rotate 45 degrees so the moons fit the square
+2026-10-23 17:03:51 | 🚀 EDAPINENUT pushed to EDAPINENUT/EDAPINENUT.github.io
+    - [fdb3ac0] (expanded) Blogs: text-free teaser
+2026-10-23 16:54:08 | 🚀 EDAPINENUT pushed to EDAPINENUT/EDAPINENUT.github.io
+    - [4fdd94c] (expanded) Blogs: summary at most 60% of the line width
+2026-10-23 16:42:59 | 🚀 EDAPINENUT pushed to EDAPINENUT/EDAPINENUT.github.io
+    - [1faf99b] (expanded) Blogs: one-line title, text beside a thumbnail as tall as the text
+2026-10-23 16:42:42 | 🚀 EDAPINENUT pushed to EDAPINENUT/contrast_gen
+    - [690214b] (expanded) Teaser: back to the poster version
+2026-10-23 16:23:34 | 🚀 EDAPINENUT pushed to EDAPINENUT/contrast_gen
+    - [184d0a0] (expanded) Web page: centered headings, no buttons on the title card
+2026-10-23 15:55:54 | 🚀 EDAPINENUT pushed to EDAPINENUT/EDAPINENUT.github.io
+    - [b06ff1a] (expanded) Blogs: wide teaser image
+2026-10-23 15:55:38 | 🚀 EDAPINENUT pushed to EDAPINENUT/contrast_gen
+    - [32cab24] (expanded) Teaser: wide, short banner
+2026-10-23 15:38:21 | 🚀 EDAPINENUT pushed to EDAPINENUT/contrast_gen
+    - [85ddb29] (expanded) Add teaser figure; link the page to the homepage's Blogs section
+2026-10-23 05:14:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [b1d9d3b] (expanded) metal/ef2, metal/core: simdgroup_float8x8 FlashAttention for ESM-C and SWA + exact lf_layernorm4 widths
+2026-10-23 04:19:15 | 💬 luost26 created issue 'I am using this template!' in luost26/academic-homepage
+2026-10-23 04:18:56 | 🐛 luost26 closed issue in luost26/academic-homepage: 'I am using this template!'
+2026-10-23 04:18:55 | 🚀 luost26 pushed to luost26/academic-homepage
+    - [69f6589] (expanded) Add website to README community list (#59)
+2026-10-23 04:18:33 | 🔹 luost26 performed PullRequestReviewEvent on luost26/academic-homepage
+2026-10-23 04:13:29 | 🐛 luost26 assigned issue in luost26/academic-homepage: 'I am using this template!'
+2026-10-23 04:13:29 | 🐛 luost26 assigned issue in luost26/academic-homepage: 'I am using this template!'
+2026-10-23 02:18:05 | ⭐️ jsunn-y starred RosettaCommons/RFD4-Proteina
+2026-10-23 00:19:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [887f8d1] (expanded) docs/M2-HANDOFF,metal/core: add standalone M2 handoff doc and support yinFloat in lf_gemm
+2026-10-23 00:09:39 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0aeeb53] (expanded) metal/ef2,metal/core: fuse trunk recycle/confidence norms, prebuild diffusion/atom weights, write half coords
