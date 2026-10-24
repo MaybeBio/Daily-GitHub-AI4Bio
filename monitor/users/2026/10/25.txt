@@ -1,0 +1,39 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-25 04:59:57 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a4ed1b2] (expanded) design: hold residues while designing the rest — motif, CDR and inverse folding
+2026-10-25 04:38:14 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9e3d443] (expanded) rfd4p: the shard probe asked the wrong file, so a generation 404'd
+2026-10-25 03:59:10 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [f1946a7] (expanded) design.html: every cycle is a frame, so a hunt plays back
+2026-10-25 03:31:20 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [94c1488] (expanded) occupancy: the M2's width range as measured (112-431), the A100 not re-measured; the page's own measurement unchanged on the M2
+2026-10-25 03:13:04 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5ead2f3] (expanded) docs/DESIGN: permission from every upstream author, and what it does not cover
+2026-10-25 02:12:41 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [77fbef7] (expanded) Plain GEMM kernels on ARM GPUs (8% faster trunk pass on Pixel 9)
+2026-10-25 01:43:25 | 🚀 sokrypton pushed to sokrypton/BindCraft2
+    - [b521264] (expanded) native: chunk above 768 and stride above 896 on the A10 (were 480 / 512)
+2026-10-25 01:36:02 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a10f0f2] (expanded) metal/af2: 6mrr-x12-monomer re-recorded after 26c14ecf's per-chain query rows
+2026-10-25 01:17:37 | 🚀 sokrypton pushed to sokrypton/solab
+    - [01fb6ef] (expanded) Lab: tighter crop for Beatriz Sanches photo
+2026-10-25 01:05:41 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [f7c277f] (expanded) Sync the latest TCM catalog and let the overview introduction use the full width.
+2026-10-25 01:05:33 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [502ff20] (expanded) docs/M2-TO-M5: the plain-store commit's hash after the rebase (40de1a68)
+2026-10-24 23:46:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3e3e7f8] (expanded) docs/M5-TO-M2: the M2's reply - two lf_gemm regressions fixed in 5a48c897, the gates, and the WebGPU metal-3 values measured
+2026-10-24 23:24:42 | ⭐️ sirius777coder starred xcflab/Astrolabe
+2026-10-24 20:33:36 | ⭐️ shichence starred RosettaCommons/chaperone
+2026-10-24 18:52:06 | 🚀 tyang816 pushed to tyang816/tyang816.github.io
+    - [f54b982] (expanded) Add the ISCB-China 2026 talk on cognitive reasoning for protein R&D agents.
+2026-10-24 01:50:22 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [27a0215] (expanded) Embed AtomWorks Studio and deploy the studio to GitHub Pages
+2026-10-24 01:37:58 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [476fb87] (expanded) cuda/af3: Blackwell (sm_120) & A100 (sm_80) pair-track optimizations for C=256/384/512
+2026-10-24 01:06:50 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [529113e] (expanded) Optimize RoseTTAFold-3 kqNorm, parallel noResidual AdaLN, chiralGrad, and OPM epilogue across Metal and WebGPU
+2026-10-24 00:16:49 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [6825130] (expanded) Optimize wide pair-track, batched conditioning, and confidence paths across Metal and WebGPU
+2026-10-24 00:16:27 | ⭐️ QizhiPei starred inclusionAI/TorchTurbo
