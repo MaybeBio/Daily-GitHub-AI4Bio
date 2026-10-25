@@ -1,0 +1,41 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-10-26 04:03:15 | 🐛 jinzomotsu opened issue in steineggerlab/foldseek: 'Licensing of the 3Di encoder parameters redistributed under BSD-3-Clause in mini3di'
+2026-10-26 03:46:27 | 🔹 jandom performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-10-26 03:46:25 | 🔹 jandom performed PullRequestReviewCommentEvent on aqlaboratory/openfold-3
+2026-10-26 03:45:54 | 🔀 jandom opened PR in aqlaboratory/openfold-3
+2026-10-26 03:37:45 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [094b56c] (expanded) bump python version in pixi.lock
+2026-10-26 03:29:12 | 🔀 jandom opened PR in aqlaboratory/openfold-3
+2026-10-26 03:22:08 | 🆕 jandom created branch 'chore/py311-floor' at aqlaboratory/openfold-3
+2026-10-26 03:17:54 | 💬 jandom created issue '[BUG] `StrEnum` breaks Python 3.10' in aqlaboratory/openfold-3
+2026-10-26 02:57:42 | 💬 jandom created issue '[BUG] `StrEnum` breaks Python 3.10' in aqlaboratory/openfold-3
+2026-10-26 02:56:45 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [bfdc546] (expanded) tracker data 2026-10-25
+2026-10-26 02:42:19 | 🚀 jandom pushed to aqlaboratory/openfold-3
+    - [f87904d] (expanded) Mark `test_shape_large_bf16_train` test as slow (#478)
+2026-10-26 02:42:17 | 🔀 GMNGeoffrey merged PR in aqlaboratory/openfold-3
+2026-10-26 02:42:12 | 🔹 jandom performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-10-26 02:27:41 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [9843ba2] (expanded) tracker data 2026-10-25
+2026-10-26 02:00:13 | 💬 jandom created issue '[BUG] setup_openfold fails with PermissionError on read-only installs (writes Biotite's CCD into site-packages)' in aqlaboratory/openfold-3
+2026-10-26 01:49:27 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [0fe010e] (expanded) tracker data 2026-10-25
+2026-10-26 01:46:13 | 🔹 jandom performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-10-26 01:46:12 | 🔹 jandom performed PullRequestReviewCommentEvent on aqlaboratory/openfold-3
+2026-10-26 00:02:53 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [6a4508a] (expanded) tracker data 2026-10-25
+2026-10-25 22:33:04 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [de51803] (expanded) tracker data 2026-10-25
+2026-10-25 22:27:19 | 🚀 github-actions pushed to BioComputingUP/dome-tracking
+    - [94f97c6] (expanded) tracker data 2026-10-25
+2026-10-25 15:27:27 | 🔹 martin-steinegger performed MemberEvent on steineggerlab/foldseek
+2026-10-25 15:11:20 | 🚀 jnwei pushed to aqlaboratory/openfold-3
+    - [d8f30fd] (expanded) ci-monitoring: 2026-10-25 — 5/5 passed · 0 skipped · 0 queued · 0 need attention
+2026-10-25 10:38:10 | 🔀 patrickrochemn opened PR in baker-laboratory/PLACER
+2026-10-25 10:14:34 | 🚀 aphilomin pushed to baker-laboratory/TMB_pipeline
+    - [3ba1d1f] (expanded) Document how to run the TMB_MPNN example
+2026-10-25 10:04:33 | 🚀 aphilomin pushed to baker-laboratory/TMB_pipeline
+    - [2cf8755] (expanded) Add third-party license texts and portability notes
+2026-10-25 07:00:58 | 🔀 AtharvaTilewale opened PR in baker-laboratory/RoseTTAFold-All-Atom
+2026-10-25 06:42:10 | 🍴 AtharvaTilewale forked baker-laboratory/RoseTTAFold-All-Atom

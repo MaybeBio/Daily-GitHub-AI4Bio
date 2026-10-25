@@ -1,0 +1,62 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-26 04:58:33 | 🔀 sokrypton merged PR in sokrypton/rfd4-proteina-webgpu
+2026-10-26 04:40:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [dc6f173] (expanded) Round 3 Module 6: Vectorize Ws/sS/sO/sBo/sAvg loads, batch gate/output biases & hoist r1/v1 global loads in globalattn.cuh
+2026-10-26 04:26:34 | 🔀 sokrypton opened PR in sokrypton/rfd4-proteina-webgpu
+2026-10-26 04:22:42 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a795b97] (expanded) Round 3 Module 4: 3-CTA/SM fusedTransitionK selection, W1/W2 ldmatrix prefetch & epilogue shared-load batching
+2026-10-26 04:17:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1be4d8a] (expanded) Round 3 Module 3: 4-CTA/SM triIn256K smem aliasing, ldmatrix/cp.async overlap & epilogue shared-load batching
+2026-10-26 04:14:00 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [728589f] (expanded) cuda/rfd4p: gcov says the whole fallback half of deriveChemistry was dead
+2026-10-26 04:05:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [efc9bbe] (expanded) web/generate: the f16 numbers on the design page are developer-flag numbers
+2026-10-26 04:04:34 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d26efcd] (expanded) webgpu/rfd4p: a GEMM option the chosen kernel cannot honour throws, and the gate sweeps a tail
+2026-10-26 03:59:29 | 🔹 sokrypton performed DeleteEvent on sokrypton/localfold
+2026-10-26 03:33:43 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [68e002d] (expanded) Round 2 - Module 9 (PTX): Custom Tensor-Core GEMMs Single-Barrier Pipeline, Cross-ks ldmatrix Prefetch & cp.async BETA Epilogue
+2026-10-26 03:26:30 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [303d1ec] (expanded) Round 2 - Module 8 (PTX): Structure Module, IPA & Confidence Heads 4-Query/Warp ipaOutputsFastK & Conflict-Free ipaPairTermK
+2026-10-26 02:31:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [31f7e17] (expanded) Round 2 - Module 4 (PTX): Fused Transition Double-Buffered ldsm4t & Bias Prefetching
+2026-10-26 01:31:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [d631bb1] (expanded) cuda/rfd4p: refuse an input with coordinate groups to permute, as the exporter does
+2026-10-26 01:25:42 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [7cccaf2] (expanded) M2-to-M5 handoff for the chunked pair track, plus a length-sweep trunk bench
+2026-10-26 01:24:42 | 🔀 sokrypton merged PR in sokrypton/rfd4-proteina-webgpu
+2026-10-26 00:59:52 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [25ee487] (expanded) webgpu/rfd4p: the chunked projection writes aT/bT itself, and the arms agree 3.6x better
+2026-10-26 00:53:36 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c1c17b8] (expanded) Module 7 (PTX): Input, Recycling & Template Embedders (evoformer.cuh, templates.cuh)
+2026-10-26 00:35:29 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3762ee5] (expanded) webgpu/rfd4p: the incoming triangle transposes by stride, not by a pass - 1.33x
+2026-10-25 21:31:29 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [e44ea57] (expanded) cuda/rfd4p/README: the structure job folds, and the two stamps that hid it
+2026-10-25 19:01:30 | ⭐️ AspirinCode starred MauricioCafiero/MedRAg
+2026-10-25 19:01:00 | ⭐️ AspirinCode starred olsenlabmit/BigSMILES
+2026-10-25 04:48:45 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [232438b] (expanded) design: a chain's polymer and its ligands reach the fold, not just the designer
+2026-10-25 04:19:24 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [dd61b0d] (expanded) cuda/af3, cuda/af2: two 4,080-token folds that ran out mid-fold now complete
+2026-10-25 03:07:14 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c075c3b] (expanded) design.html: the Protein Hunter shell, and aminx's RunSpec written down
+2026-10-25 02:36:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fc66ba5] (expanded) cuda/af3: scratch from the card where the pool refuses; an out-of-memory report that names the slot's buffers
+2026-10-25 01:33:18 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [85ccdb6] (expanded) docs/M5-TO-M2: the M5's answer to docs/M2-TO-M5.md, and the M2's next asks
+2026-10-25 01:15:44 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [26c14ec] (expanded) AF2 monomer complexes: each chain's own query row in the alignment, as ColabFold pads it
+2026-10-25 01:14:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [39cab21] (expanded) metal/af2: a monomer's cross-chain relpos at the window's ends, as cuda/af2 995ef402
+2026-10-25 01:05:27 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [ac21693] (expanded) webgpu/af3: msa.project's row tile fits the device's workgroup storage; docs/M2-TO-M5.md, the M2's pass for the M5
+2026-10-25 01:01:02 | 🚀 sokrypton pushed to sokrypton/solab
+    - [c7fb625] (expanded) News: transparent background for CIRPIN thumbnail
+2026-10-25 00:46:45 | 🚀 sokrypton pushed to sokrypton/solab
+    - [908079e] (expanded) News: CIRPIN blurb wording
+2026-10-25 00:45:02 | 🚀 sokrypton pushed to sokrypton/solab
+    - [03ea510] (expanded) News: zoomed-in CIRPIN snake thumbnail
+2026-10-25 00:04:51 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [460e8ba] (expanded) Update README and catalog with new TCM models and dataset details
