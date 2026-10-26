@@ -1,0 +1,69 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-27 02:26:21 | ⭐️ jsunn-y starred gnina/gnina
+2026-10-27 02:26:17 | ⭐️ jsunn-y starred crest-lab/crest
+2026-10-27 00:11:01 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [14242a2] (expanded) rfd4p: an authored link is a product, built and checked - atomworks' link chemistry, both ports
+2026-10-26 23:48:25 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [19c0aef] (expanded) build based on b0b7fde
+2026-10-26 23:46:59 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [b0b7fde] (expanded) use neighbour list by default
+2026-10-26 23:29:29 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [0615c6b] (expanded) build based on 7dae2a6
+2026-10-26 23:27:12 | 💬 jgreener64 created issue 'Add MetaDynamics' in JuliaMolSim/Molly.jl
+2026-10-26 23:13:46 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [3f6a6b0] (expanded) rfd4p: a condition's arms apply in the order the job wrote them
+2026-10-26 23:02:42 | 💬 jgreener64 created issue 'Prevent fusion of {Anything, Float} in load and memset type splitting' in EnzymeAD/Enzyme
+2026-10-26 22:57:13 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [471e045] (expanded) rfd4p: the batches upstream refuses are refused - ValidateBatchInvariants, both ports
+2026-10-26 22:12:53 | ⭐️ Zuricho starred lovetaro/selectbench
+2026-10-26 20:04:12 | ⭐️ jgreener64 starred amirabbasi-physics/ParticleDynamics.jl
+2026-10-26 19:40:31 | 💬 jgreener64 created issue 'Require Julia 1.11' in m3g/CellListMap.jl
+2026-10-26 18:45:34 | ⭐️ jgreener64 starred HolyLab/DerivativeCovers.jl
+2026-10-26 17:37:20 | 🚀 jgreener64 pushed to BioJulia/BioStructures.jl
+    - [9130483] (expanded) build based on ecad276
+2026-10-26 17:31:59 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [b82c494] (expanded) build based on fdfd8b4
+2026-10-26 16:58:01 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [d245c2f] (expanded) Update README.md
+2026-10-26 16:46:55 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [56e3670] (expanded) Update README.md
+2026-10-26 16:39:38 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [e7c1607] (expanded) Update README.md
+2026-10-26 14:03:59 | ⭐️ AspirinCode starred BojarLab/glycowork
+2026-10-26 06:03:06 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [7ca571c] (expanded) Round 4 - Module 6: Global Attention & Extra MSA Stack PTX Pipeline Optimization
+2026-10-26 05:58:39 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [7275531] (expanded) Round 4 - Module 5: Outer Product Mean (lnGemmK & opmAdd128K)
+2026-10-26 05:25:55 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2ef7559] (expanded) Round 4 - Module 2: FlashAttention-2 Spill Elimination & Epilogue Batching in flashGridHalf, outLnK/16K, and gridOutK
+2026-10-26 05:11:44 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fba4593] (expanded) Round 4 - Module 1: LayerNorm Scale/Offset Prefetch, addIntoPairK Load Pipelining & embedPairK Smem Bias Caching
+2026-10-26 05:00:23 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [bea60aa] (expanded) Round 3 - Module 8: Structure Module, IPA & Confidence Heads PTX
+2026-10-26 04:58:37 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [d9090ee] (expanded) Stamp module versions after merging #4
+2026-10-26 04:38:22 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [75e0b9b] (expanded) cuda/rfd4p: the contig's nucleic suffixes, the centroid dtype, and a fixture that tested nothing
+2026-10-26 04:26:07 | 🆕 sokrypton created branch 'perf/gemm-option-guards' at sokrypton/rfd4-proteina-webgpu
+2026-10-26 04:00:51 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [37633bd] (expanded) Round 3 - Module 2: Cross-ks ldmatrix prefetch in outLnK/outLn16K, unpredicated fullRows in outLn16K/gridOutK, hoisted ob preload in gridOutK
+2026-10-26 03:41:50 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [4e8c88b] (expanded) Round 3 - Module 1 (PTX): Core Primitives & Elementwise Vectorized msaEmbedAddK, extraEmbedK, toBf16FK & LayerNorm Scale/Offset Prefetch
+2026-10-26 03:11:01 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [501d010] (expanded) Round 2 - Module 7 (PTX): Template Pair Stack & Evoformer Trunk 4-CTA/SM lnHeadsK & Template Pair Input Prefetching
+2026-10-26 03:04:52 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [481137f] (expanded) Round 2 - Module 6 (PTX): Extra MSA Global Attention 4-CTA/SM gaInK, 2-CTA/SM gaAttnK & Vectorized Shared Loads
+2026-10-26 02:52:19 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a260097] (expanded) Round 2 - Module 5 (PTX): Outer Product Mean Cross-Kernel LN Emission, 2-CTA/SM lnGemmK & 128-bit opmAdd128K
+2026-10-26 02:25:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [fb08a67] (expanded) Round 2 - Module 3 (PTX): Fused Triangle Multiplication XROUNDS=2 3-Block/SM & Output Epilogue Optimizations
+2026-10-26 01:58:04 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [44831b5] (expanded) Round 2 - Module 1 (PTX): LayerNorm & Pair Residual Epilogue Optimizations
+2026-10-26 01:42:47 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [4c740e0] (expanded) Module 9 (PTX): Custom PTX Tensor-Core GEMMs & Epilogue Optimizations
+2026-10-26 01:02:16 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [68daebb] (expanded) webgpu/rfd4p: the chunked projection writes aT/bT itself, and the arms agree 3.6x better
+2026-10-26 00:50:11 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c61be7d] (expanded) cuda/rfd4p: an unindexed motif is grafted, not written as UNK
+2026-10-26 00:46:57 | 🆕 sokrypton created branch 'perf/chunked-pair-track' at sokrypton/rfd4-proteina-webgpu
