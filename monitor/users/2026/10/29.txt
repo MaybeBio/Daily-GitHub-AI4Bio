@@ -1,0 +1,22 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-29 01:53:05 | ⭐️ Zuricho starred harbor-framework/terminal-bench-science
+2026-10-29 01:47:55 | 🐛 jchodera opened issue in asapdiscovery/asapdiscovery.github.io: 'Update Members directory'
+2026-10-29 00:21:43 | ⭐️ meneshail starred molence/Mol-1
+2026-10-28 21:29:05 | ⭐️ Immortals-33 starred magnusross/pgd-hallucination
+2026-10-28 19:24:08 | ⭐️ shichence starred molence/Mol-1
+2026-10-28 12:34:54 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [0855d45] (expanded) design.html: a DNA or RNA piece of the job is drawn as nucleic
+2026-10-28 12:31:19 | 🆕 sokrypton created branch 'unknown-nucleotides' at sokrypton/py2Dmol
+2026-10-28 12:11:43 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [4459ee5] (expanded) test_data: model_config golden carries Evoformer.pairmixer and trunk_pair_channel (both off by default)
+2026-10-28 12:06:09 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [4459ee5] (expanded) test_data: model_config golden carries Evoformer.pairmixer and trunk_pair_channel (both off by default)
+2026-10-28 12:01:20 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [85a3c85] (expanded) Mol-1 on metal: its PairMixer stack, narrow trunk and float single transition (M2)
+2026-10-28 11:49:05 | ⭐️ Immortals-33 starred molence/Mol-1
+2026-10-28 10:35:19 | ⭐️ ChrisAllenMing starred molence/Mol-1
+2026-10-28 10:27:00 | ⭐️ Zuricho starred molence/Mol-1
+2026-10-28 02:11:49 | ⭐️ lujiarui starred molence/Mol-1
+2026-10-28 01:02:17 | 🚀 luost26 pushed to luost26/prexsyn
+    - [a293f84] (expanded)  pre-commit autoupdate (#10)

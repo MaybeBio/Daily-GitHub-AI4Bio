@@ -1,0 +1,47 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-10-29 04:21:23 | ⭐️ Diffrakt starred aqlaboratory/openfold
+2026-10-29 03:14:26 | 🐛 faylward opened issue in steineggerlab/foldseek: 'uniprot hit annotations'
+2026-10-29 01:24:58 | ⭐️ conmmul starred ProteinDesignLab/protpardelle-1c
+2026-10-29 01:24:51 | ⭐️ conmmul starred ProteinDesignLab/protpardelle
+2026-10-28 22:59:31 | 💬 milot-mirdita created issue 'Licensing of the 3Di encoder parameters redistributed under BSD-3-Clause in mini3di' in steineggerlab/foldseek
+2026-10-28 22:42:17 | 🐛 sobuelow closed issue in KULL-Centre/CALVADOS: 'AttributeError in examples/slab_IDR'
+2026-10-28 22:41:44 | 💬 sobuelow created issue 'AF-CALVADOS with a multi-chain PDB + multimer PAE as a single component: are cross-chain Go restraints intended?' in KULL-Centre/CALVADOS
+2026-10-28 22:24:14 | 🔀 LucasDooms merged PR in KULL-Centre/CALVADOS
+2026-10-28 16:15:35 | ⭐️ emirdolmaci starred steineggerlab/foldseek
+2026-10-28 13:37:22 | 💬 github-actions created issue 'chore: release 0.6.0' in kiharalab/Emap2lig
+2026-10-28 13:37:21 | 🏷️  github-actions published release v0.6.0 in kiharalab/Emap2lig
+2026-10-28 13:37:12 | 🔀 github-actions labeled PR in kiharalab/Emap2lig
+2026-10-28 13:37:12 | 🔀 github-actions unlabeled PR in kiharalab/Emap2lig
+2026-10-28 13:37:11 | 🔀 github-actions merged PR in kiharalab/Emap2lig
+2026-10-28 13:34:24 | 🔀 shuuul merged PR in kiharalab/Emap2lig
+2026-10-28 13:32:32 | 🔀 shuuul opened PR in kiharalab/Emap2lig
+2026-10-28 11:21:51 | 🚀 jnwei pushed to aqlaboratory/openfold-3
+    - [168a70f] (expanded) pin pytest version until upstream attribute error is resolved
+2026-10-28 11:02:06 | 🔀 github-actions labeled PR in kiharalab/Emap2lig
+2026-10-28 11:02:06 | 🔀 github-actions opened PR in kiharalab/Emap2lig
+2026-10-28 11:01:54 | 🔀 shuuul merged PR in kiharalab/Emap2lig
+2026-10-28 11:00:16 | 🔀 shuuul opened PR in kiharalab/Emap2lig
+2026-10-28 10:58:54 | 🔹 shuuul performed DeleteEvent on kiharalab/Emap2lig
+2026-10-28 10:40:20 | 💬 github-actions created issue 'chore: release 0.5.0' in kiharalab/Emap2lig
+2026-10-28 10:40:19 | 🏷️  github-actions published release v0.5.0 in kiharalab/Emap2lig
+2026-10-28 10:40:11 | 🔀 github-actions labeled PR in kiharalab/Emap2lig
+2026-10-28 10:40:11 | 🔀 github-actions unlabeled PR in kiharalab/Emap2lig
+2026-10-28 10:40:10 | 🔀 github-actions merged PR in kiharalab/Emap2lig
+2026-10-28 10:37:10 | 🚀 github-actions pushed to kiharalab/Emap2lig
+    - [6dc8c85] (expanded) chore: release 0.5.0
+2026-10-28 10:36:51 | 🔀 shuuul merged PR in kiharalab/Emap2lig
+2026-10-28 10:23:54 | 🔀 shuuul opened PR in kiharalab/Emap2lig
+2026-10-28 10:23:51 | 🆕 shuuul created branch 'chore/upgrade-and-trim-deps' at kiharalab/Emap2lig
+2026-10-28 08:44:33 | 🔹 shuuul performed DeleteEvent on kiharalab/Emap2lig
+2026-10-28 08:44:31 | 🚀 github-actions pushed to kiharalab/Emap2lig
+    - [5ac547a] (expanded) chore: release 0.4.5
+2026-10-28 08:44:31 | 🔀 github-actions labeled PR in kiharalab/Emap2lig
+2026-10-28 08:44:31 | 🔀 github-actions opened PR in kiharalab/Emap2lig
+2026-10-28 08:44:17 | 🚀 shuuul pushed to kiharalab/Emap2lig
+    - [edb43be] (expanded) Merge pull request #14 from kiharalab/fix/emdb-id-contour-level
+2026-10-28 08:44:16 | 🔀 shuuul merged PR in kiharalab/Emap2lig
+2026-10-28 08:42:11 | 🔀 shuuul opened PR in kiharalab/Emap2lig
+2026-10-28 03:05:48 | 🐛 filipetessaro opened issue in steineggerlab/foldmason: 'AFDB benchmark reproduces on intact clusters; HOMSTRAD reference and 285 AFDB inputs are no longer available'
+2026-10-28 03:03:42 | 🚀 gterashi pushed to kiharalab/DAQplugin
+    - [cfec9a0] (expanded) Progress bar, Table and 3D structure interaction.
