@@ -1,0 +1,14 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-10-29 15:00:40 | ⭐️ Junjie-Zhu starred matteo-cagiada/mmcif-tools
+2026-10-29 03:50:51 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [84d1be4] (expanded) cuda/af3/README: the crosslink fold measured on satisfiable pairs - AlphaFold 3 closes all four bonds, Boltz-2 two
+2026-10-29 03:43:05 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [a7ac671] (expanded) chai-1 and ESMFold2 fold with their language model by default
+2026-10-29 03:38:34 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [607d869] (expanded) Crosslinks: af3x's `crosslinks` on the page, WebGPU, CUDA and Metal, as af3-any-model takes them
+2026-10-29 01:53:05 | ⭐️ Zuricho starred harbor-framework/terminal-bench-science
+2026-10-29 01:47:55 | 🐛 jchodera opened issue in asapdiscovery/asapdiscovery.github.io: 'Update Members directory'
+2026-10-29 00:56:10 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2ee476a] (expanded) Pocket and contact constraints on WebGPU, CUDA and Metal: boltz2 and chai-1, as af3-any-model reads them
+2026-10-29 00:21:43 | ⭐️ meneshail starred molence/Mol-1
