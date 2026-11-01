@@ -1,0 +1,38 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-02 04:17:52 | 🔀 jchodera opened PR in asapdiscovery/asapdiscovery.github.io
+2026-11-02 03:49:12 | 💬 sokrypton created issue 'WebGPU page from opus-55-opt (no native, Metal or design)' in sokrypton/localfold
+2026-11-02 03:14:09 | 💬 sokrypton created issue 'WebGPU page from opus-55-opt (no native, Metal or design)' in sokrypton/localfold
+2026-11-02 03:08:24 | 💬 HannesStark created issue 'How to define a contact between the target and designed peptide?' in HannesStark/boltzgen
+2026-11-02 03:08:22 | 💬 HannesStark created issue 'redesigning experimentally validated binder' in HannesStark/boltzgen
+2026-11-02 03:08:05 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-11-02 03:07:57 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-11-02 03:06:58 | 🔀 HannesStark merged PR in HannesStark/boltzgen
+2026-11-02 02:55:45 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-11-02 02:55:40 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-11-02 02:55:36 | 🔀 HannesStark opened PR in HannesStark/boltzgen
+2026-11-02 01:06:34 | 💬 HannesStark created issue 'Use of the msa flag?' in HannesStark/boltzgen
+2026-11-02 01:06:33 | 💬 HannesStark created issue 'Hotspot residue consistently ignored during binder design with protein-anything protocol' in HannesStark/boltzgen
+2026-11-02 01:06:32 | 💬 HannesStark created issue 'How to define a contact between the target and designed peptide?' in HannesStark/boltzgen
+2026-11-02 01:06:31 | 💬 HannesStark created issue 'Filtering options' in HannesStark/boltzgen
+2026-11-02 01:06:30 | 💬 HannesStark created issue 'cannot implement constraints between the atoms/chains/residues in the file and any other entity: chains from  pdb/cif file not imported into `all_parsed_chains` + missing "raise" in valueerror' in HannesStark/boltzgen
+2026-11-02 01:06:30 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Budget and number of designs'
+2026-11-02 01:06:28 | 💬 HannesStark created issue 'Budget and number of designs' in HannesStark/boltzgen
+2026-11-02 01:06:26 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'yaml file for nucleic acid'
+2026-11-02 01:06:25 | 💬 HannesStark created issue 'yaml file for nucleic acid' in HannesStark/boltzgen
+2026-11-02 01:06:23 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Hitting `KeyError: 'entities'` error'
+2026-11-02 01:06:21 | 💬 HannesStark created issue 'Hitting `KeyError: 'entities'` error' in HannesStark/boltzgen
+2026-11-02 01:06:20 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'RuntimeError: _entity_poly_seq.entity_id not found in block'
+2026-11-02 01:06:19 | 💬 HannesStark created issue 'RuntimeError: _entity_poly_seq.entity_id not found in block' in HannesStark/boltzgen
+2026-11-02 01:06:17 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'data_ligands, data_protein_binder missing from the code'
+2026-11-02 01:06:15 | 💬 HannesStark created issue 'data_ligands, data_protein_binder missing from the code' in HannesStark/boltzgen
+2026-11-02 01:06:14 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Nanobody exclude and design_insertions parameters'
+2026-11-02 01:06:12 | 💬 HannesStark created issue 'Nanobody exclude and design_insertions parameters' in HannesStark/boltzgen
+2026-11-02 01:06:11 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'SASA computation fails in analysis step for example inputs (Coordinates are empty)'
+2026-11-02 01:06:09 | 💬 HannesStark created issue 'SASA computation fails in analysis step for example inputs (Coordinates are empty)' in HannesStark/boltzgen
+2026-11-02 01:06:08 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Is there a possibility of supporting the iPSAE metric?'
+2026-11-02 01:06:06 | 💬 HannesStark created issue 'Is there a possibility of supporting the iPSAE metric?' in HannesStark/boltzgen
+2026-11-02 01:06:05 | 🐛 HannesStark closed issue in HannesStark/boltzgen: 'Error - Pytorch related'
+2026-11-01 20:39:02 | ⭐️ terry-r123 starred CladeTeam/TurboComplex-Website
+2026-11-01 20:38:57 | ⭐️ terry-r123 starred CladeTeam/PolyQ
+2026-11-01 11:59:49 | ⭐️ QizhiPei starred jiaxianyan/BioDataLab
