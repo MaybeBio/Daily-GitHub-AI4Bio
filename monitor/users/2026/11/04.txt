@@ -1,0 +1,17 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-04 04:15:22 | ⭐️ Immortals-33 starred DunbrackLab/IPSAE2
+2026-11-03 22:03:52 | ⭐️ Zuricho starred heygen-com/hyperframes
+2026-11-03 20:31:21 | ⭐️ AspirinCode starred OdinZhang/Graph-Neural-Networks-in-Modern-Drug-Discovery
+2026-11-03 20:18:19 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [6b03f70] (expanded) Fix HTTPS origin checks behind TLS-terminating tunnels
+2026-11-03 18:43:33 | ⭐️ mingchen-li starred yetone/magpie
+2026-11-03 17:58:06 | ⭐️ Junjie-Zhu starred PeptoneLtd/contrastive-finetuning-plms
+2026-11-03 14:59:43 | ⭐️ sirius777coder starred Valdes-Tresanco-MS/gmx_MMPBSA
+2026-11-03 11:50:37 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [83034c9] (expanded) Show conversation previews immediately and load files on demand
+2026-11-03 11:34:52 | ⭐️ ChrisAllenMing starred RosettaCommons/chaperone
+2026-11-03 07:15:05 | 💬 jgreener64 created issue 'Add ReaxFF and charge equilibration with CPU and GPU support' in JuliaMolSim/Molly.jl
+2026-11-03 05:07:50 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [01b76d7] (expanded) Harden service dependencies and isolate online and local PBS deployment
+2026-11-03 02:26:56 | ⭐️ jsunn-y starred lgwrightlab/schematic-figure
