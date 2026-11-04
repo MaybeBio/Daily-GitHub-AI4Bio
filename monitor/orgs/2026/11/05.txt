@@ -1,0 +1,36 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-11-05 04:58:42 | 🍴 woodsh17 forked baker-laboratory/TMB_pipeline
+2026-11-05 03:26:02 | 🐛 ryanemenecker closed issue in idptools/goose: 'GOOSE colab cannot set up'
+2026-11-05 03:25:56 | 💬 ryanemenecker created issue 'GOOSE colab cannot set up' in idptools/goose
+2026-11-05 01:17:13 | ⭐️ tarunanand-dev starred aqlaboratory/openfold
+2026-11-04 23:50:06 | 🍴 WillJRoper forked aqlaboratory/openfold-3
+2026-11-04 22:53:22 | 🐛 ioChris opened issue in steineggerlab/foldseek: '`tmalign`/`lolalign` on master scale much worse than release 10 for many-query searches (per-query fork/join since 50011e2)'
+2026-11-04 22:47:46 | 🔀 heathcliff233 opened PR in aqlaboratory/openfold-3
+2026-11-04 21:30:56 | ⭐️ Chenghao-Wu starred THGLab/IDPForge
+2026-11-04 19:26:23 | 🍴 konstde00 forked aqlaboratory/openfold-3
+2026-11-04 18:30:34 | 🐛 ntxxt opened issue in kiharalab/Distance-AF: 'Distance-AF for AF3'
+2026-11-04 17:46:32 | ⭐️ WinterWei22 starred biomed-AI/DeltaCata
+2026-11-04 17:09:47 | ⭐️ liusuyu4-a11y starred steineggerlab/foldseek
+2026-11-04 16:29:16 | 💬 jnwei created issue 'perf: Make the diffusion pair conditioning chunk size reachable' in aqlaboratory/openfold-3
+2026-11-04 16:28:13 | ⭐️ AlbertCui07 starred THGLab/IDPForge
+2026-11-04 14:25:01 | 🔀 lasseReifenrath opened PR in steineggerlab/foldseek-regression
+2026-11-04 13:57:45 | 🔀 lasseReifenrath opened PR in steineggerlab/foldseek
+2026-11-04 13:53:42 | 🍴 ONERAI forked idptools/finches
+2026-11-04 13:02:46 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [d9d711c] (expanded) fix(chat): route discovered tool calls through the checked broker
+2026-11-04 10:59:01 | 🔀 ethanholz merged PR in aqlaboratory/openfold-3
+2026-11-04 10:38:33 | 🔹 jnwei performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-11-04 10:10:22 | 🍴 GITflyer78 forked aqlaboratory/openfold
+2026-11-04 10:10:17 | ⭐️ GITflyer78 starred aqlaboratory/openfold
+2026-11-04 09:53:24 | ⭐️ FigEgoZnaet starred aqlaboratory/openfold
+2026-11-04 07:40:41 | ⭐️ MrEgorin starred AIDD-LiLab/SMARTBind
+2026-11-04 07:40:39 | 🍴 llmspace forked aqlaboratory/openfold
+2026-11-04 04:54:55 | 💬 mattmccormick created issue 'ci: claude-repro action (experimental)' in aqlaboratory/openfold-3
+2026-11-04 02:49:38 | 🍴 JunfengWu163 forked aqlaboratory/openfold
+2026-11-04 01:29:38 | 🔀 ethanholz opened PR in aqlaboratory/openfold-3
+2026-11-04 01:00:30 | ⭐️ JieYangPKU starred JingHuangLab/LipoPU
+2026-11-04 00:55:23 | 🔹 WillGPoole performed PullRequestReviewEvent on aqlaboratory/openfold-3
+2026-11-04 00:55:21 | 🔹 WillGPoole performed PullRequestReviewCommentEvent on aqlaboratory/openfold-3
+2026-11-04 00:53:58 | 🔀 WillGPoole opened PR in aqlaboratory/openfold-3
+2026-11-04 00:53:23 | ⭐️ IvanMartin111 starred Graylab/IgFold

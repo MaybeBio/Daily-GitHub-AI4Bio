@@ -1,0 +1,42 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-05 04:22:22 | ⭐️ jsunn-y starred Neon8988/multi_LigandDiff
+2026-11-05 03:58:46 | ⭐️ jsunn-y starred Neon8988/LigandDiff
+2026-11-05 02:42:22 | 💬 mingchen-li created issue 'Implement the first Binder design Workflow-to-Result View vertical slice' in mingchen-li/SmartFlow
+2026-11-05 02:27:26 | 💬 mingchen-li created issue 'Implement the first Binder design Workflow-to-Result View vertical slice' in mingchen-li/SmartFlow
+2026-11-05 02:18:57 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Project-scoped custom Node installation'
+2026-11-05 02:18:57 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Project-scoped custom Node installation'
+2026-11-05 02:18:54 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Production Binder Node replacement seam'
+2026-11-05 02:18:54 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Production Binder Node replacement seam'
+2026-11-05 02:18:52 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Slurm Compute Executor'
+2026-11-05 02:18:52 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Slurm Compute Executor'
+2026-11-05 02:18:48 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Deterministic Binder acceptance path'
+2026-11-05 02:18:48 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Deterministic Binder acceptance path'
+2026-11-05 02:18:46 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Cancellation, retry, and explicit rerun history'
+2026-11-05 02:18:46 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Cancellation, retry, and explicit rerun history'
+2026-11-05 02:18:43 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Browser-close and Server-restart reconciliation'
+2026-11-05 02:18:43 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Browser-close and Server-restart reconciliation'
+2026-11-05 02:18:40 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Result View IR and inspectable outputs'
+2026-11-05 02:18:40 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Result View IR and inspectable outputs'
+2026-11-05 02:18:38 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Deterministic Orchestrator and local Compute Executor'
+2026-11-05 02:18:38 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Deterministic Orchestrator and local Compute Executor'
+2026-11-05 02:18:35 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Workflow validation and immutable Run snapshots'
+2026-11-05 02:18:35 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Workflow validation and immutable Run snapshots'
+2026-11-05 02:18:33 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Autosaved Binder Workflow draft editor'
+2026-11-05 02:18:33 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Autosaved Binder Workflow draft editor'
+2026-11-05 02:18:29 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Authenticated terminal escape hatch'
+2026-11-05 02:18:28 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Authenticated terminal escape hatch'
+2026-11-05 02:18:26 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Path-backed Project files and File References'
+2026-11-05 02:18:25 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Path-backed Project files and File References'
+2026-11-05 02:18:23 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Project Server and authenticated Web workspace'
+2026-11-05 02:18:23 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Project Server and authenticated Web workspace'
+2026-11-05 01:40:01 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Implement the first Binder design Workflow-to-Result View vertical slice'
+2026-11-05 01:40:00 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Implement the first Binder design Workflow-to-Result View vertical slice'
+2026-11-04 19:53:33 | ⭐️ AspirinCode starred CatVinci-Studio/Textus
+2026-11-04 17:53:49 | ⭐️ QizhiPei starred dongguanting/ToolSpace
+2026-11-04 16:23:12 | 🆕 xtanh created branch 'main' at xtanh/BioFig-Studio
+2026-11-04 16:20:31 | 🐛 xtanh closed issue in xtanh/ProStab: 'when will *Protein stability prediction for multiple mutations and indels* become available?'
+2026-11-04 16:20:18 | 🐛 xtanh closed issue in xtanh/ProStab: 'Environment reproduction issues and dependency incompatibilities'
+2026-11-04 13:02:46 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [d9d711c] (expanded) fix(chat): route discovered tool calls through the checked broker
+2026-11-04 04:15:22 | ⭐️ Immortals-33 starred DunbrackLab/IPSAE2
