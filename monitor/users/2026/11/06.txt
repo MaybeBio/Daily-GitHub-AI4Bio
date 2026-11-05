@@ -1,0 +1,70 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-06 03:02:41 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [446eff5] (expanded) webgl: ESMFold2's confidence pair bias HURTS the fold, and the kernel that makes it was imported by its gate and never run
+2026-11-06 01:44:30 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [aea4890] (expanded) webgl: the same tile mapping on the projection is a 1.28x loss, and that says when it pays
+2026-11-06 01:21:33 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [1070b6e] (expanded) webgl: fetch1 is a whole texelFetch, and five attentions walked their head dimension with it
+2026-11-06 01:00:33 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [7b1bb06] (expanded) webgl: a pair row normalised once rather than once a head - bioemu2 in 40.1 s, and mediump measured as a no-op
+2026-11-06 00:40:14 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2ba04dc] (expanded) webgl: an arithmetic floor under the remaining gap, and the contraction's six null hypotheses
+2026-11-06 00:31:30 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [148bfb7] (expanded) webgl: the pair block had no size ceiling and was up to 4.8x the wrong kernel above one - 1.18x on a 128-token AF3 fold
+2026-11-05 23:32:18 | 🚀 tyang816 pushed to tyang816/Awesome-TCM-LLM
+    - [5781599] (expanded) Add TCM resources and source verification notes
+2026-11-05 23:28:10 | 🚀 alexholehouse pushed to holehouse-lab/supportingdata
+    - [d7cb48f] (expanded) Updated metapredict and removed old altson_2026 in prep for updated directory
+2026-11-05 20:39:14 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [f9e0cda] (expanded) Update README.md
+2026-11-05 20:27:40 | 🚀 jgreener64 pushed to JuliaMolSim/Molly.jl
+    - [9365dd2] (expanded) build based on f154921
+2026-11-05 20:14:34 | 🚀 AspirinCode pushed to AspirinCode/papers-for-molecular-design-using-DL
+    - [af5f293] (expanded) Update README.md
+2026-11-05 20:10:23 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [6e40973] (expanded) Update README.md
+2026-11-05 18:58:34 | 🚀 jgreener64 pushed to jgreener64/jgreener64.github.io
+    - [48a5948] (expanded) update deploy script
+2026-11-05 16:56:27 | 🔹 riacd performed DeleteEvent on riacd/INXplain
+2026-11-05 16:04:56 | ⭐️ ChrisAllenMing starred RosettaCommons/RFD4-Proteina
+2026-11-05 15:04:42 | ⭐️ AspirinCode starred jgassens/ChemDraft-NMR-Plugin
+2026-11-05 15:01:53 | ⭐️ AspirinCode starred jgassens/ChemDraft
+2026-11-05 14:59:52 | 🔹 xtanh performed PublicEvent on xtanh/PairEdit-PPI
+2026-11-05 14:08:10 | ⭐️ sirius777coder starred tsubo-lab/monoyield-predictor
+2026-11-05 11:42:14 | ⭐️ Immortals-33 starred tsubo-lab/monoyield-predictor
+2026-11-05 10:50:23 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Agent workspace interaction and validated patches'
+2026-11-05 10:50:23 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Agent workspace interaction and validated patches'
+2026-11-05 09:46:06 | 🔀 Leo-T-Zang opened PR in MarksLab-DasLab/RNAGym
+2026-11-05 05:01:49 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [281847d] (expanded) metal: fix a per-design O(n^2) leak in rfd4p's sampler, and add the one per-family timing this M5 allows
+2026-11-05 04:22:22 | ⭐️ jsunn-y starred Neon8988/multi_LigandDiff
+2026-11-05 03:58:46 | ⭐️ jsunn-y starred Neon8988/LigandDiff
+2026-11-05 02:42:22 | 💬 mingchen-li created issue 'Implement the first Binder design Workflow-to-Result View vertical slice' in mingchen-li/SmartFlow
+2026-11-05 02:27:26 | 💬 mingchen-li created issue 'Implement the first Binder design Workflow-to-Result View vertical slice' in mingchen-li/SmartFlow
+2026-11-05 02:18:57 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Project-scoped custom Node installation'
+2026-11-05 02:18:57 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Project-scoped custom Node installation'
+2026-11-05 02:18:54 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Production Binder Node replacement seam'
+2026-11-05 02:18:54 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Production Binder Node replacement seam'
+2026-11-05 02:18:52 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Slurm Compute Executor'
+2026-11-05 02:18:52 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Slurm Compute Executor'
+2026-11-05 02:18:48 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Deterministic Binder acceptance path'
+2026-11-05 02:18:48 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Deterministic Binder acceptance path'
+2026-11-05 02:18:46 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Cancellation, retry, and explicit rerun history'
+2026-11-05 02:18:46 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Cancellation, retry, and explicit rerun history'
+2026-11-05 02:18:43 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Browser-close and Server-restart reconciliation'
+2026-11-05 02:18:43 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Browser-close and Server-restart reconciliation'
+2026-11-05 02:18:40 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Result View IR and inspectable outputs'
+2026-11-05 02:18:40 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Result View IR and inspectable outputs'
+2026-11-05 02:18:38 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Deterministic Orchestrator and local Compute Executor'
+2026-11-05 02:18:38 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Deterministic Orchestrator and local Compute Executor'
+2026-11-05 02:18:35 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Workflow validation and immutable Run snapshots'
+2026-11-05 02:18:35 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Workflow validation and immutable Run snapshots'
+2026-11-05 02:18:33 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Autosaved Binder Workflow draft editor'
+2026-11-05 02:18:33 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Autosaved Binder Workflow draft editor'
+2026-11-05 02:18:29 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Authenticated terminal escape hatch'
+2026-11-05 02:18:28 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Authenticated terminal escape hatch'
+2026-11-05 02:18:26 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Path-backed Project files and File References'
+2026-11-05 02:18:25 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Path-backed Project files and File References'
+2026-11-05 02:18:23 | 🐛 mingchen-li labeled issue in mingchen-li/SmartFlow: 'Project Server and authenticated Web workspace'
+2026-11-05 02:18:23 | 🐛 mingchen-li opened issue in mingchen-li/SmartFlow: 'Project Server and authenticated Web workspace'
