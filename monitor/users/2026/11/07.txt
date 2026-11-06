@@ -1,0 +1,56 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-06 23:28:12 | ⭐️ Zuricho starred smiles724/ProteoCraft_v1
+2026-11-06 22:29:20 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a7cca4a] (expanded) cuda/grad: the training table on the RTX PRO 6000 Blackwell too, OpenBind-0's PyTorch beside train-of3
+2026-11-06 22:20:42 | ⭐️ jgreener64 starred vv137/mdir
+2026-11-06 21:01:10 | ⭐️ sirius777coder starred smiles724/ProteoCraft_v1
+2026-11-06 20:57:55 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [3ba1948] (expanded) Delete uniprot_sprot.fasta.gz
+2026-11-06 20:49:31 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [5dc06cd] (expanded) diagnose long protein failures
+2026-11-06 20:19:38 | ⭐️ Junjie-Zhu starred idptools/metapredict
+2026-11-06 20:17:56 | 🚀 Junjie-Zhu pushed to Junjie-Zhu/SurPass
+    - [17cf4f0] (expanded) update benchmark scripts
+2026-11-06 19:45:41 | ⭐️ meneshail starred tsubo-lab/monoyield-predictor
+2026-11-06 18:57:27 | 🚀 Immortals-33 pushed to blt2114/MotifBench
+    - [a1973ae] (expanded) Update results of RFD4-Proteina
+2026-11-06 17:37:30 | ⭐️ jgreener64 starred laurent22/joplin
+2026-11-06 17:20:09 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [c24f355] (expanded) WebGL2: AF3's residual adds, gate products and row copy on the shared elementwise program (84 programs, first slice 18)
+2026-11-06 17:07:35 | 🚀 SII-ShenggengLin pushed to SII-ShenggengLin/RNA_tertiary_stru_IF
+    - [b6ae345] (expanded) Add Zenodo packaging and upload automation
+2026-11-06 16:56:32 | 🚀 SII-ShenggengLin pushed to SII-ShenggengLin/RNA_tertiary_stru_IF
+    - [1a47b6c] (expanded) Release PACo-Aptamer code and reproducibility pipeline
+2026-11-06 15:38:04 | ⭐️ Junjie-Zhu starred pinder-org/pinder
+2026-11-06 12:17:50 | 🚀 mingchen-li pushed to mingchen-li/SmartFlow
+    - [73021f0] (expanded) chore: add project agent skills
+2026-11-06 08:35:50 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Implement the first Binder design Workflow-to-Result View vertical slice'
+2026-11-06 08:35:48 | 💬 mingchen-li created issue 'Implement the first Binder design Workflow-to-Result View vertical slice' in mingchen-li/SmartFlow
+2026-11-06 08:35:34 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Agent workspace interaction and validated patches'
+2026-11-06 08:35:32 | 💬 mingchen-li created issue 'Agent workspace interaction and validated patches' in mingchen-li/SmartFlow
+2026-11-06 08:35:30 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Project-scoped custom Node installation'
+2026-11-06 08:35:27 | 💬 mingchen-li created issue 'Project-scoped custom Node installation' in mingchen-li/SmartFlow
+2026-11-06 08:35:26 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Production Binder Node replacement seam'
+2026-11-06 08:35:23 | 💬 mingchen-li created issue 'Production Binder Node replacement seam' in mingchen-li/SmartFlow
+2026-11-06 08:35:21 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Slurm Compute Executor'
+2026-11-06 08:35:18 | 💬 mingchen-li created issue 'Slurm Compute Executor' in mingchen-li/SmartFlow
+2026-11-06 08:35:16 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Deterministic Binder acceptance path'
+2026-11-06 08:35:14 | 💬 mingchen-li created issue 'Deterministic Binder acceptance path' in mingchen-li/SmartFlow
+2026-11-06 08:35:12 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Cancellation, retry, and explicit rerun history'
+2026-11-06 08:35:09 | 💬 mingchen-li created issue 'Cancellation, retry, and explicit rerun history' in mingchen-li/SmartFlow
+2026-11-06 08:35:07 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Browser-close and Server-restart reconciliation'
+2026-11-06 08:35:05 | 💬 mingchen-li created issue 'Browser-close and Server-restart reconciliation' in mingchen-li/SmartFlow
+2026-11-06 08:35:03 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Result View IR and inspectable outputs'
+2026-11-06 08:35:00 | 💬 mingchen-li created issue 'Result View IR and inspectable outputs' in mingchen-li/SmartFlow
+2026-11-06 08:34:58 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Deterministic Orchestrator and local Compute Executor'
+2026-11-06 08:34:56 | 💬 mingchen-li created issue 'Deterministic Orchestrator and local Compute Executor' in mingchen-li/SmartFlow
+2026-11-06 08:34:54 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Workflow validation and immutable Run snapshots'
+2026-11-06 08:34:51 | 💬 mingchen-li created issue 'Workflow validation and immutable Run snapshots' in mingchen-li/SmartFlow
+2026-11-06 08:34:49 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Autosaved Binder Workflow draft editor'
+2026-11-06 08:34:46 | 💬 mingchen-li created issue 'Autosaved Binder Workflow draft editor' in mingchen-li/SmartFlow
+2026-11-06 08:34:44 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Authenticated terminal escape hatch'
+2026-11-06 08:34:42 | 💬 mingchen-li created issue 'Authenticated terminal escape hatch' in mingchen-li/SmartFlow
+2026-11-06 08:34:40 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Path-backed Project files and File References'
+2026-11-06 08:34:37 | 💬 mingchen-li created issue 'Path-backed Project files and File References' in mingchen-li/SmartFlow
+2026-11-06 08:34:35 | 🐛 mingchen-li closed issue in mingchen-li/SmartFlow: 'Project Server and authenticated Web workspace'
