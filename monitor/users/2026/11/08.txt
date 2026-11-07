@@ -1,0 +1,20 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-08 02:27:49 | ⭐️ jsunn-y starred GENTEL-lab/AlphaEnzyme
+2026-11-08 00:33:43 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [dac7cbe] (expanded) Entries open about twice as fast: polymer links checked against each atom's bonds, not every bond; the document built once
+2026-11-08 00:29:58 | 🚀 sokrypton pushed to sokrypton/atomworks-studio
+    - [fcdfeb5] (expanded) Web: highlights and atom selections as one pass over the atoms, not one Mol* query per residue or atom
+2026-11-07 21:01:15 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [9047c96] (expanded) cuda/grad: the rollout's steps after the first two one CUDA graph, captured once and replayed
+2026-11-07 19:40:04 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [57ee4d6] (expanded) Update README.md
+2026-11-07 18:22:14 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [82f8f50] (expanded) Update README.md
+2026-11-07 18:02:04 | ⭐️ prokia starred GENTEL-lab/AlphaEnzyme
+2026-11-07 16:04:42 | 🚀 SII-ShenggengLin pushed to SII-ShenggengLin/PACo-Aptamer
+    - [25390a1] (expanded) Point README clone URL at renamed PACo-Aptamer repository
+2026-11-07 15:54:09 | 🚀 AspirinCode pushed to AspirinCode/awesome-ChemicalSpectraAI
+    - [3addb94] (expanded) Update README.md
+2026-11-07 02:59:15 | 🚀 HannesStark pushed to HannesStark/hannes-stark
+    - [8a693e2] (expanded) Auto-generated commit 
