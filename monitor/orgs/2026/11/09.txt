@@ -1,0 +1,54 @@
+Fetching events for target(s): kiharalab, honig-lab, ai4protein, GENTEL-lab, steineggerlab, biomed-AI, BioComputingUP, ProteinDesignLab, sparks-lab-org, baker-laboratory, Graylab, isblab, THGLab, idptools, holehouse-lab, Pappulab, KULL-Centre, aqlaboratory, JingHuangLab, AIDD-LiLab...
+
+2026-11-09 02:52:09 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [284d4ce] (expanded) perf(models): share bounded discovery metadata snapshots
+2026-11-09 00:54:49 | 🔀 ranas-mukminov opened PR in ai4protein/ProtSSN
+2026-11-09 00:54:43 | 🍴 ranas-mukminov forked ai4protein/ProtSSN
+2026-11-09 00:34:53 | 🔀 dependabot labeled PR in ai4protein/VenusFactory2
+2026-11-09 00:34:53 | 🔀 dependabot labeled PR in ai4protein/VenusFactory2
+2026-11-09 00:34:53 | 🔀 dependabot opened PR in ai4protein/VenusFactory2
+2026-11-09 00:34:12 | 🔹 dependabot performed DeleteEvent on ai4protein/VenusFactory2
+2026-11-09 00:34:03 | 💬 dependabot created issue 'build(deps): bump the service-patches group across 2 directories with 14 updates' in ai4protein/VenusFactory2
+2026-11-09 00:29:41 | 🔀 dependabot closed PR in ai4protein/VenusFactory2
+2026-11-08 23:53:10 | ⭐️ luisgarcez37-alt starred Graylab/DL4Proteins-notebooks
+2026-11-08 23:14:25 | ⭐️ Ramtinhoss starred aqlaboratory/openfold
+2026-11-08 20:55:30 | 🚀 github-actions pushed to BioComputingUP/BioComp_resource_monitor
+    - [aaf436d] (expanded) monitor data 2026-11-08
+2026-11-08 20:52:07 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [d92923c] (expanded) fix(scientist): preserve rejected models and provide focused source diagnostics
+2026-11-08 20:40:41 | 🔀 dependabot labeled PR in ai4protein/VenusFactory2
+2026-11-08 20:40:41 | 🔀 dependabot labeled PR in ai4protein/VenusFactory2
+2026-11-08 20:40:41 | 🔀 dependabot opened PR in ai4protein/VenusFactory2
+2026-11-08 20:40:37 | 🔀 dependabot labeled PR in ai4protein/VenusFactory2
+2026-11-08 20:40:36 | 🆕 dependabot created branch 'dependabot/pip/requirements/soupsieve-4.0.1' at ai4protein/VenusFactory2
+2026-11-08 20:40:09 | 🆕 dependabot created branch 'dependabot/pip/requirements/requests-2.34.2' at ai4protein/VenusFactory2
+2026-11-08 20:36:21 | 🆕 dependabot created branch 'dependabot/pip/soupsieve-4.0.1' at ai4protein/VenusFactory2
+2026-11-08 20:36:17 | 🆕 dependabot created branch 'dependabot/pip/requests-2.34.2' at ai4protein/VenusFactory2
+2026-11-08 20:36:03 | 🆕 dependabot created branch 'dependabot/pip/huggingface-hub-2.4.0' at ai4protein/VenusFactory2
+2026-11-08 20:35:58 | 🆕 dependabot created branch 'dependabot/pip/service-patches-12c3c69c8e' at ai4protein/VenusFactory2
+2026-11-08 20:24:24 | 🆕 dependabot created branch 'dependabot/npm_and_yarn/frontend/vite-8.3.6' at ai4protein/VenusFactory2
+2026-11-08 20:24:09 | 🆕 dependabot created branch 'dependabot/npm_and_yarn/frontend/multi-b1658bdecd' at ai4protein/VenusFactory2
+2026-11-08 20:24:05 | 🆕 dependabot created branch 'dependabot/npm_and_yarn/frontend/typescript-7.0.2' at ai4protein/VenusFactory2
+2026-11-08 20:22:28 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [a3e5447] (expanded) ci(security): group dependency updates and retain audit evidence
+2026-11-08 20:04:52 | 🍴 luckylululu forked Graylab/ProtAff
+2026-11-08 19:20:32 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [ee9c9ca] (expanded) ci(harness): verify protocol boundaries in an isolated environment
+2026-11-08 18:08:20 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [02bca1d] (expanded) fix(scientist): resolve repaired writes and guide experiment lineage
+2026-11-08 16:51:02 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [bd553db] (expanded) fix(scientist): plan concrete methods and matched comparisons
+2026-11-08 16:15:30 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [f2700d4] (expanded) fix(scientist): preview table schemas before full-data analysis
+2026-11-08 15:11:15 | 🚀 jnwei pushed to aqlaboratory/openfold-3
+    - [969050c] (expanded) ci-monitoring: 2026-11-08 — 3/3 passed · 0 skipped · 0 queued · 0 need attention
+2026-11-08 14:35:28 | 🚀 github-actions pushed to BioComputingUP/BioComp_resource_monitor
+    - [c889d15] (expanded) monitor data 2026-11-08
+2026-11-08 14:07:28 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [64d7309] (expanded) fix(scientist): distinguish training tables from evaluation references
+2026-11-08 13:18:24 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [a2b2025] (expanded) feat(researcher): review source evidence and export research dossiers
+2026-11-08 10:48:11 | ⭐️ ChrisAllenMing starred GENTEL-lab/AlphaEnzyme
+2026-11-08 03:24:33 | 🚀 alexholehouse pushed to idptools/finches
+    - [22befaf] (expanded) Updates to structure surface for updated FINCHES webserver
+2026-11-08 02:27:49 | ⭐️ jsunn-y starred GENTEL-lab/AlphaEnzyme

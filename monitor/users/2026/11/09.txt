@@ -1,0 +1,56 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, mapleleaf6, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton, lmqfly...
+
+2026-11-09 02:52:09 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [284d4ce] (expanded) perf(models): share bounded discovery metadata snapshots
+2026-11-09 02:39:57 | 🔀 sokrypton merged PR in sokrypton/localfold
+2026-11-09 02:07:27 | 💬 sokrypton created issue 'The WebGPU page from opus-55-opt, without the native, Metal or design work' in sokrypton/localfold
+2026-11-08 21:54:26 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [5293fdc] (expanded) cpu/esmc: the reference's attention masks a complex chain by chain, as the WebGPU tower does
+2026-11-08 20:52:07 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [d92923c] (expanded) fix(scientist): preserve rejected models and provide focused source diagnostics
+2026-11-08 20:40:10 | 🚀 SII-ShenggengLin pushed to SII-ShenggengLin/RNADesignAgent
+    - [53c5389] (expanded) public release: minimal-release cleanup per user direction (2026-11-08)
+2026-11-08 20:37:25 | 🆕 SII-ShenggengLin created branch 'public-history-rewrite' at SII-ShenggengLin/RNADesignAgent
+2026-11-08 20:34:59 | 🚀 SII-ShenggengLin pushed to SII-ShenggengLin/RNADesignAgent
+    - [0a6ea91] (expanded) public release: drop four internal reference-material files accidentally swept into the carry-over commit (GerNA-Bind paper PDFs and extracted text under docs/; local copies kept, excluded locally)
+2026-11-08 20:28:13 | 🆕 SII-ShenggengLin created branch 'public-release-minimal' at SII-ShenggengLin/RNADesignAgent
+2026-11-08 20:25:17 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [711f0dd] (expanded) Update README.md
+2026-11-08 20:22:28 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [a3e5447] (expanded) ci(security): group dependency updates and retain audit evidence
+2026-11-08 19:20:32 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [ee9c9ca] (expanded) ci(harness): verify protocol boundaries in an isolated environment
+2026-11-08 18:08:20 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [02bca1d] (expanded) fix(scientist): resolve repaired writes and guide experiment lineage
+2026-11-08 17:32:50 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [60b7e40] (expanded) fix(harness): retain content-free response completion evidence
+2026-11-08 17:07:05 | ⭐️ AspirinCode starred treeverse/dvc
+2026-11-08 16:51:02 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [bd553db] (expanded) fix(scientist): plan concrete methods and matched comparisons
+2026-11-08 16:48:45 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [2050cdb] (expanded) Update README.md
+2026-11-08 16:15:30 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [f2700d4] (expanded) fix(scientist): preview table schemas before full-data analysis
+2026-11-08 15:50:00 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [83f31cd] (expanded) test: isolate simulated downloads and record security validation
+2026-11-08 15:08:30 | 🔹 zaixizhang performed DeleteEvent on zaixizhang/FoldMark
+2026-11-08 15:01:49 | 🚀 zaixizhang pushed to zaixizhang/FoldMark
+    - [91e2f66] (expanded) Evaluate presence-gated user tracing on measured decoder outputs
+2026-11-08 14:07:28 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [64d7309] (expanded) fix(scientist): distinguish training tables from evaluation references
+2026-11-08 13:19:08 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [a1208b9] (expanded) af2, ef2: a job's own alignments refused with the page's sentence, not dropped in silence
+2026-11-08 13:18:24 | 🚀 tyang816 pushed to ai4protein/VenusFactory2
+    - [a2b2025] (expanded) feat(researcher): review source evidence and export research dossiers
+2026-11-08 10:48:11 | ⭐️ ChrisAllenMing starred GENTEL-lab/AlphaEnzyme
+2026-11-08 03:24:33 | 🚀 alexholehouse pushed to idptools/finches
+    - [22befaf] (expanded) Updates to structure surface for updated FINCHES webserver
+2026-11-08 02:27:49 | ⭐️ jsunn-y starred GENTEL-lab/AlphaEnzyme
+2026-11-08 01:28:04 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [0f7b455] (expanded) Studio 92d3137: a loaded structure appears once, finished and centred
+2026-11-08 01:28:01 | 🚀 sokrypton pushed to sokrypton/atomworks-studio
+    - [92d3137] (expanded) Web: a loaded structure is shown once, finished and framed
+2026-11-08 00:16:52 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [7875a80] (expanded) Design and trajectory CIFs carry the input's links between residues (_struct_conn)
+2026-11-08 00:02:24 | 🚀 sokrypton pushed to sokrypton/rfd4-proteina-webgpu
+    - [442fe1f] (expanded) Design and trajectory CIFs carry their components' bonds, so a ligand's atoms are not joined by distance
