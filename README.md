@@ -1,5 +1,8 @@
 # Daily-GitHub-AI4Bio — Community Activity Archive
 
+> [!WARNING]
+> <mark>Effective November 18, 2026, this repository will no longer receive updates indefinitely.</mark>
+
 A living record of what's moving in the world where **structural biology meets machine learning** 
 
 ## About
